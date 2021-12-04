@@ -1,0 +1,1755 @@
+,Torneo,jornadaCompleta,jornadaNumero,fechaPartido,diaFechaPartido,mesFechaPartido,anoFechaPartido,equipoLocal,equipoLocalResultado,equipoVisitante,equipoVisitanteResultado,resultado
+0,Liga Profesional Argentina 2017,Jornada 1,1,30 Ago 16,30,Ago,16,Aldosivi,0,Colón,2,0-2
+1,Liga Profesional Argentina 2017,Jornada 1,1,28 Ago 16,28,Ago,16,River Plate,4,Banfield,1,4-1
+2,Liga Profesional Argentina 2017,Jornada 1,1,27 Ago 16,27,Ago,16,Racing Club,1,Talleres Córdoba,1,1-1
+3,Liga Profesional Argentina 2017,Jornada 1,1,28 Ago 16,28,Ago,16,San Lorenzo,2,San Martín San Juan,2,2-2
+4,Liga Profesional Argentina 2017,Jornada 1,1,27 Ago 16,27,Ago,16,Rosario Central,0,Defensa y Justicia,0,0-0
+5,Liga Profesional Argentina 2017,Jornada 1,1,27 Ago 16,27,Ago,16,Gimnasia La Plata,2,Vélez Sarsfield,0,2-0
+6,Liga Profesional Argentina 2017,Jornada 1,1,30 Ago 16,30,Ago,16,Temperley,1,Patronato,0,1-0
+7,Liga Profesional Argentina 2017,Jornada 1,1,28 Ago 16,28,Ago,16,Atl.Tucumán,1,Atletico Rafaela,0,1-0
+8,Liga Profesional Argentina 2017,Jornada 1,1,27 Ago 16,27,Ago,16,Sarmiento,1,Arsenal de Sarandí,0,1-0
+9,Liga Profesional Argentina 2017,Jornada 1,1,28 Ago 16,28,Ago,16,Tigre,0,Estudiantes La Plata,3,0-3
+10,Liga Profesional Argentina 2017,Jornada 1,1,28 Ago 16,28,Ago,16,Quilmes,0,Newell's Old Boys,1,0-1
+11,Liga Profesional Argentina 2017,Jornada 1,1,27 Ago 16,27,Ago,16,Godoy Cruz,1,CA Huracán,0,1-0
+12,Liga Profesional Argentina 2017,Jornada 1,1,28 Ago 16,28,Ago,16,Belgrano,0,Independiente,1,0-1
+13,Liga Profesional Argentina 2017,Jornada 1,1,29 Ago 16,29,Ago,16,Lanús,1,Boca Juniors,0,1-0
+14,Liga Profesional Argentina 2017,Jornada 1,1,28 Ago 16,28,Ago,16,Unión Santa Fe,1,Olimpo,0,1-0
+15,Liga Profesional Argentina 2017,Jornada 2,2,10 Sep 16,10,Sep,16,Unión Santa Fe,0,Aldosivi,0,0-0
+16,Liga Profesional Argentina 2017,Jornada 2,2,10 Sep 16,10,Sep,16,Olimpo,0,Lanús,0,0-0
+17,Liga Profesional Argentina 2017,Jornada 2,2,11 Sep 16,11,Sep,16,Boca Juniors,3,Belgrano,0,3-0
+18,Liga Profesional Argentina 2017,Jornada 2,2,11 Sep 16,11,Sep,16,Independiente,2,Godoy Cruz,0,2-0
+19,Liga Profesional Argentina 2017,Jornada 2,2,10 Sep 16,10,Sep,16,CA Huracán,1,Quilmes,1,1-1
+20,Liga Profesional Argentina 2017,Jornada 2,2,11 Sep 16,11,Sep,16,Newell's Old Boys,1,Tigre,0,1-0
+21,Liga Profesional Argentina 2017,Jornada 2,2,11 Sep 16,11,Sep,16,Estudiantes La Plata,1,Sarmiento,0,1-0
+22,Liga Profesional Argentina 2017,Jornada 2,2,13 Sep 16,13,Sep,16,Arsenal de Sarandí,1,Atl.Tucumán,3,1-3
+23,Liga Profesional Argentina 2017,Jornada 2,2,13 Sep 16,13,Sep,16,Atletico Rafaela,1,Temperley,0,1-0
+24,Liga Profesional Argentina 2017,Jornada 2,2,10 Sep 16,10,Sep,16,Patronato,0,Gimnasia La Plata,1,0-1
+25,Liga Profesional Argentina 2017,Jornada 2,2,11 Sep 16,11,Sep,16,Vélez Sarsfield,2,Rosario Central,0,2-0
+26,Liga Profesional Argentina 2017,Jornada 2,2,10 Sep 16,10,Sep,16,Defensa y Justicia,0,San Lorenzo,2,0-2
+27,Liga Profesional Argentina 2017,Jornada 2,2,10 Sep 16,10,Sep,16,San Martín San Juan,0,Racing Club,2,0-2
+28,Liga Profesional Argentina 2017,Jornada 2,2,12 Sep 16,12,Sep,16,Talleres Córdoba,0,River Plate,1,0-1
+29,Liga Profesional Argentina 2017,Jornada 2,2,10 Sep 16,10,Sep,16,Banfield,0,Colón,0,0-0
+30,Liga Profesional Argentina 2017,Jornada 3,3,17 Sep 16,17,Sep,16,Aldosivi,1,Banfield,3,1-3
+31,Liga Profesional Argentina 2017,Jornada 3,3,17 Sep 16,17,Sep,16,Colón,1,Talleres Córdoba,0,1-0
+32,Liga Profesional Argentina 2017,Jornada 3,3,18 Sep 16,18,Sep,16,River Plate,1,San Martín San Juan,1,1-1
+33,Liga Profesional Argentina 2017,Jornada 3,3,19 Sep 16,19,Sep,16,Racing Club,1,Defensa y Justicia,1,1-1
+34,Liga Profesional Argentina 2017,Jornada 3,3,17 Sep 16,17,Sep,16,San Lorenzo,2,Vélez Sarsfield,1,2-1
+35,Liga Profesional Argentina 2017,Jornada 3,3,17 Sep 16,17,Sep,16,Rosario Central,2,Patronato,1,2-1
+36,Liga Profesional Argentina 2017,Jornada 3,3,20 Sep 16,20,Sep,16,Gimnasia La Plata,0,Atletico Rafaela,1,0-1
+37,Liga Profesional Argentina 2017,Jornada 3,3,18 Sep 16,18,Sep,16,Temperley,1,Arsenal de Sarandí,1,1-1
+38,Liga Profesional Argentina 2017,Jornada 3,3,18 Sep 16,18,Sep,16,Atl.Tucumán,0,Estudiantes La Plata,2,0-2
+39,Liga Profesional Argentina 2017,Jornada 3,3,18 Sep 16,18,Sep,16,Sarmiento,1,Newell's Old Boys,1,1-1
+40,Liga Profesional Argentina 2017,Jornada 3,3,20 Sep 16,20,Sep,16,Tigre,1,CA Huracán,1,1-1
+41,Liga Profesional Argentina 2017,Jornada 3,3,17 Sep 16,17,Sep,16,Quilmes,1,Independiente,1,1-1
+42,Liga Profesional Argentina 2017,Jornada 3,3,18 Sep 16,18,Sep,16,Godoy Cruz,1,Boca Juniors,1,1-1
+43,Liga Profesional Argentina 2017,Jornada 3,3,18 Sep 16,18,Sep,16,Belgrano,0,Olimpo,0,0-0
+44,Liga Profesional Argentina 2017,Jornada 3,3,17 Sep 16,17,Sep,16,Lanús,0,Unión Santa Fe,1,0-1
+45,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,Lanús,0,Aldosivi,0,0-0
+46,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,Unión Santa Fe,0,Belgrano,2,0-2
+47,Liga Profesional Argentina 2017,Jornada 4,4,24 Sep 16,24,Sep,16,Olimpo,3,Godoy Cruz,0,3-0
+48,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,Boca Juniors,4,Quilmes,1,4-1
+49,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,Independiente,1,Tigre,1,1-1
+50,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,CA Huracán,0,Sarmiento,0,0-0
+51,Liga Profesional Argentina 2017,Jornada 4,4,24 Sep 16,24,Sep,16,Newell's Old Boys,3,Atl.Tucumán,1,3-1
+52,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,Estudiantes La Plata,3,Temperley,0,3-0
+53,Liga Profesional Argentina 2017,Jornada 4,4,27 Sep 16,27,Sep,16,Arsenal de Sarandí,2,Gimnasia La Plata,2,2-2
+54,Liga Profesional Argentina 2017,Jornada 4,4,24 Sep 16,24,Sep,16,Atletico Rafaela,0,Rosario Central,0,0-0
+55,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,Patronato,1,San Lorenzo,1,1-1
+56,Liga Profesional Argentina 2017,Jornada 4,4,24 Sep 16,24,Sep,16,Vélez Sarsfield,0,Racing Club,3,0-3
+57,Liga Profesional Argentina 2017,Jornada 4,4,26 Sep 16,26,Sep,16,Defensa y Justicia,3,River Plate,3,3-3
+58,Liga Profesional Argentina 2017,Jornada 4,4,27 Sep 16,27,Sep,16,San Martín San Juan,0,Colón,0,0-0
+59,Liga Profesional Argentina 2017,Jornada 4,4,25 Sep 16,25,Sep,16,Talleres Córdoba,0,Banfield,0,0-0
+60,Liga Profesional Argentina 2017,Jornada 5,5,01 Oct 16,01,Oct,16,Aldosivi,2,Talleres Córdoba,1,2-1
+61,Liga Profesional Argentina 2017,Jornada 5,5,02 Oct 16,02,Oct,16,Banfield,3,San Martín San Juan,2,3-2
+62,Liga Profesional Argentina 2017,Jornada 5,5,02 Oct 16,02,Oct,16,Colón,1,Defensa y Justicia,0,1-0
+63,Liga Profesional Argentina 2017,Jornada 5,5,02 Oct 16,02,Oct,16,River Plate,3,Vélez Sarsfield,0,3-0
+64,Liga Profesional Argentina 2017,Jornada 5,5,01 Oct 16,01,Oct,16,Racing Club,2,Patronato,0,2-0
+65,Liga Profesional Argentina 2017,Jornada 5,5,02 Oct 16,02,Oct,16,San Lorenzo,2,Atletico Rafaela,1,2-1
+66,Liga Profesional Argentina 2017,Jornada 5,5,01 Oct 16,01,Oct,16,Rosario Central,5,Arsenal de Sarandí,0,5-0
+67,Liga Profesional Argentina 2017,Jornada 5,5,02 Oct 16,02,Oct,16,Gimnasia La Plata,0,Estudiantes La Plata,0,0-0
+68,Liga Profesional Argentina 2017,Jornada 5,5,01 Oct 16,01,Oct,16,Temperley,0,Newell's Old Boys,0,0-0
+69,Liga Profesional Argentina 2017,Jornada 5,5,04 Oct 16,04,Oct,16,Atl.Tucumán,0,CA Huracán,2,0-2
+70,Liga Profesional Argentina 2017,Jornada 5,5,02 Oct 16,02,Oct,16,Sarmiento,0,Independiente,1,0-1
+71,Liga Profesional Argentina 2017,Jornada 5,5,03 Oct 16,03,Oct,16,Tigre,1,Boca Juniors,1,1-1
+72,Liga Profesional Argentina 2017,Jornada 5,5,01 Oct 16,01,Oct,16,Quilmes,2,Olimpo,1,2-1
+73,Liga Profesional Argentina 2017,Jornada 5,5,01 Oct 16,01,Oct,16,Godoy Cruz,2,Unión Santa Fe,1,2-1
+74,Liga Profesional Argentina 2017,Jornada 5,5,02 Oct 16,02,Oct,16,Belgrano,1,Lanús,1,1-1
+75,Liga Profesional Argentina 2017,Jornada 6,6,15 Oct 16,15,Oct,16,Belgrano,0,Aldosivi,0,0-0
+76,Liga Profesional Argentina 2017,Jornada 6,6,16 Oct 16,16,Oct,16,Lanús,3,Godoy Cruz,0,3-0
+77,Liga Profesional Argentina 2017,Jornada 6,6,18 Oct 16,18,Oct,16,Unión Santa Fe,1,Quilmes,1,1-1
+78,Liga Profesional Argentina 2017,Jornada 6,6,16 Oct 16,16,Oct,16,Olimpo,1,Tigre,4,1-4
+79,Liga Profesional Argentina 2017,Jornada 6,6,16 Oct 16,16,Oct,16,Boca Juniors,2,Sarmiento,0,2-0
+80,Liga Profesional Argentina 2017,Jornada 6,6,16 Oct 16,16,Oct,16,Independiente,0,Atl.Tucumán,2,0-2
+81,Liga Profesional Argentina 2017,Jornada 6,6,15 Oct 16,15,Oct,16,CA Huracán,1,Temperley,2,1-2
+82,Liga Profesional Argentina 2017,Jornada 6,6,16 Oct 16,16,Oct,16,Newell's Old Boys,1,Gimnasia La Plata,0,1-0
+83,Liga Profesional Argentina 2017,Jornada 6,6,15 Oct 16,15,Oct,16,Estudiantes La Plata,3,Rosario Central,2,3-2
+84,Liga Profesional Argentina 2017,Jornada 6,6,16 Oct 16,16,Oct,16,Arsenal de Sarandí,1,San Lorenzo,3,1-3
+85,Liga Profesional Argentina 2017,Jornada 6,6,15 Oct 16,15,Oct,16,Atletico Rafaela,3,Racing Club,2,3-2
+86,Liga Profesional Argentina 2017,Jornada 6,6,17 Oct 16,17,Oct,16,Patronato,2,River Plate,1,2-1
+87,Liga Profesional Argentina 2017,Jornada 6,6,15 Oct 16,15,Oct,16,Vélez Sarsfield,2,Colón,1,2-1
+88,Liga Profesional Argentina 2017,Jornada 6,6,15 Oct 16,15,Oct,16,Defensa y Justicia,1,Banfield,0,1-0
+89,Liga Profesional Argentina 2017,Jornada 6,6,15 Oct 16,15,Oct,16,San Martín San Juan,1,Talleres Córdoba,3,1-3
+90,Liga Profesional Argentina 2017,Jornada 7,7,25 Oct 16,25,Oct,16,Aldosivi,1,San Martín San Juan,2,1-2
+91,Liga Profesional Argentina 2017,Jornada 7,7,22 Oct 16,22,Oct,16,Talleres Córdoba,2,Defensa y Justicia,0,2-0
+92,Liga Profesional Argentina 2017,Jornada 7,7,23 Oct 16,23,Oct,16,Banfield,1,Vélez Sarsfield,0,1-0
+93,Liga Profesional Argentina 2017,Jornada 7,7,22 Oct 16,22,Oct,16,Colón,0,Patronato,1,0-1
+94,Liga Profesional Argentina 2017,Jornada 7,7,23 Oct 16,23,Oct,16,River Plate,1,Atletico Rafaela,0,1-0
+95,Liga Profesional Argentina 2017,Jornada 7,7,22 Oct 16,22,Oct,16,Racing Club,1,Arsenal de Sarandí,0,1-0
+96,Liga Profesional Argentina 2017,Jornada 7,7,23 Oct 16,23,Oct,16,San Lorenzo,1,Estudiantes La Plata,2,1-2
+97,Liga Profesional Argentina 2017,Jornada 7,7,23 Oct 16,23,Oct,16,Rosario Central,0,Newell's Old Boys,1,0-1
+98,Liga Profesional Argentina 2017,Jornada 7,7,23 Oct 16,23,Oct,16,Gimnasia La Plata,1,CA Huracán,0,1-0
+99,Liga Profesional Argentina 2017,Jornada 7,7,22 Oct 16,22,Oct,16,Temperley,0,Independiente,1,0-1
+100,Liga Profesional Argentina 2017,Jornada 7,7,24 Oct 16,24,Oct,16,Atl.Tucumán,2,Boca Juniors,2,2-2
+101,Liga Profesional Argentina 2017,Jornada 7,7,22 Oct 16,22,Oct,16,Sarmiento,1,Olimpo,1,1-1
+102,Liga Profesional Argentina 2017,Jornada 7,7,23 Oct 16,23,Oct,16,Tigre,3,Unión Santa Fe,1,3-1
+103,Liga Profesional Argentina 2017,Jornada 7,7,22 Oct 16,22,Oct,16,Quilmes,1,Lanús,0,1-0
+104,Liga Profesional Argentina 2017,Jornada 7,7,22 Oct 16,22,Oct,16,Godoy Cruz,2,Belgrano,0,2-0
+105,Liga Profesional Argentina 2017,Jornada 8,8,30 Oct 16,30,Oct,16,Godoy Cruz,3,Aldosivi,1,3-1
+106,Liga Profesional Argentina 2017,Jornada 8,8,29 Oct 16,29,Oct,16,Belgrano,0,Quilmes,0,0-0
+107,Liga Profesional Argentina 2017,Jornada 8,8,30 Oct 16,30,Oct,16,Lanús,1,Tigre,1,1-1
+108,Liga Profesional Argentina 2017,Jornada 8,8,01 Nov 16,01,Nov,16,Unión Santa Fe,1,Sarmiento,0,1-0
+109,Liga Profesional Argentina 2017,Jornada 8,8,29 Oct 16,29,Oct,16,Olimpo,2,Atl.Tucumán,1,2-1
+110,Liga Profesional Argentina 2017,Jornada 8,8,29 Oct 16,29,Oct,16,Boca Juniors,4,Temperley,0,4-0
+111,Liga Profesional Argentina 2017,Jornada 8,8,29 Oct 16,29,Oct,16,Independiente,0,Gimnasia La Plata,0,0-0
+112,Liga Profesional Argentina 2017,Jornada 8,8,29 Oct 16,29,Oct,16,CA Huracán,1,Rosario Central,1,1-1
+113,Liga Profesional Argentina 2017,Jornada 8,8,30 Oct 16,30,Oct,16,Newell's Old Boys,2,San Lorenzo,2,2-2
+114,Liga Profesional Argentina 2017,Jornada 8,8,30 Oct 16,30,Oct,16,Estudiantes La Plata,2,Racing Club,1,2-1
+115,Liga Profesional Argentina 2017,Jornada 8,8,31 Oct 16,31,Oct,16,Arsenal de Sarandí,2,River Plate,2,2-2
+116,Liga Profesional Argentina 2017,Jornada 8,8,30 Oct 16,30,Oct,16,Atletico Rafaela,0,Colón,2,0-2
+117,Liga Profesional Argentina 2017,Jornada 8,8,29 Oct 16,29,Oct,16,Patronato,2,Banfield,0,2-0
+118,Liga Profesional Argentina 2017,Jornada 8,8,29 Oct 16,29,Oct,16,Vélez Sarsfield,0,Talleres Córdoba,2,0-2
+119,Liga Profesional Argentina 2017,Jornada 8,8,31 Oct 16,31,Oct,16,Defensa y Justicia,0,San Martín San Juan,0,0-0
+120,Liga Profesional Argentina 2017,Jornada 9,9,07 Nov 16,07,Nov,16,Aldosivi,0,Defensa y Justicia,0,0-0
+121,Liga Profesional Argentina 2017,Jornada 9,9,05 Nov 16,05,Nov,16,San Martín San Juan,2,Vélez Sarsfield,0,2-0
+122,Liga Profesional Argentina 2017,Jornada 9,9,06 Nov 16,06,Nov,16,Talleres Córdoba,1,Patronato,0,1-0
+123,Liga Profesional Argentina 2017,Jornada 9,9,06 Nov 16,06,Nov,16,Banfield,1,Atletico Rafaela,1,1-1
+124,Liga Profesional Argentina 2017,Jornada 9,9,05 Nov 16,05,Nov,16,Colón,1,Arsenal de Sarandí,0,1-0
+125,Liga Profesional Argentina 2017,Jornada 9,9,05 Nov 16,05,Nov,16,River Plate,1,Estudiantes La Plata,1,1-1
+126,Liga Profesional Argentina 2017,Jornada 9,9,05 Nov 16,05,Nov,16,Racing Club,2,Newell's Old Boys,1,2-1
+127,Liga Profesional Argentina 2017,Jornada 9,9,06 Nov 16,06,Nov,16,San Lorenzo,2,CA Huracán,0,2-0
+128,Liga Profesional Argentina 2017,Jornada 9,9,06 Nov 16,06,Nov,16,Rosario Central,0,Independiente,0,0-0
+129,Liga Profesional Argentina 2017,Jornada 9,9,07 Nov 16,07,Nov,16,Gimnasia La Plata,0,Boca Juniors,3,0-3
+130,Liga Profesional Argentina 2017,Jornada 9,9,05 Nov 16,05,Nov,16,Temperley,0,Olimpo,0,0-0
+131,Liga Profesional Argentina 2017,Jornada 9,9,09 Nov 16,09,Nov,16,Atl.Tucumán,1,Unión Santa Fe,1,1-1
+132,Liga Profesional Argentina 2017,Jornada 9,9,05 Nov 16,05,Nov,16,Sarmiento,1,Lanús,2,1-2
+133,Liga Profesional Argentina 2017,Jornada 9,9,06 Nov 16,06,Nov,16,Tigre,2,Belgrano,1,2-1
+134,Liga Profesional Argentina 2017,Jornada 9,9,05 Nov 16,05,Nov,16,Quilmes,1,Godoy Cruz,0,1-0
+135,Liga Profesional Argentina 2017,Jornada 10,10,20 Nov 16,20,Nov,16,Quilmes,1,Aldosivi,0,1-0
+136,Liga Profesional Argentina 2017,Jornada 10,10,19 Nov 16,19,Nov,16,Godoy Cruz,2,Tigre,1,2-1
+137,Liga Profesional Argentina 2017,Jornada 10,10,20 Nov 16,20,Nov,16,Belgrano,1,Sarmiento,2,1-2
+138,Liga Profesional Argentina 2017,Jornada 10,10,19 Nov 16,19,Nov,16,Lanús,1,Atl.Tucumán,0,1-0
+139,Liga Profesional Argentina 2017,Jornada 10,10,19 Nov 16,19,Nov,16,Unión Santa Fe,2,Temperley,1,2-1
+140,Liga Profesional Argentina 2017,Jornada 10,10,21 Nov 16,21,Nov,16,Olimpo,0,Gimnasia La Plata,0,0-0
+141,Liga Profesional Argentina 2017,Jornada 10,10,20 Nov 16,20,Nov,16,Boca Juniors,1,Rosario Central,1,1-1
+142,Liga Profesional Argentina 2017,Jornada 10,10,20 Nov 16,20,Nov,16,Independiente,1,San Lorenzo,2,1-2
+143,Liga Profesional Argentina 2017,Jornada 10,10,20 Nov 16,20,Nov,16,CA Huracán,1,Racing Club,1,1-1
+144,Liga Profesional Argentina 2017,Jornada 10,10,21 Nov 16,21,Nov,16,Newell's Old Boys,1,River Plate,0,1-0
+145,Liga Profesional Argentina 2017,Jornada 10,10,19 Nov 16,19,Nov,16,Estudiantes La Plata,1,Colón,0,1-0
+146,Liga Profesional Argentina 2017,Jornada 10,10,19 Nov 16,19,Nov,16,Arsenal de Sarandí,1,Banfield,3,1-3
+147,Liga Profesional Argentina 2017,Jornada 10,10,20 Nov 16,20,Nov,16,Atletico Rafaela,0,Talleres Córdoba,1,0-1
+148,Liga Profesional Argentina 2017,Jornada 10,10,22 Nov 16,22,Nov,16,Patronato,3,San Martín San Juan,0,3-0
+149,Liga Profesional Argentina 2017,Jornada 10,10,13 Nov 16,13,Nov,16,Vélez Sarsfield,2,Defensa y Justicia,1,2-1
+150,Liga Profesional Argentina 2017,Jornada 11,11,27 Nov 16,27,Nov,16,Aldosivi,0,Vélez Sarsfield,0,0-0
+151,Liga Profesional Argentina 2017,Jornada 11,11,28 Nov 16,28,Nov,16,Defensa y Justicia,1,Patronato,2,1-2
+152,Liga Profesional Argentina 2017,Jornada 11,11,29 Nov 16,29,Nov,16,San Martín San Juan,0,Atletico Rafaela,3,0-3
+153,Liga Profesional Argentina 2017,Jornada 11,11,26 Nov 16,26,Nov,16,Talleres Córdoba,0,Arsenal de Sarandí,0,0-0
+154,Liga Profesional Argentina 2017,Jornada 11,11,26 Nov 16,26,Nov,16,Banfield,3,Estudiantes La Plata,2,3-2
+155,Liga Profesional Argentina 2017,Jornada 11,11,26 Nov 16,26,Nov,16,Colón,1,Newell's Old Boys,2,1-2
+156,Liga Profesional Argentina 2017,Jornada 11,11,27 Nov 16,27,Nov,16,River Plate,1,CA Huracán,0,1-0
+157,Liga Profesional Argentina 2017,Jornada 11,11,28 Nov 16,28,Nov,16,Racing Club,3,Independiente,0,3-0
+158,Liga Profesional Argentina 2017,Jornada 11,11,27 Nov 16,27,Nov,16,San Lorenzo,1,Boca Juniors,2,1-2
+159,Liga Profesional Argentina 2017,Jornada 11,11,27 Nov 16,27,Nov,16,Rosario Central,1,Olimpo,1,1-1
+160,Liga Profesional Argentina 2017,Jornada 11,11,28 Nov 16,28,Nov,16,Gimnasia La Plata,1,Unión Santa Fe,1,1-1
+161,Liga Profesional Argentina 2017,Jornada 11,11,25 Nov 16,25,Nov,16,Temperley,1,Lanús,3,1-3
+162,Liga Profesional Argentina 2017,Jornada 11,11,27 Nov 16,27,Nov,16,Atl.Tucumán,0,Belgrano,0,0-0
+163,Liga Profesional Argentina 2017,Jornada 11,11,27 Nov 16,27,Nov,16,Sarmiento,2,Godoy Cruz,2,2-2
+164,Liga Profesional Argentina 2017,Jornada 11,11,26 Nov 16,26,Nov,16,Tigre,3,Quilmes,0,3-0
+165,Liga Profesional Argentina 2017,Jornada 12,12,03 Dic 16,03,Dic,16,Tigre,1,Aldosivi,1,1-1
+166,Liga Profesional Argentina 2017,Jornada 12,12,03 Dic 16,03,Dic,16,Quilmes,1,Sarmiento,3,1-3
+167,Liga Profesional Argentina 2017,Jornada 12,12,04 Dic 16,04,Dic,16,Godoy Cruz,1,Atl.Tucumán,2,1-2
+168,Liga Profesional Argentina 2017,Jornada 12,12,04 Dic 16,04,Dic,16,Belgrano,0,Temperley,0,0-0
+169,Liga Profesional Argentina 2017,Jornada 12,12,06 Dic 16,06,Dic,16,Lanús,1,Gimnasia La Plata,0,1-0
+170,Liga Profesional Argentina 2017,Jornada 12,12,04 Dic 16,04,Dic,16,Unión Santa Fe,2,Rosario Central,0,2-0
+171,Liga Profesional Argentina 2017,Jornada 12,12,04 Dic 16,04,Dic,16,Olimpo,1,San Lorenzo,2,1-2
+172,Liga Profesional Argentina 2017,Jornada 12,12,04 Dic 16,04,Dic,16,Boca Juniors,4,Racing Club,2,4-2
+173,Liga Profesional Argentina 2017,Jornada 12,12,05 Dic 16,05,Dic,16,Independiente,1,River Plate,0,1-0
+174,Liga Profesional Argentina 2017,Jornada 12,12,03 Dic 16,03,Dic,16,CA Huracán,1,Colón,3,1-3
+175,Liga Profesional Argentina 2017,Jornada 12,12,03 Dic 16,03,Dic,16,Newell's Old Boys,0,Banfield,2,0-2
+176,Liga Profesional Argentina 2017,Jornada 12,12,04 Dic 16,04,Dic,16,Estudiantes La Plata,0,Talleres Córdoba,0,0-0
+177,Liga Profesional Argentina 2017,Jornada 12,12,05 Dic 16,05,Dic,16,Arsenal de Sarandí,0,San Martín San Juan,0,0-0
+178,Liga Profesional Argentina 2017,Jornada 12,12,03 Dic 16,03,Dic,16,Atletico Rafaela,0,Defensa y Justicia,1,0-1
+179,Liga Profesional Argentina 2017,Jornada 12,12,04 Dic 16,04,Dic,16,Patronato,0,Vélez Sarsfield,0,0-0
+180,Liga Profesional Argentina 2017,Jornada 13,13,09 Dic 16,09,Dic,16,Aldosivi,1,Patronato,1,1-1
+181,Liga Profesional Argentina 2017,Jornada 13,13,10 Dic 16,10,Dic,16,Vélez Sarsfield,2,Atletico Rafaela,0,2-0
+182,Liga Profesional Argentina 2017,Jornada 13,13,13 Dic 16,13,Dic,16,Defensa y Justicia,2,Arsenal de Sarandí,0,2-0
+183,Liga Profesional Argentina 2017,Jornada 13,13,11 Dic 16,11,Dic,16,San Martín San Juan,3,Estudiantes La Plata,2,3-2
+184,Liga Profesional Argentina 2017,Jornada 13,13,10 Dic 16,10,Dic,16,Talleres Córdoba,1,Newell's Old Boys,1,1-1
+185,Liga Profesional Argentina 2017,Jornada 13,13,11 Dic 16,11,Dic,16,Banfield,1,CA Huracán,0,1-0
+186,Liga Profesional Argentina 2017,Jornada 13,13,11 Dic 16,11,Dic,16,Colón,0,Independiente,2,0-2
+187,Liga Profesional Argentina 2017,Jornada 13,13,11 Dic 16,11,Dic,16,River Plate,2,Boca Juniors,4,2-4
+188,Liga Profesional Argentina 2017,Jornada 13,13,11 Dic 16,11,Dic,16,Racing Club,0,Olimpo,2,0-2
+189,Liga Profesional Argentina 2017,Jornada 13,13,10 Dic 16,10,Dic,16,San Lorenzo,3,Unión Santa Fe,2,3-2
+190,Liga Profesional Argentina 2017,Jornada 13,13,12 Dic 16,12,Dic,16,Rosario Central,1,Lanús,2,1-2
+191,Liga Profesional Argentina 2017,Jornada 13,13,10 Dic 16,10,Dic,16,Gimnasia La Plata,1,Belgrano,1,1-1
+192,Liga Profesional Argentina 2017,Jornada 13,13,10 Dic 16,10,Dic,16,Temperley,1,Godoy Cruz,0,1-0
+193,Liga Profesional Argentina 2017,Jornada 13,13,12 Dic 16,12,Dic,16,Atl.Tucumán,3,Quilmes,0,3-0
+194,Liga Profesional Argentina 2017,Jornada 13,13,09 Dic 16,09,Dic,16,Sarmiento,2,Tigre,0,2-0
+195,Liga Profesional Argentina 2017,Jornada 14,14,17 Dic 16,17,Dic,16,Sarmiento,0,Aldosivi,2,0-2
+196,Liga Profesional Argentina 2017,Jornada 14,14,20 Dic 16,20,Dic,16,Tigre,0,Atl.Tucumán,0,0-0
+197,Liga Profesional Argentina 2017,Jornada 14,14,19 Dic 16,19,Dic,16,Quilmes,1,Temperley,0,1-0
+198,Liga Profesional Argentina 2017,Jornada 14,14,17 Dic 16,17,Dic,16,Godoy Cruz,0,Gimnasia La Plata,3,0-3
+199,Liga Profesional Argentina 2017,Jornada 14,14,18 Dic 16,18,Dic,16,Belgrano,0,Rosario Central,2,0-2
+200,Liga Profesional Argentina 2017,Jornada 14,14,18 Dic 16,18,Dic,16,Lanús,2,San Lorenzo,2,2-2
+201,Liga Profesional Argentina 2017,Jornada 14,14,17 Dic 16,17,Dic,16,Unión Santa Fe,1,Racing Club,0,1-0
+202,Liga Profesional Argentina 2017,Jornada 14,14,19 Dic 16,19,Dic,16,Olimpo,1,River Plate,2,1-2
+203,Liga Profesional Argentina 2017,Jornada 14,14,18 Dic 16,18,Dic,16,Boca Juniors,4,Colón,1,4-1
+204,Liga Profesional Argentina 2017,Jornada 14,14,18 Dic 16,18,Dic,16,Independiente,0,Banfield,1,0-1
+205,Liga Profesional Argentina 2017,Jornada 14,14,16 Dic 16,16,Dic,16,CA Huracán,1,Talleres Córdoba,0,1-0
+206,Liga Profesional Argentina 2017,Jornada 14,14,18 Dic 16,18,Dic,16,Newell's Old Boys,6,San Martín San Juan,1,6-1
+207,Liga Profesional Argentina 2017,Jornada 14,14,17 Dic 16,17,Dic,16,Estudiantes La Plata,1,Defensa y Justicia,2,1-2
+208,Liga Profesional Argentina 2017,Jornada 14,14,18 Dic 16,18,Dic,16,Arsenal de Sarandí,2,Vélez Sarsfield,1,2-1
+209,Liga Profesional Argentina 2017,Jornada 14,14,17 Dic 16,17,Dic,16,Atletico Rafaela,3,Patronato,0,3-0
+210,Liga Profesional Argentina 2017,Jornada 15,15,13 Mar 17,13,Mar,17,Aldosivi,1,Atletico Rafaela,0,1-0
+211,Liga Profesional Argentina 2017,Jornada 15,15,11 Mar 17,11,Mar,17,Patronato,4,Arsenal de Sarandí,2,4-2
+212,Liga Profesional Argentina 2017,Jornada 15,15,10 Mar 17,10,Mar,17,Vélez Sarsfield,3,Estudiantes La Plata,2,3-2
+213,Liga Profesional Argentina 2017,Jornada 15,15,11 Mar 17,11,Mar,17,Defensa y Justicia,1,Newell's Old Boys,0,1-0
+214,Liga Profesional Argentina 2017,Jornada 15,15,12 Mar 17,12,Mar,17,San Martín San Juan,0,CA Huracán,1,0-1
+215,Liga Profesional Argentina 2017,Jornada 15,15,20 Abr 17,20,Abr,17,Talleres Córdoba,0,Independiente,2,0-2
+216,Liga Profesional Argentina 2017,Jornada 15,15,11 Mar 17,11,Mar,17,Banfield,0,Boca Juniors,2,0-2
+217,Liga Profesional Argentina 2017,Jornada 15,15,14 Mar 17,14,Mar,17,Colón,1,Olimpo,1,1-1
+218,Liga Profesional Argentina 2017,Jornada 15,15,12 Mar 17,12,Mar,17,River Plate,0,Unión Santa Fe,0,0-0
+219,Liga Profesional Argentina 2017,Jornada 15,15,12 Mar 17,12,Mar,17,Racing Club,3,Lanús,0,3-0
+220,Liga Profesional Argentina 2017,Jornada 15,15,11 Mar 17,11,Mar,17,San Lorenzo,2,Belgrano,1,2-1
+221,Liga Profesional Argentina 2017,Jornada 15,15,12 Mar 17,12,Mar,17,Rosario Central,0,Godoy Cruz,1,0-1
+222,Liga Profesional Argentina 2017,Jornada 15,15,12 Mar 17,12,Mar,17,Gimnasia La Plata,3,Quilmes,1,3-1
+223,Liga Profesional Argentina 2017,Jornada 15,15,12 Mar 17,12,Mar,17,Temperley,3,Tigre,1,3-1
+224,Liga Profesional Argentina 2017,Jornada 15,15,13 Mar 17,13,Mar,17,Atl.Tucumán,2,Sarmiento,1,2-1
+225,Liga Profesional Argentina 2017,Jornada 16,16,21 Mar 17,21,Mar,17,Atl.Tucumán,0,Aldosivi,0,0-0
+226,Liga Profesional Argentina 2017,Jornada 16,16,19 Mar 17,19,Mar,17,Sarmiento,2,Temperley,1,2-1
+227,Liga Profesional Argentina 2017,Jornada 16,16,18 Mar 17,18,Mar,17,Tigre,0,Gimnasia La Plata,1,0-1
+228,Liga Profesional Argentina 2017,Jornada 16,16,18 Mar 17,18,Mar,17,Quilmes,0,Rosario Central,1,0-1
+229,Liga Profesional Argentina 2017,Jornada 16,16,19 Mar 17,19,Mar,17,Godoy Cruz,2,San Lorenzo,0,2-0
+230,Liga Profesional Argentina 2017,Jornada 16,16,19 Mar 17,19,Mar,17,Belgrano,2,Racing Club,0,2-0
+231,Liga Profesional Argentina 2017,Jornada 16,16,22 Mar 17,22,Mar,17,Lanús,1,River Plate,3,1-3
+232,Liga Profesional Argentina 2017,Jornada 16,16,18 Mar 17,18,Mar,17,Unión Santa Fe,0,Colón,2,0-2
+233,Liga Profesional Argentina 2017,Jornada 16,16,19 Mar 17,19,Mar,17,Olimpo,1,Banfield,0,1-0
+234,Liga Profesional Argentina 2017,Jornada 16,16,19 Mar 17,19,Mar,17,Boca Juniors,1,Talleres Córdoba,2,1-2
+235,Liga Profesional Argentina 2017,Jornada 16,16,18 Mar 17,18,Mar,17,Independiente,0,San Martín San Juan,0,0-0
+236,Liga Profesional Argentina 2017,Jornada 16,16,19 Mar 17,19,Mar,17,CA Huracán,2,Defensa y Justicia,0,2-0
+237,Liga Profesional Argentina 2017,Jornada 16,16,18 Mar 17,18,Mar,17,Newell's Old Boys,3,Vélez Sarsfield,0,3-0
+238,Liga Profesional Argentina 2017,Jornada 16,16,19 Mar 17,19,Mar,17,Estudiantes La Plata,1,Patronato,0,1-0
+239,Liga Profesional Argentina 2017,Jornada 16,16,20 Mar 17,20,Mar,17,Arsenal de Sarandí,1,Atletico Rafaela,2,1-2
+240,Liga Profesional Argentina 2017,Jornada 17,17,27 Mar 17,27,Mar,17,Aldosivi,2,Arsenal de Sarandí,1,2-1
+241,Liga Profesional Argentina 2017,Jornada 17,17,26 Mar 17,26,Mar,17,Atletico Rafaela,2,Estudiantes La Plata,2,2-2
+242,Liga Profesional Argentina 2017,Jornada 17,17,25 Mar 17,25,Mar,17,Patronato,1,Newell's Old Boys,1,1-1
+243,Liga Profesional Argentina 2017,Jornada 17,17,28 Mar 17,28,Mar,17,Vélez Sarsfield,1,CA Huracán,1,1-1
+244,Liga Profesional Argentina 2017,Jornada 17,17,16 Jun 17,16,Jun,17,Defensa y Justicia,1,Independiente,2,1-2
+245,Liga Profesional Argentina 2017,Jornada 17,17,26 Mar 17,26,Mar,17,San Martín San Juan,1,Boca Juniors,2,1-2
+246,Liga Profesional Argentina 2017,Jornada 17,17,28 Mar 17,28,Mar,17,Talleres Córdoba,1,Olimpo,0,1-0
+247,Liga Profesional Argentina 2017,Jornada 17,17,25 Mar 17,25,Mar,17,Banfield,3,Unión Santa Fe,1,3-1
+248,Liga Profesional Argentina 2017,Jornada 17,17,26 Mar 17,26,Mar,17,Colón,1,Lanús,0,1-0
+249,Liga Profesional Argentina 2017,Jornada 17,17,26 Mar 17,26,Mar,17,River Plate,2,Belgrano,1,2-1
+250,Liga Profesional Argentina 2017,Jornada 17,17,26 Mar 17,26,Mar,17,Racing Club,2,Godoy Cruz,1,2-1
+251,Liga Profesional Argentina 2017,Jornada 17,17,25 Mar 17,25,Mar,17,San Lorenzo,3,Quilmes,0,3-0
+252,Liga Profesional Argentina 2017,Jornada 17,17,25 Mar 17,25,Mar,17,Rosario Central,1,Tigre,0,1-0
+253,Liga Profesional Argentina 2017,Jornada 17,17,25 Mar 17,25,Mar,17,Gimnasia La Plata,1,Sarmiento,0,1-0
+254,Liga Profesional Argentina 2017,Jornada 17,17,26 Mar 17,26,Mar,17,Temperley,2,Atl.Tucumán,2,2-2
+255,Liga Profesional Argentina 2017,Jornada 18,18,01 Abr 17,01,Abr,17,Temperley,1,Aldosivi,0,1-0
+256,Liga Profesional Argentina 2017,Jornada 18,18,01 Abr 17,01,Abr,17,Atl.Tucumán,0,Gimnasia La Plata,1,0-1
+257,Liga Profesional Argentina 2017,Jornada 18,18,02 Abr 17,02,Abr,17,Sarmiento,2,Rosario Central,2,2-2
+258,Liga Profesional Argentina 2017,Jornada 18,18,02 Abr 17,02,Abr,17,Tigre,4,San Lorenzo,3,4-3
+259,Liga Profesional Argentina 2017,Jornada 18,18,01 Abr 17,01,Abr,17,Quilmes,2,Racing Club,3,2-3
+260,Liga Profesional Argentina 2017,Jornada 18,18,03 Abr 17,03,Abr,17,Godoy Cruz,1,River Plate,2,1-2
+261,Liga Profesional Argentina 2017,Jornada 18,18,02 Abr 17,02,Abr,17,Belgrano,0,Colón,1,0-1
+262,Liga Profesional Argentina 2017,Jornada 18,18,02 Abr 17,02,Abr,17,Lanús,4,Banfield,2,4-2
+263,Liga Profesional Argentina 2017,Jornada 18,18,04 Abr 17,04,Abr,17,Unión Santa Fe,4,Talleres Córdoba,2,4-2
+264,Liga Profesional Argentina 2017,Jornada 18,18,04 Abr 17,04,Abr,17,Olimpo,0,San Martín San Juan,0,0-0
+265,Liga Profesional Argentina 2017,Jornada 18,18,02 Abr 17,02,Abr,17,Boca Juniors,1,Defensa y Justicia,0,1-0
+266,Liga Profesional Argentina 2017,Jornada 18,18,01 Abr 17,01,Abr,17,Independiente,1,Vélez Sarsfield,1,1-1
+267,Liga Profesional Argentina 2017,Jornada 18,18,03 Abr 17,03,Abr,17,CA Huracán,0,Patronato,0,0-0
+268,Liga Profesional Argentina 2017,Jornada 18,18,01 Abr 17,01,Abr,17,Newell's Old Boys,1,Atletico Rafaela,0,1-0
+269,Liga Profesional Argentina 2017,Jornada 18,18,02 Abr 17,02,Abr,17,Estudiantes La Plata,2,Arsenal de Sarandí,0,2-0
+270,Liga Profesional Argentina 2017,Jornada 19,19,08 Abr 17,08,Abr,17,Aldosivi,1,Estudiantes La Plata,4,1-4
+271,Liga Profesional Argentina 2017,Jornada 19,19,08 Abr 17,08,Abr,17,Arsenal de Sarandí,0,Newell's Old Boys,1,0-1
+272,Liga Profesional Argentina 2017,Jornada 19,19,08 Abr 17,08,Abr,17,Atletico Rafaela,1,CA Huracán,1,1-1
+273,Liga Profesional Argentina 2017,Jornada 19,19,09 Abr 17,09,Abr,17,Patronato,0,Independiente,5,0-5
+274,Liga Profesional Argentina 2017,Jornada 19,19,10 Abr 17,10,Abr,17,Vélez Sarsfield,1,Boca Juniors,3,1-3
+275,Liga Profesional Argentina 2017,Jornada 19,19,11 Abr 17,11,Abr,17,Defensa y Justicia,1,Olimpo,1,1-1
+276,Liga Profesional Argentina 2017,Jornada 19,19,09 Abr 17,09,Abr,17,San Martín San Juan,0,Unión Santa Fe,0,0-0
+277,Liga Profesional Argentina 2017,Jornada 19,19,09 Abr 17,09,Abr,17,Talleres Córdoba,3,Lanús,1,3-1
+278,Liga Profesional Argentina 2017,Jornada 19,19,09 Abr 17,09,Abr,17,Banfield,2,Belgrano,0,2-0
+279,Liga Profesional Argentina 2017,Jornada 19,19,08 Abr 17,08,Abr,17,Colón,1,Godoy Cruz,0,1-0
+280,Liga Profesional Argentina 2017,Jornada 19,19,09 Abr 17,09,Abr,17,River Plate,2,Quilmes,0,2-0
+281,Liga Profesional Argentina 2017,Jornada 19,19,20 Abr 17,20,Abr,17,Racing Club,4,Tigre,1,4-1
+282,Liga Profesional Argentina 2017,Jornada 19,19,08 Abr 17,08,Abr,17,San Lorenzo,1,Sarmiento,0,1-0
+283,Liga Profesional Argentina 2017,Jornada 19,19,08 Abr 17,08,Abr,17,Rosario Central,2,Atl.Tucumán,1,2-1
+284,Liga Profesional Argentina 2017,Jornada 19,19,11 Abr 17,11,Abr,17,Gimnasia La Plata,1,Temperley,1,1-1
+285,Liga Profesional Argentina 2017,Jornada 20,20,18 Abr 17,18,Abr,17,Gimnasia La Plata,1,Aldosivi,0,1-0
+286,Liga Profesional Argentina 2017,Jornada 20,20,18 Abr 17,18,Abr,17,Temperley,1,Rosario Central,2,1-2
+287,Liga Profesional Argentina 2017,Jornada 20,20,16 Abr 17,16,Abr,17,Atl.Tucumán,1,San Lorenzo,0,1-0
+288,Liga Profesional Argentina 2017,Jornada 20,20,16 Abr 17,16,Abr,17,Sarmiento,1,Racing Club,2,1-2
+289,Liga Profesional Argentina 2017,Jornada 20,20,17 Abr 17,17,Abr,17,Tigre,0,River Plate,2,0-2
+290,Liga Profesional Argentina 2017,Jornada 20,20,16 Abr 17,16,Abr,17,Quilmes,0,Colón,1,0-1
+291,Liga Profesional Argentina 2017,Jornada 20,20,16 Abr 17,16,Abr,17,Godoy Cruz,3,Banfield,1,3-1
+292,Liga Profesional Argentina 2017,Jornada 20,20,15 Abr 17,15,Abr,17,Belgrano,1,Talleres Córdoba,1,1-1
+293,Liga Profesional Argentina 2017,Jornada 20,20,15 Abr 17,15,Abr,17,Lanús,0,San Martín San Juan,0,0-0
+294,Liga Profesional Argentina 2017,Jornada 20,20,17 Abr 17,17,Abr,17,Unión Santa Fe,0,Defensa y Justicia,2,0-2
+295,Liga Profesional Argentina 2017,Jornada 20,20,16 Abr 17,16,Abr,17,Olimpo,0,Vélez Sarsfield,1,0-1
+296,Liga Profesional Argentina 2017,Jornada 20,20,16 Abr 17,16,Abr,17,Boca Juniors,1,Patronato,1,1-1
+297,Liga Profesional Argentina 2017,Jornada 20,20,15 Abr 17,15,Abr,17,Independiente,1,Atletico Rafaela,1,1-1
+298,Liga Profesional Argentina 2017,Jornada 20,20,15 Abr 17,15,Abr,17,CA Huracán,1,Arsenal de Sarandí,2,1-2
+299,Liga Profesional Argentina 2017,Jornada 20,20,15 Abr 17,15,Abr,17,Newell's Old Boys,0,Estudiantes La Plata,0,0-0
+300,Liga Profesional Argentina 2017,Jornada 21,21,22 Abr 17,22,Abr,17,Aldosivi,0,Newell's Old Boys,3,0-3
+301,Liga Profesional Argentina 2017,Jornada 21,21,23 Abr 17,23,Abr,17,Estudiantes La Plata,1,CA Huracán,1,1-1
+302,Liga Profesional Argentina 2017,Jornada 21,21,24 Abr 17,24,Abr,17,Arsenal de Sarandí,0,Independiente,2,0-2
+303,Liga Profesional Argentina 2017,Jornada 21,21,23 Abr 17,23,Abr,17,Atletico Rafaela,0,Boca Juniors,0,0-0
+304,Liga Profesional Argentina 2017,Jornada 21,21,25 Abr 17,25,Abr,17,Patronato,3,Olimpo,4,3-4
+305,Liga Profesional Argentina 2017,Jornada 21,21,22 Abr 17,22,Abr,17,Vélez Sarsfield,2,Unión Santa Fe,1,2-1
+306,Liga Profesional Argentina 2017,Jornada 21,21,22 Abr 17,22,Abr,17,Defensa y Justicia,1,Lanús,0,1-0
+307,Liga Profesional Argentina 2017,Jornada 21,21,23 Abr 17,23,Abr,17,San Martín San Juan,2,Belgrano,1,2-1
+308,Liga Profesional Argentina 2017,Jornada 21,21,24 Abr 17,24,Abr,17,Talleres Córdoba,1,Godoy Cruz,0,1-0
+309,Liga Profesional Argentina 2017,Jornada 21,21,22 Abr 17,22,Abr,17,Banfield,2,Quilmes,0,2-0
+310,Liga Profesional Argentina 2017,Jornada 21,21,25 Abr 17,25,Abr,17,Colón,2,Tigre,1,2-1
+311,Liga Profesional Argentina 2017,Jornada 21,21,23 Abr 17,23,Abr,17,River Plate,1,Sarmiento,1,1-1
+312,Liga Profesional Argentina 2017,Jornada 21,21,22 Abr 17,22,Abr,17,Racing Club,4,Atl.Tucumán,3,4-3
+313,Liga Profesional Argentina 2017,Jornada 21,21,22 Abr 17,22,Abr,17,San Lorenzo,0,Temperley,1,0-1
+314,Liga Profesional Argentina 2017,Jornada 21,21,23 Abr 17,23,Abr,17,Rosario Central,2,Gimnasia La Plata,1,2-1
+315,Liga Profesional Argentina 2017,Jornada 22,22,30 Abr 17,30,Abr,17,Rosario Central,2,Aldosivi,0,2-0
+316,Liga Profesional Argentina 2017,Jornada 22,22,29 Abr 17,29,Abr,17,Gimnasia La Plata,0,San Lorenzo,1,0-1
+317,Liga Profesional Argentina 2017,Jornada 22,22,30 Abr 17,30,Abr,17,Temperley,3,Racing Club,0,3-0
+318,Liga Profesional Argentina 2017,Jornada 22,22,01 Jun 17,01,Jun,17,Atl.Tucumán,0,River Plate,3,0-3
+319,Liga Profesional Argentina 2017,Jornada 22,22,29 Abr 17,29,Abr,17,Sarmiento,0,Colón,4,0-4
+320,Liga Profesional Argentina 2017,Jornada 22,22,29 Abr 17,29,Abr,17,Tigre,0,Banfield,1,0-1
+321,Liga Profesional Argentina 2017,Jornada 22,22,29 Abr 17,29,Abr,17,Quilmes,1,Talleres Córdoba,0,1-0
+322,Liga Profesional Argentina 2017,Jornada 22,22,30 Abr 17,30,Abr,17,Godoy Cruz,0,San Martín San Juan,0,0-0
+323,Liga Profesional Argentina 2017,Jornada 22,22,02 May 17,02,May,17,Belgrano,0,Defensa y Justicia,1,0-1
+324,Liga Profesional Argentina 2017,Jornada 22,22,03 May 17,03,May,17,Lanús,2,Vélez Sarsfield,0,2-0
+325,Liga Profesional Argentina 2017,Jornada 22,22,30 Abr 17,30,Abr,17,Unión Santa Fe,0,Patronato,0,0-0
+326,Liga Profesional Argentina 2017,Jornada 22,22,01 May 17,01,May,17,Olimpo,1,Atletico Rafaela,2,1-2
+327,Liga Profesional Argentina 2017,Jornada 22,22,01 May 17,01,May,17,Boca Juniors,3,Arsenal de Sarandí,0,3-0
+328,Liga Profesional Argentina 2017,Jornada 22,22,29 Abr 17,29,Abr,17,Independiente,2,Estudiantes La Plata,2,2-2
+329,Liga Profesional Argentina 2017,Jornada 22,22,29 Abr 17,29,Abr,17,CA Huracán,0,Newell's Old Boys,1,0-1
+330,Liga Profesional Argentina 2017,Jornada 23,23,07 May 17,07,May,17,Aldosivi,0,CA Huracán,3,0-3
+331,Liga Profesional Argentina 2017,Jornada 23,23,08 May 17,08,May,17,Newell's Old Boys,2,Independiente,4,2-4
+332,Liga Profesional Argentina 2017,Jornada 23,23,07 May 17,07,May,17,Estudiantes La Plata,0,Boca Juniors,0,0-0
+333,Liga Profesional Argentina 2017,Jornada 23,23,01 Jun 17,01,Jun,17,Arsenal de Sarandí,1,Olimpo,0,1-0
+334,Liga Profesional Argentina 2017,Jornada 23,23,07 May 17,07,May,17,Atletico Rafaela,3,Unión Santa Fe,0,3-0
+335,Liga Profesional Argentina 2017,Jornada 23,23,06 May 17,06,May,17,Patronato,0,Lanús,2,0-2
+336,Liga Profesional Argentina 2017,Jornada 23,23,09 May 17,09,May,17,Vélez Sarsfield,1,Belgrano,2,1-2
+337,Liga Profesional Argentina 2017,Jornada 23,23,07 May 17,07,May,17,Defensa y Justicia,0,Godoy Cruz,0,0-0
+338,Liga Profesional Argentina 2017,Jornada 23,23,06 May 17,06,May,17,San Martín San Juan,1,Quilmes,0,1-0
+339,Liga Profesional Argentina 2017,Jornada 23,23,06 May 17,06,May,17,Talleres Córdoba,1,Tigre,2,1-2
+340,Liga Profesional Argentina 2017,Jornada 23,23,09 May 17,09,May,17,Banfield,2,Sarmiento,0,2-0
+341,Liga Profesional Argentina 2017,Jornada 23,23,08 May 17,08,May,17,Colón,2,Atl.Tucumán,2,2-2
+342,Liga Profesional Argentina 2017,Jornada 23,23,07 May 17,07,May,17,River Plate,4,Temperley,1,4-1
+343,Liga Profesional Argentina 2017,Jornada 23,23,06 May 17,06,May,17,Racing Club,1,Gimnasia La Plata,0,1-0
+344,Liga Profesional Argentina 2017,Jornada 23,23,07 May 17,07,May,17,San Lorenzo,2,Rosario Central,1,2-1
+345,Liga Profesional Argentina 2017,Jornada 24,24,13 May 17,13,May,17,Atletico Rafaela,1,Atl.Tucumán,0,1-0
+346,Liga Profesional Argentina 2017,Jornada 24,24,16 May 17,16,May,17,Arsenal de Sarandí,2,Temperley,0,2-0
+347,Liga Profesional Argentina 2017,Jornada 24,24,13 May 17,13,May,17,Estudiantes La Plata,1,Gimnasia La Plata,0,1-0
+348,Liga Profesional Argentina 2017,Jornada 24,24,14 May 17,14,May,17,Newell's Old Boys,1,Rosario Central,3,1-3
+349,Liga Profesional Argentina 2017,Jornada 24,24,13 May 17,13,May,17,CA Huracán,0,San Lorenzo,1,0-1
+350,Liga Profesional Argentina 2017,Jornada 24,24,15 May 17,15,May,17,Independiente,2,Racing Club,0,2-0
+351,Liga Profesional Argentina 2017,Jornada 24,24,14 May 17,14,May,17,Boca Juniors,1,River Plate,3,1-3
+352,Liga Profesional Argentina 2017,Jornada 24,24,14 May 17,14,May,17,Colón,1,Unión Santa Fe,1,1-1
+353,Liga Profesional Argentina 2017,Jornada 24,24,13 May 17,13,May,17,Banfield,1,Lanús,0,1-0
+354,Liga Profesional Argentina 2017,Jornada 24,24,13 May 17,13,May,17,Talleres Córdoba,1,Belgrano,1,1-1
+355,Liga Profesional Argentina 2017,Jornada 24,24,13 May 17,13,May,17,San Martín San Juan,1,Godoy Cruz,2,1-2
+356,Liga Profesional Argentina 2017,Jornada 24,24,16 May 17,16,May,17,Defensa y Justicia,2,Quilmes,0,2-0
+357,Liga Profesional Argentina 2017,Jornada 24,24,16 May 17,16,May,17,Vélez Sarsfield,2,Tigre,1,2-1
+358,Liga Profesional Argentina 2017,Jornada 24,24,15 May 17,15,May,17,Patronato,2,Sarmiento,2,2-2
+359,Liga Profesional Argentina 2017,Jornada 24,24,14 May 17,14,May,17,Olimpo,2,Aldosivi,0,2-0
+360,Liga Profesional Argentina 2017,Jornada 25,25,21 May 17,21,May,17,San Lorenzo,0,Aldosivi,1,0-1
+361,Liga Profesional Argentina 2017,Jornada 25,25,22 May 17,22,May,17,Rosario Central,4,Racing Club,1,4-1
+362,Liga Profesional Argentina 2017,Jornada 25,25,23 May 17,23,May,17,Gimnasia La Plata,0,River Plate,3,0-3
+363,Liga Profesional Argentina 2017,Jornada 25,25,21 May 17,21,May,17,Temperley,3,Colón,0,3-0
+364,Liga Profesional Argentina 2017,Jornada 25,25,20 May 17,20,May,17,Atl.Tucumán,3,Banfield,0,3-0
+365,Liga Profesional Argentina 2017,Jornada 25,25,20 May 17,20,May,17,Sarmiento,1,Talleres Córdoba,4,1-4
+366,Liga Profesional Argentina 2017,Jornada 25,25,21 May 17,21,May,17,Tigre,1,San Martín San Juan,1,1-1
+367,Liga Profesional Argentina 2017,Jornada 25,25,22 May 17,22,May,17,Quilmes,0,Defensa y Justicia,2,0-2
+368,Liga Profesional Argentina 2017,Jornada 25,25,21 May 17,21,May,17,Godoy Cruz,3,Vélez Sarsfield,0,3-0
+369,Liga Profesional Argentina 2017,Jornada 25,25,20 May 17,20,May,17,Belgrano,1,Patronato,1,1-1
+370,Liga Profesional Argentina 2017,Jornada 25,25,20 May 17,20,May,17,Lanús,2,Atletico Rafaela,0,2-0
+371,Liga Profesional Argentina 2017,Jornada 25,25,21 May 17,21,May,17,Unión Santa Fe,0,Arsenal de Sarandí,1,0-1
+372,Liga Profesional Argentina 2017,Jornada 25,25,23 May 17,23,May,17,Olimpo,3,Estudiantes La Plata,1,3-1
+373,Liga Profesional Argentina 2017,Jornada 25,25,20 May 17,20,May,17,Boca Juniors,1,Newell's Old Boys,0,1-0
+374,Liga Profesional Argentina 2017,Jornada 25,25,21 May 17,21,May,17,Independiente,2,CA Huracán,1,2-1
+375,Liga Profesional Argentina 2017,Jornada 26,26,27 May 17,27,May,17,Aldosivi,0,Independiente,0,0-0
+376,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,CA Huracán,1,Boca Juniors,1,1-1
+377,Liga Profesional Argentina 2017,Jornada 26,26,27 May 17,27,May,17,Newell's Old Boys,3,Olimpo,2,3-2
+378,Liga Profesional Argentina 2017,Jornada 26,26,30 May 17,30,May,17,Estudiantes La Plata,2,Unión Santa Fe,0,2-0
+379,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,Arsenal de Sarandí,0,Lanús,2,0-2
+380,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,Atletico Rafaela,1,Belgrano,2,1-2
+381,Liga Profesional Argentina 2017,Jornada 26,26,29 May 17,29,May,17,Patronato,0,Godoy Cruz,3,0-3
+382,Liga Profesional Argentina 2017,Jornada 26,26,30 May 17,30,May,17,Vélez Sarsfield,0,Quilmes,0,0-0
+383,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,Defensa y Justicia,1,Tigre,0,1-0
+384,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,San Martín San Juan,4,Sarmiento,2,4-2
+385,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,Talleres Córdoba,2,Atl.Tucumán,1,2-1
+386,Liga Profesional Argentina 2017,Jornada 26,26,27 May 17,27,May,17,Banfield,3,Temperley,1,3-1
+387,Liga Profesional Argentina 2017,Jornada 26,26,27 May 17,27,May,17,Colón,1,Gimnasia La Plata,2,1-2
+388,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,River Plate,0,Rosario Central,0,0-0
+389,Liga Profesional Argentina 2017,Jornada 26,26,28 May 17,28,May,17,Racing Club,2,San Lorenzo,1,2-1
+390,Liga Profesional Argentina 2017,Jornada 27,27,06 Jun 17,06,Jun,17,Racing Club,1,Aldosivi,1,1-1
+391,Liga Profesional Argentina 2017,Jornada 27,27,04 Jun 17,04,Jun,17,San Lorenzo,2,River Plate,1,2-1
+392,Liga Profesional Argentina 2017,Jornada 27,27,03 Jun 17,03,Jun,17,Rosario Central,0,Colón,0,0-0
+393,Liga Profesional Argentina 2017,Jornada 27,27,04 Jun 17,04,Jun,17,Gimnasia La Plata,1,Banfield,2,1-2
+394,Liga Profesional Argentina 2017,Jornada 27,27,03 Jun 17,03,Jun,17,Temperley,2,Talleres Córdoba,1,2-1
+395,Liga Profesional Argentina 2017,Jornada 27,27,04 Jun 17,04,Jun,17,Atl.Tucumán,1,San Martín San Juan,2,1-2
+396,Liga Profesional Argentina 2017,Jornada 27,27,03 Jun 17,03,Jun,17,Sarmiento,1,Defensa y Justicia,0,1-0
+397,Liga Profesional Argentina 2017,Jornada 27,27,03 Jun 17,03,Jun,17,Tigre,0,Vélez Sarsfield,3,0-3
+398,Liga Profesional Argentina 2017,Jornada 27,27,06 Jun 17,06,Jun,17,Quilmes,0,Patronato,1,0-1
+399,Liga Profesional Argentina 2017,Jornada 27,27,03 Jun 17,03,Jun,17,Godoy Cruz,0,Atletico Rafaela,2,0-2
+400,Liga Profesional Argentina 2017,Jornada 27,27,04 Jun 17,04,Jun,17,Belgrano,1,Arsenal de Sarandí,2,1-2
+401,Liga Profesional Argentina 2017,Jornada 27,27,04 Jun 17,04,Jun,17,Lanús,1,Estudiantes La Plata,0,1-0
+402,Liga Profesional Argentina 2017,Jornada 27,27,04 Jun 17,04,Jun,17,Unión Santa Fe,2,Newell's Old Boys,1,2-1
+403,Liga Profesional Argentina 2017,Jornada 27,27,04 Jun 17,04,Jun,17,Olimpo,3,CA Huracán,1,3-1
+404,Liga Profesional Argentina 2017,Jornada 27,27,05 Jun 17,05,Jun,17,Boca Juniors,3,Independiente,0,3-0
+405,Liga Profesional Argentina 2017,Jornada 28,28,17 Jun 17,17,Jun,17,Aldosivi,0,Boca Juniors,4,0-4
+406,Liga Profesional Argentina 2017,Jornada 28,28,18 Jun 17,18,Jun,17,Independiente,1,Olimpo,1,1-1
+407,Liga Profesional Argentina 2017,Jornada 28,28,17 Jun 17,17,Jun,17,CA Huracán,1,Unión Santa Fe,0,1-0
+408,Liga Profesional Argentina 2017,Jornada 28,28,18 Jun 17,18,Jun,17,Newell's Old Boys,1,Lanús,1,1-1
+409,Liga Profesional Argentina 2017,Jornada 28,28,17 Jun 17,17,Jun,17,Estudiantes La Plata,2,Belgrano,0,2-0
+410,Liga Profesional Argentina 2017,Jornada 28,28,17 Jun 17,17,Jun,17,Arsenal de Sarandí,1,Godoy Cruz,2,1-2
+411,Liga Profesional Argentina 2017,Jornada 28,28,17 Jun 17,17,Jun,17,Atletico Rafaela,1,Quilmes,1,1-1
+412,Liga Profesional Argentina 2017,Jornada 28,28,18 Jun 17,18,Jun,17,Patronato,0,Tigre,2,0-2
+413,Liga Profesional Argentina 2017,Jornada 28,28,18 Jun 17,18,Jun,17,Vélez Sarsfield,5,Sarmiento,1,5-1
+414,Liga Profesional Argentina 2017,Jornada 28,28,18 Jun 17,18,Jun,17,Defensa y Justicia,3,Atl.Tucumán,0,3-0
+415,Liga Profesional Argentina 2017,Jornada 28,28,16 Jun 17,16,Jun,17,San Martín San Juan,0,Temperley,1,0-1
+416,Liga Profesional Argentina 2017,Jornada 28,28,17 Jun 17,17,Jun,17,Talleres Córdoba,0,Gimnasia La Plata,1,0-1
+417,Liga Profesional Argentina 2017,Jornada 28,28,17 Jun 17,17,Jun,17,Banfield,3,Rosario Central,1,3-1
+418,Liga Profesional Argentina 2017,Jornada 28,28,16 Jun 17,16,Jun,17,Colón,2,San Lorenzo,1,2-1
+419,Liga Profesional Argentina 2017,Jornada 28,28,18 Jun 17,18,Jun,17,River Plate,2,Racing Club,3,2-3
+420,Liga Profesional Argentina 2017,Jornada 29,29,22 Jun 17,22,Jun,17,River Plate,1,Aldosivi,0,1-0
+421,Liga Profesional Argentina 2017,Jornada 29,29,22 Jun 17,22,Jun,17,Racing Club,1,Colón,0,1-0
+422,Liga Profesional Argentina 2017,Jornada 29,29,20 Jun 17,20,Jun,17,San Lorenzo,1,Banfield,0,1-0
+423,Liga Profesional Argentina 2017,Jornada 29,29,21 Jun 17,21,Jun,17,Rosario Central,3,Talleres Córdoba,3,3-3
+424,Liga Profesional Argentina 2017,Jornada 29,29,21 Jun 17,21,Jun,17,Gimnasia La Plata,2,San Martín San Juan,0,2-0
+425,Liga Profesional Argentina 2017,Jornada 29,29,21 Jun 17,21,Jun,17,Temperley,2,Defensa y Justicia,3,2-3
+426,Liga Profesional Argentina 2017,Jornada 29,29,23 Jun 17,23,Jun,17,Atl.Tucumán,1,Vélez Sarsfield,1,1-1
+427,Liga Profesional Argentina 2017,Jornada 29,29,22 Jun 17,22,Jun,17,Sarmiento,1,Patronato,3,1-3
+428,Liga Profesional Argentina 2017,Jornada 29,29,23 Jun 17,23,Jun,17,Tigre,1,Atletico Rafaela,0,1-0
+429,Liga Profesional Argentina 2017,Jornada 29,29,21 Jun 17,21,Jun,17,Quilmes,2,Arsenal de Sarandí,2,2-2
+430,Liga Profesional Argentina 2017,Jornada 29,29,23 Jun 17,23,Jun,17,Godoy Cruz,0,Estudiantes La Plata,2,0-2
+431,Liga Profesional Argentina 2017,Jornada 29,29,22 Jun 17,22,Jun,17,Belgrano,2,Newell's Old Boys,1,2-1
+432,Liga Profesional Argentina 2017,Jornada 29,29,22 Jun 17,22,Jun,17,Lanús,2,CA Huracán,0,2-0
+433,Liga Profesional Argentina 2017,Jornada 29,29,23 Jun 17,23,Jun,17,Unión Santa Fe,0,Independiente,3,0-3
+434,Liga Profesional Argentina 2017,Jornada 29,29,22 Jun 17,22,Jun,17,Olimpo,2,Boca Juniors,2,2-2
+435,Liga Profesional Argentina 2017,Jornada 30,30,27 Jun 17,27,Jun,17,Aldosivi,0,Olimpo,3,0-3
+436,Liga Profesional Argentina 2017,Jornada 30,30,25 Jun 17,25,Jun,17,Boca Juniors,2,Unión Santa Fe,1,2-1
+437,Liga Profesional Argentina 2017,Jornada 30,30,28 Jun 17,28,Jun,17,Independiente,1,Lanús,1,1-1
+438,Liga Profesional Argentina 2017,Jornada 30,30,27 Jun 17,27,Jun,17,CA Huracán,0,Belgrano,0,0-0
+439,Liga Profesional Argentina 2017,Jornada 30,30,27 Jun 17,27,Jun,17,Newell's Old Boys,0,Godoy Cruz,2,0-2
+440,Liga Profesional Argentina 2017,Jornada 30,30,27 Jun 17,27,Jun,17,Estudiantes La Plata,1,Quilmes,0,1-0
+441,Liga Profesional Argentina 2017,Jornada 30,30,26 Jun 17,26,Jun,17,Arsenal de Sarandí,2,Tigre,1,2-1
+442,Liga Profesional Argentina 2017,Jornada 30,30,25 Jun 17,25,Jun,17,Atletico Rafaela,2,Sarmiento,3,2-3
+443,Liga Profesional Argentina 2017,Jornada 30,30,26 Jun 17,26,Jun,17,Patronato,1,Atl.Tucumán,1,1-1
+444,Liga Profesional Argentina 2017,Jornada 30,30,27 Jun 17,27,Jun,17,Vélez Sarsfield,0,Temperley,0,0-0
+445,Liga Profesional Argentina 2017,Jornada 30,30,24 Jun 17,24,Jun,17,Defensa y Justicia,1,Gimnasia La Plata,0,1-0
+446,Liga Profesional Argentina 2017,Jornada 30,30,25 Jun 17,25,Jun,17,San Martín San Juan,1,Rosario Central,1,1-1
+447,Liga Profesional Argentina 2017,Jornada 30,30,28 Jun 17,28,Jun,17,Talleres Córdoba,1,San Lorenzo,1,1-1
+448,Liga Profesional Argentina 2017,Jornada 30,30,26 Jun 17,26,Jun,17,Banfield,1,Racing Club,3,1-3
+449,Liga Profesional Argentina 2017,Jornada 30,30,26 Jun 17,26,Jun,17,Colón,0,River Plate,0,0-0
+450,Liga Profesional Argentina 2018,Jornada 1,1,27 Ago 17,27,Ago,17,Boca Juniors,3,Olimpo,0,3-0
+451,Liga Profesional Argentina 2018,Jornada 1,1,28 Ago 17,28,Ago,17,Temperley,0,River Plate,1,0-1
+452,Liga Profesional Argentina 2018,Jornada 1,1,26 Ago 17,26,Ago,17,Tigre,0,Vélez Sarsfield,3,0-3
+453,Liga Profesional Argentina 2018,Jornada 1,1,08 Oct 17,08,Oct,17,Argentinos Juniors,1,Chacarita Juniors,0,1-0
+454,Liga Profesional Argentina 2018,Jornada 1,1,27 Ago 17,27,Ago,17,Independiente,3,CA Huracán,1,3-1
+455,Liga Profesional Argentina 2018,Jornada 1,1,27 Ago 17,27,Ago,17,San Lorenzo,1,Racing Club,1,1-1
+456,Liga Profesional Argentina 2018,Jornada 1,1,26 Ago 17,26,Ago,17,Defensa y Justicia,4,Gimnasia La Plata,4,4-4
+457,Liga Profesional Argentina 2018,Jornada 1,1,29 Ago 17,29,Ago,17,Newell's Old Boys,1,Unión Santa Fe,1,1-1
+458,Liga Profesional Argentina 2018,Jornada 1,1,26 Ago 17,26,Ago,17,Talleres Córdoba,5,Lanús,2,5-2
+459,Liga Profesional Argentina 2018,Jornada 1,1,27 Ago 17,27,Ago,17,Atl.Tucumán,2,Godoy Cruz,1,2-1
+460,Liga Profesional Argentina 2018,Jornada 1,1,27 Ago 17,27,Ago,17,San Martín San Juan,2,Patronato,0,2-0
+461,Liga Profesional Argentina 2018,Jornada 1,1,26 Ago 17,26,Ago,17,Banfield,2,Belgrano,1,2-1
+462,Liga Profesional Argentina 2018,Jornada 1,1,26 Ago 17,26,Ago,17,Colón,1,Rosario Central,1,1-1
+463,Liga Profesional Argentina 2018,Jornada 1,1,29 Ago 17,29,Ago,17,Estudiantes La Plata,2,Arsenal de Sarandí,1,2-1
+464,Liga Profesional Argentina 2018,Jornada 2,2,09 Sep 17,09,Sep,17,Estudiantes La Plata,0,Defensa y Justicia,1,0-1
+465,Liga Profesional Argentina 2018,Jornada 2,2,09 Sep 17,09,Sep,17,Arsenal de Sarandí,0,Colón,1,0-1
+466,Liga Profesional Argentina 2018,Jornada 2,2,10 Sep 17,10,Sep,17,Rosario Central,0,San Lorenzo,0,0-0
+467,Liga Profesional Argentina 2018,Jornada 2,2,10 Sep 17,10,Sep,17,Racing Club,4,Temperley,1,4-1
+468,Liga Profesional Argentina 2018,Jornada 2,2,10 Sep 17,10,Sep,17,River Plate,3,Banfield,1,3-1
+469,Liga Profesional Argentina 2018,Jornada 2,2,09 Sep 17,09,Sep,17,Belgrano,1,San Martín San Juan,0,1-0
+470,Liga Profesional Argentina 2018,Jornada 2,2,09 Sep 17,09,Sep,17,Patronato,2,Argentinos Juniors,1,2-1
+471,Liga Profesional Argentina 2018,Jornada 2,2,10 Sep 17,10,Sep,17,Chacarita Juniors,1,Tigre,1,1-1
+472,Liga Profesional Argentina 2018,Jornada 2,2,09 Sep 17,09,Sep,17,Vélez Sarsfield,2,Atl.Tucumán,0,2-0
+473,Liga Profesional Argentina 2018,Jornada 2,2,10 Sep 17,10,Sep,17,Godoy Cruz,2,Talleres Córdoba,1,2-1
+474,Liga Profesional Argentina 2018,Jornada 2,2,11 Sep 17,11,Sep,17,Lanús,0,Boca Juniors,1,0-1
+475,Liga Profesional Argentina 2018,Jornada 2,2,09 Sep 17,09,Sep,17,Olimpo,1,Independiente,1,1-1
+476,Liga Profesional Argentina 2018,Jornada 2,2,12 Sep 17,12,Sep,17,CA Huracán,1,Newell's Old Boys,0,1-0
+477,Liga Profesional Argentina 2018,Jornada 2,2,12 Sep 17,12,Sep,17,Unión Santa Fe,1,Gimnasia La Plata,0,1-0
+478,Liga Profesional Argentina 2018,Jornada 3,3,16 Sep 17,16,Sep,17,Defensa y Justicia,1,Unión Santa Fe,3,1-3
+479,Liga Profesional Argentina 2018,Jornada 3,3,16 Sep 17,16,Sep,17,Newell's Old Boys,2,Olimpo,0,2-0
+480,Liga Profesional Argentina 2018,Jornada 3,3,19 Sep 17,19,Sep,17,Gimnasia La Plata,1,CA Huracán,3,1-3
+481,Liga Profesional Argentina 2018,Jornada 3,3,17 Sep 17,17,Sep,17,Independiente,0,Lanús,1,0-1
+482,Liga Profesional Argentina 2018,Jornada 3,3,17 Sep 17,17,Sep,17,Boca Juniors,4,Godoy Cruz,1,4-1
+483,Liga Profesional Argentina 2018,Jornada 3,3,17 Sep 17,17,Sep,17,Talleres Córdoba,0,Vélez Sarsfield,0,0-0
+484,Liga Profesional Argentina 2018,Jornada 3,3,17 Sep 17,17,Sep,17,Atl.Tucumán,1,Chacarita Juniors,1,1-1
+485,Liga Profesional Argentina 2018,Jornada 3,3,16 Sep 17,16,Sep,17,Tigre,1,Patronato,3,1-3
+486,Liga Profesional Argentina 2018,Jornada 3,3,16 Sep 17,16,Sep,17,Argentinos Juniors,1,Belgrano,2,1-2
+487,Liga Profesional Argentina 2018,Jornada 3,3,18 Sep 17,18,Sep,17,San Martín San Juan,1,River Plate,3,1-3
+488,Liga Profesional Argentina 2018,Jornada 3,3,17 Sep 17,17,Sep,17,Banfield,1,Racing Club,0,1-0
+489,Liga Profesional Argentina 2018,Jornada 3,3,19 Sep 17,19,Sep,17,Temperley,1,Rosario Central,1,1-1
+490,Liga Profesional Argentina 2018,Jornada 3,3,16 Sep 17,16,Sep,17,San Lorenzo,1,Arsenal de Sarandí,0,1-0
+491,Liga Profesional Argentina 2018,Jornada 3,3,16 Sep 17,16,Sep,17,Colón,0,Estudiantes La Plata,0,0-0
+492,Liga Profesional Argentina 2018,Jornada 4,4,24 Sep 17,24,Sep,17,Colón,3,Defensa y Justicia,1,3-1
+493,Liga Profesional Argentina 2018,Jornada 4,4,26 Sep 17,26,Sep,17,Estudiantes La Plata,1,San Lorenzo,3,1-3
+494,Liga Profesional Argentina 2018,Jornada 4,4,23 Sep 17,23,Sep,17,Arsenal de Sarandí,0,Temperley,1,0-1
+495,Liga Profesional Argentina 2018,Jornada 4,4,24 Sep 17,24,Sep,17,Rosario Central,0,Banfield,4,0-4
+496,Liga Profesional Argentina 2018,Jornada 4,4,25 Sep 17,25,Sep,17,Racing Club,0,San Martín San Juan,0,0-0
+497,Liga Profesional Argentina 2018,Jornada 4,4,24 Sep 17,24,Sep,17,River Plate,1,Argentinos Juniors,1,1-1
+498,Liga Profesional Argentina 2018,Jornada 4,4,23 Sep 17,23,Sep,17,Belgrano,0,Tigre,0,0-0
+499,Liga Profesional Argentina 2018,Jornada 4,4,23 Sep 17,23,Sep,17,Chacarita Juniors,0,Talleres Córdoba,1,0-1
+500,Liga Profesional Argentina 2018,Jornada 4,4,23 Sep 17,23,Sep,17,Vélez Sarsfield,0,Boca Juniors,4,0-4
+501,Liga Profesional Argentina 2018,Jornada 4,4,24 Sep 17,24,Sep,17,Godoy Cruz,1,Independiente,0,1-0
+502,Liga Profesional Argentina 2018,Jornada 4,4,26 Sep 17,26,Sep,17,Lanús,1,Newell's Old Boys,0,1-0
+503,Liga Profesional Argentina 2018,Jornada 4,4,24 Sep 17,24,Sep,17,Olimpo,0,Gimnasia La Plata,1,0-1
+504,Liga Profesional Argentina 2018,Jornada 4,4,23 Sep 17,23,Sep,17,CA Huracán,0,Unión Santa Fe,0,0-0
+505,Liga Profesional Argentina 2018,Jornada 4,4,23 Sep 17,23,Sep,17,Patronato,2,Atl.Tucumán,1,2-1
+506,Liga Profesional Argentina 2018,Jornada 5,5,30 Sep 17,30,Sep,17,Defensa y Justicia,0,CA Huracán,0,0-0
+507,Liga Profesional Argentina 2018,Jornada 5,5,30 Sep 17,30,Sep,17,Unión Santa Fe,2,Olimpo,0,2-0
+508,Liga Profesional Argentina 2018,Jornada 5,5,30 Sep 17,30,Sep,17,Gimnasia La Plata,1,Lanús,3,1-3
+509,Liga Profesional Argentina 2018,Jornada 5,5,03 Oct 17,03,Oct,17,Newell's Old Boys,0,Godoy Cruz,0,0-0
+510,Liga Profesional Argentina 2018,Jornada 5,5,01 Oct 17,01,Oct,17,Boca Juniors,1,Chacarita Juniors,0,1-0
+511,Liga Profesional Argentina 2018,Jornada 5,5,30 Sep 17,30,Sep,17,Atl.Tucumán,0,Belgrano,0,0-0
+512,Liga Profesional Argentina 2018,Jornada 5,5,02 Oct 17,02,Oct,17,Tigre,1,River Plate,1,1-1
+513,Liga Profesional Argentina 2018,Jornada 5,5,01 Oct 17,01,Oct,17,Argentinos Juniors,2,Racing Club,0,2-0
+514,Liga Profesional Argentina 2018,Jornada 5,5,01 Oct 17,01,Oct,17,San Martín San Juan,3,Rosario Central,1,3-1
+515,Liga Profesional Argentina 2018,Jornada 5,5,30 Sep 17,30,Sep,17,Temperley,0,Estudiantes La Plata,3,0-3
+516,Liga Profesional Argentina 2018,Jornada 5,5,30 Sep 17,30,Sep,17,San Lorenzo,0,Colón,0,0-0
+517,Liga Profesional Argentina 2018,Jornada 5,5,01 Oct 17,01,Oct,17,Independiente,1,Vélez Sarsfield,0,1-0
+518,Liga Profesional Argentina 2018,Jornada 5,5,01 Oct 17,01,Oct,17,Talleres Córdoba,1,Patronato,0,1-0
+519,Liga Profesional Argentina 2018,Jornada 5,5,03 Oct 17,03,Oct,17,Banfield,1,Arsenal de Sarandí,2,1-2
+520,Liga Profesional Argentina 2018,Jornada 6,6,14 Oct 17,14,Oct,17,San Lorenzo,3,Defensa y Justicia,1,3-1
+521,Liga Profesional Argentina 2018,Jornada 6,6,14 Oct 17,14,Oct,17,Colón,2,Temperley,0,2-0
+522,Liga Profesional Argentina 2018,Jornada 6,6,14 Oct 17,14,Oct,17,Estudiantes La Plata,1,Banfield,1,1-1
+523,Liga Profesional Argentina 2018,Jornada 6,6,17 Oct 17,17,Oct,17,Arsenal de Sarandí,0,San Martín San Juan,1,0-1
+524,Liga Profesional Argentina 2018,Jornada 6,6,14 Oct 17,14,Oct,17,Rosario Central,1,Argentinos Juniors,3,1-3
+525,Liga Profesional Argentina 2018,Jornada 6,6,15 Oct 17,15,Oct,17,Racing Club,1,Tigre,0,1-0
+526,Liga Profesional Argentina 2018,Jornada 6,6,15 Oct 17,15,Oct,17,River Plate,2,Atl.Tucumán,2,2-2
+527,Liga Profesional Argentina 2018,Jornada 6,6,15 Oct 17,15,Oct,17,Belgrano,0,Talleres Córdoba,0,0-0
+528,Liga Profesional Argentina 2018,Jornada 6,6,16 Oct 17,16,Oct,17,Patronato,0,Boca Juniors,2,0-2
+529,Liga Profesional Argentina 2018,Jornada 6,6,15 Oct 17,15,Oct,17,Chacarita Juniors,1,Independiente,2,1-2
+530,Liga Profesional Argentina 2018,Jornada 6,6,14 Oct 17,14,Oct,17,Vélez Sarsfield,1,Newell's Old Boys,0,1-0
+531,Liga Profesional Argentina 2018,Jornada 6,6,15 Oct 17,15,Oct,17,Godoy Cruz,3,Gimnasia La Plata,0,3-0
+532,Liga Profesional Argentina 2018,Jornada 6,6,14 Oct 17,14,Oct,17,Lanús,2,Unión Santa Fe,1,2-1
+533,Liga Profesional Argentina 2018,Jornada 6,6,17 Oct 17,17,Oct,17,Olimpo,0,CA Huracán,2,0-2
+534,Liga Profesional Argentina 2018,Jornada 7,7,30 Oct 17,30,Oct,17,Defensa y Justicia,1,Olimpo,1,1-1
+535,Liga Profesional Argentina 2018,Jornada 7,7,28 Oct 17,28,Oct,17,CA Huracán,4,Lanús,0,4-0
+536,Liga Profesional Argentina 2018,Jornada 7,7,28 Oct 17,28,Oct,17,Unión Santa Fe,2,Godoy Cruz,0,2-0
+537,Liga Profesional Argentina 2018,Jornada 7,7,29 Oct 17,29,Oct,17,Gimnasia La Plata,4,Vélez Sarsfield,0,4-0
+538,Liga Profesional Argentina 2018,Jornada 7,7,29 Oct 17,29,Oct,17,Newell's Old Boys,2,Chacarita Juniors,1,2-1
+539,Liga Profesional Argentina 2018,Jornada 7,7,30 Oct 17,30,Oct,17,Independiente,1,Patronato,1,1-1
+540,Liga Profesional Argentina 2018,Jornada 7,7,29 Oct 17,29,Oct,17,Talleres Córdoba,4,River Plate,0,4-0
+541,Liga Profesional Argentina 2018,Jornada 7,7,28 Oct 17,28,Oct,17,Atl.Tucumán,3,Racing Club,1,3-1
+542,Liga Profesional Argentina 2018,Jornada 7,7,31 Oct 17,31,Oct,17,Tigre,1,Rosario Central,1,1-1
+543,Liga Profesional Argentina 2018,Jornada 7,7,28 Oct 17,28,Oct,17,Argentinos Juniors,3,Arsenal de Sarandí,2,3-2
+544,Liga Profesional Argentina 2018,Jornada 7,7,28 Oct 17,28,Oct,17,San Martín San Juan,1,Estudiantes La Plata,0,1-0
+545,Liga Profesional Argentina 2018,Jornada 7,7,28 Oct 17,28,Oct,17,Banfield,1,Colón,1,1-1
+546,Liga Profesional Argentina 2018,Jornada 7,7,29 Oct 17,29,Oct,17,Temperley,0,San Lorenzo,2,0-2
+547,Liga Profesional Argentina 2018,Jornada 7,7,29 Oct 17,29,Oct,17,Boca Juniors,4,Belgrano,0,4-0
+548,Liga Profesional Argentina 2018,Jornada 8,8,05 Nov 17,05,Nov,17,River Plate,1,Boca Juniors,2,1-2
+549,Liga Profesional Argentina 2018,Jornada 8,8,05 Nov 17,05,Nov,17,Temperley,1,Defensa y Justicia,4,1-4
+550,Liga Profesional Argentina 2018,Jornada 8,8,04 Nov 17,04,Nov,17,San Lorenzo,0,Banfield,1,0-1
+551,Liga Profesional Argentina 2018,Jornada 8,8,04 Nov 17,04,Nov,17,Colón,3,San Martín San Juan,3,3-3
+552,Liga Profesional Argentina 2018,Jornada 8,8,05 Nov 17,05,Nov,17,Estudiantes La Plata,1,Argentinos Juniors,0,1-0
+553,Liga Profesional Argentina 2018,Jornada 8,8,06 Nov 17,06,Nov,17,Arsenal de Sarandí,0,Tigre,0,0-0
+554,Liga Profesional Argentina 2018,Jornada 8,8,04 Nov 17,04,Nov,17,Rosario Central,0,Atl.Tucumán,1,0-1
+555,Liga Profesional Argentina 2018,Jornada 8,8,05 Nov 17,05,Nov,17,Racing Club,1,Talleres Córdoba,1,1-1
+556,Liga Profesional Argentina 2018,Jornada 8,8,05 Nov 17,05,Nov,17,Belgrano,0,Independiente,0,0-0
+557,Liga Profesional Argentina 2018,Jornada 8,8,06 Nov 17,06,Nov,17,Patronato,0,Newell's Old Boys,0,0-0
+558,Liga Profesional Argentina 2018,Jornada 8,8,03 Nov 17,03,Nov,17,Chacarita Juniors,2,Gimnasia La Plata,0,2-0
+559,Liga Profesional Argentina 2018,Jornada 8,8,07 Nov 17,07,Nov,17,Vélez Sarsfield,0,Unión Santa Fe,2,0-2
+560,Liga Profesional Argentina 2018,Jornada 8,8,04 Nov 17,04,Nov,17,Godoy Cruz,2,CA Huracán,1,2-1
+561,Liga Profesional Argentina 2018,Jornada 8,8,04 Nov 17,04,Nov,17,Lanús,0,Olimpo,2,0-2
+562,Liga Profesional Argentina 2018,Jornada 9,9,18 Nov 17,18,Nov,17,Defensa y Justicia,3,Lanús,0,3-0
+563,Liga Profesional Argentina 2018,Jornada 9,9,20 Nov 17,20,Nov,17,Olimpo,1,Godoy Cruz,1,1-1
+564,Liga Profesional Argentina 2018,Jornada 9,9,21 Nov 17,21,Nov,17,CA Huracán,1,Vélez Sarsfield,0,1-0
+565,Liga Profesional Argentina 2018,Jornada 9,9,19 Nov 17,19,Nov,17,Unión Santa Fe,0,Chacarita Juniors,0,0-0
+566,Liga Profesional Argentina 2018,Jornada 9,9,20 Nov 17,20,Nov,17,Gimnasia La Plata,2,Patronato,0,2-0
+567,Liga Profesional Argentina 2018,Jornada 9,9,18 Nov 17,18,Nov,17,Newell's Old Boys,0,Belgrano,1,0-1
+568,Liga Profesional Argentina 2018,Jornada 9,9,19 Nov 17,19,Nov,17,Independiente,1,River Plate,0,1-0
+569,Liga Profesional Argentina 2018,Jornada 9,9,19 Nov 17,19,Nov,17,Boca Juniors,1,Racing Club,2,1-2
+570,Liga Profesional Argentina 2018,Jornada 9,9,20 Nov 17,20,Nov,17,Talleres Córdoba,0,Rosario Central,1,0-1
+571,Liga Profesional Argentina 2018,Jornada 9,9,17 Nov 17,17,Nov,17,Atl.Tucumán,0,Arsenal de Sarandí,0,0-0
+572,Liga Profesional Argentina 2018,Jornada 9,9,19 Nov 17,19,Nov,17,Tigre,2,Estudiantes La Plata,0,2-0
+573,Liga Profesional Argentina 2018,Jornada 9,9,17 Nov 17,17,Nov,17,Argentinos Juniors,0,Colón,1,0-1
+574,Liga Profesional Argentina 2018,Jornada 9,9,18 Nov 17,18,Nov,17,San Martín San Juan,1,San Lorenzo,3,1-3
+575,Liga Profesional Argentina 2018,Jornada 9,9,18 Nov 17,18,Nov,17,Banfield,0,Temperley,0,0-0
+576,Liga Profesional Argentina 2018,Jornada 10,10,26 Nov 17,26,Nov,17,Racing Club,0,Independiente,1,0-1
+577,Liga Profesional Argentina 2018,Jornada 10,10,24 Nov 17,24,Nov,17,Banfield,0,Defensa y Justicia,1,0-1
+578,Liga Profesional Argentina 2018,Jornada 10,10,28 Nov 17,28,Nov,17,Temperley,1,San Martín San Juan,0,1-0
+579,Liga Profesional Argentina 2018,Jornada 10,10,25 Nov 17,25,Nov,17,San Lorenzo,1,Argentinos Juniors,0,1-0
+580,Liga Profesional Argentina 2018,Jornada 10,10,25 Nov 17,25,Nov,17,Colón,3,Tigre,1,3-1
+581,Liga Profesional Argentina 2018,Jornada 10,10,26 Nov 17,26,Nov,17,Estudiantes La Plata,1,Atl.Tucumán,0,1-0
+582,Liga Profesional Argentina 2018,Jornada 10,10,27 Nov 17,27,Nov,17,Arsenal de Sarandí,0,Talleres Córdoba,1,0-1
+583,Liga Profesional Argentina 2018,Jornada 10,10,27 Nov 17,27,Nov,17,Rosario Central,1,Boca Juniors,0,1-0
+584,Liga Profesional Argentina 2018,Jornada 10,10,26 Nov 17,26,Nov,17,River Plate,1,Newell's Old Boys,3,1-3
+585,Liga Profesional Argentina 2018,Jornada 10,10,25 Nov 17,25,Nov,17,Belgrano,2,Gimnasia La Plata,0,2-0
+586,Liga Profesional Argentina 2018,Jornada 10,10,25 Nov 17,25,Nov,17,Patronato,2,Unión Santa Fe,3,2-3
+587,Liga Profesional Argentina 2018,Jornada 10,10,24 Nov 17,24,Nov,17,Chacarita Juniors,0,CA Huracán,2,0-2
+588,Liga Profesional Argentina 2018,Jornada 10,10,27 Nov 17,27,Nov,17,Vélez Sarsfield,3,Olimpo,0,3-0
+589,Liga Profesional Argentina 2018,Jornada 10,10,08 Feb 18,08,Feb,18,Godoy Cruz,4,Lanús,1,4-1
+590,Liga Profesional Argentina 2018,Jornada 11,11,01 Dic 17,01,Dic,17,Defensa y Justicia,3,Godoy Cruz,2,3-2
+591,Liga Profesional Argentina 2018,Jornada 11,11,04 Dic 17,04,Dic,17,Lanús,0,Vélez Sarsfield,0,0-0
+592,Liga Profesional Argentina 2018,Jornada 11,11,02 Dic 17,02,Dic,17,Olimpo,2,Chacarita Juniors,0,2-0
+593,Liga Profesional Argentina 2018,Jornada 11,11,02 Dic 17,02,Dic,17,CA Huracán,1,Patronato,1,1-1
+594,Liga Profesional Argentina 2018,Jornada 11,11,04 Dic 17,04,Dic,17,Gimnasia La Plata,2,River Plate,1,2-1
+595,Liga Profesional Argentina 2018,Jornada 11,11,01 Dic 17,01,Dic,17,Unión Santa Fe,1,Belgrano,1,1-1
+596,Liga Profesional Argentina 2018,Jornada 11,11,03 Dic 17,03,Dic,17,Newell's Old Boys,2,Racing Club,2,2-2
+597,Liga Profesional Argentina 2018,Jornada 11,11,25 Ene 18,25,Ene,18,Independiente,1,Rosario Central,1,1-1
+598,Liga Profesional Argentina 2018,Jornada 11,11,03 Dic 17,03,Dic,17,Boca Juniors,2,Arsenal de Sarandí,0,2-0
+599,Liga Profesional Argentina 2018,Jornada 11,11,03 Dic 17,03,Dic,17,Talleres Córdoba,0,Estudiantes La Plata,1,0-1
+600,Liga Profesional Argentina 2018,Jornada 11,11,04 Dic 17,04,Dic,17,Atl.Tucumán,2,Colón,0,2-0
+601,Liga Profesional Argentina 2018,Jornada 11,11,03 Dic 17,03,Dic,17,Tigre,1,San Lorenzo,2,1-2
+602,Liga Profesional Argentina 2018,Jornada 11,11,02 Dic 17,02,Dic,17,Argentinos Juniors,2,Temperley,2,2-2
+603,Liga Profesional Argentina 2018,Jornada 11,11,05 Dic 17,05,Dic,17,San Martín San Juan,2,Banfield,1,2-1
+604,Liga Profesional Argentina 2018,Jornada 12,12,11 Dic 17,11,Dic,17,San Martín San Juan,1,Defensa y Justicia,0,1-0
+605,Liga Profesional Argentina 2018,Jornada 12,12,09 Dic 17,09,Dic,17,Banfield,2,Argentinos Juniors,3,2-3
+606,Liga Profesional Argentina 2018,Jornada 12,12,08 Dic 17,08,Dic,17,Temperley,2,Tigre,1,2-1
+607,Liga Profesional Argentina 2018,Jornada 12,12,30 Nov 17,30,Nov,17,San Lorenzo,2,Atl.Tucumán,0,2-0
+608,Liga Profesional Argentina 2018,Jornada 12,12,10 Dic 17,10,Dic,17,Colón,0,Talleres Córdoba,2,0-2
+609,Liga Profesional Argentina 2018,Jornada 12,12,11 Dic 17,11,Dic,17,Estudiantes La Plata,0,Boca Juniors,1,0-1
+610,Liga Profesional Argentina 2018,Jornada 12,12,10 Dic 17,10,Dic,17,Arsenal de Sarandí,1,Independiente,2,1-2
+611,Liga Profesional Argentina 2018,Jornada 12,12,10 Dic 17,10,Dic,17,Rosario Central,1,Newell's Old Boys,0,1-0
+612,Liga Profesional Argentina 2018,Jornada 12,12,10 Dic 17,10,Dic,17,Racing Club,3,Gimnasia La Plata,1,3-1
+613,Liga Profesional Argentina 2018,Jornada 12,12,22 Nov 17,22,Nov,17,River Plate,2,Unión Santa Fe,0,2-0
+614,Liga Profesional Argentina 2018,Jornada 12,12,09 Dic 17,09,Dic,17,Belgrano,1,CA Huracán,0,1-0
+615,Liga Profesional Argentina 2018,Jornada 12,12,08 Dic 17,08,Dic,17,Patronato,1,Olimpo,0,1-0
+616,Liga Profesional Argentina 2018,Jornada 12,12,12 Dic 17,12,Dic,17,Chacarita Juniors,3,Lanús,0,3-0
+617,Liga Profesional Argentina 2018,Jornada 12,12,23 Nov 17,23,Nov,17,Vélez Sarsfield,0,Godoy Cruz,1,0-1
+618,Liga Profesional Argentina 2018,Jornada 13,13,27 Ene 18,27,Ene,18,Defensa y Justicia,0,Vélez Sarsfield,1,0-1
+619,Liga Profesional Argentina 2018,Jornada 13,13,26 Ene 18,26,Ene,18,Godoy Cruz,1,Chacarita Juniors,0,1-0
+620,Liga Profesional Argentina 2018,Jornada 13,13,27 Ene 18,27,Ene,18,Lanús,1,Patronato,1,1-1
+621,Liga Profesional Argentina 2018,Jornada 13,13,28 Ene 18,28,Ene,18,Olimpo,1,Belgrano,2,1-2
+622,Liga Profesional Argentina 2018,Jornada 13,13,29 Ene 18,29,Ene,18,CA Huracán,1,River Plate,0,1-0
+623,Liga Profesional Argentina 2018,Jornada 13,13,29 Ene 18,29,Ene,18,Unión Santa Fe,2,Racing Club,1,2-1
+624,Liga Profesional Argentina 2018,Jornada 13,13,29 Ene 18,29,Ene,18,Gimnasia La Plata,2,Rosario Central,1,2-1
+625,Liga Profesional Argentina 2018,Jornada 13,13,27 Ene 18,27,Ene,18,Newell's Old Boys,2,Arsenal de Sarandí,1,2-1
+626,Liga Profesional Argentina 2018,Jornada 13,13,30 Ene 18,30,Ene,18,Independiente,1,Estudiantes La Plata,2,1-2
+627,Liga Profesional Argentina 2018,Jornada 13,13,28 Ene 18,28,Ene,18,Boca Juniors,2,Colón,0,2-0
+628,Liga Profesional Argentina 2018,Jornada 13,13,27 Ene 18,27,Ene,18,Talleres Córdoba,2,San Lorenzo,0,2-0
+629,Liga Profesional Argentina 2018,Jornada 13,13,29 Ene 18,29,Ene,18,Atl.Tucumán,3,Temperley,0,3-0
+630,Liga Profesional Argentina 2018,Jornada 13,13,26 Ene 18,26,Ene,18,Tigre,1,Banfield,2,1-2
+631,Liga Profesional Argentina 2018,Jornada 13,13,28 Ene 18,28,Ene,18,Argentinos Juniors,2,San Martín San Juan,0,2-0
+632,Liga Profesional Argentina 2018,Jornada 14,14,02 Feb 18,02,Feb,18,Argentinos Juniors,2,Defensa y Justicia,1,2-1
+633,Liga Profesional Argentina 2018,Jornada 14,14,06 Feb 18,06,Feb,18,San Martín San Juan,0,Tigre,0,0-0
+634,Liga Profesional Argentina 2018,Jornada 14,14,03 Feb 18,03,Feb,18,Banfield,0,Atl.Tucumán,0,0-0
+635,Liga Profesional Argentina 2018,Jornada 14,14,05 Feb 18,05,Feb,18,Temperley,0,Talleres Córdoba,1,0-1
+636,Liga Profesional Argentina 2018,Jornada 14,14,04 Feb 18,04,Feb,18,San Lorenzo,1,Boca Juniors,1,1-1
+637,Liga Profesional Argentina 2018,Jornada 14,14,03 Feb 18,03,Feb,18,Colón,0,Independiente,1,0-1
+638,Liga Profesional Argentina 2018,Jornada 14,14,04 Feb 18,04,Feb,18,Estudiantes La Plata,4,Newell's Old Boys,2,4-2
+639,Liga Profesional Argentina 2018,Jornada 14,14,04 Feb 18,04,Feb,18,Arsenal de Sarandí,0,Gimnasia La Plata,0,0-0
+640,Liga Profesional Argentina 2018,Jornada 14,14,03 Feb 18,03,Feb,18,Rosario Central,1,Unión Santa Fe,0,1-0
+641,Liga Profesional Argentina 2018,Jornada 14,14,05 Feb 18,05,Feb,18,Racing Club,4,CA Huracán,0,4-0
+642,Liga Profesional Argentina 2018,Jornada 14,14,04 Feb 18,04,Feb,18,River Plate,2,Olimpo,0,2-0
+643,Liga Profesional Argentina 2018,Jornada 14,14,03 Feb 18,03,Feb,18,Belgrano,0,Lanús,0,0-0
+644,Liga Profesional Argentina 2018,Jornada 14,14,02 Feb 18,02,Feb,18,Patronato,0,Godoy Cruz,0,0-0
+645,Liga Profesional Argentina 2018,Jornada 14,14,05 Feb 18,05,Feb,18,Chacarita Juniors,2,Vélez Sarsfield,0,2-0
+646,Liga Profesional Argentina 2018,Jornada 15,15,09 Feb 18,09,Feb,18,Defensa y Justicia,4,Chacarita Juniors,2,4-2
+647,Liga Profesional Argentina 2018,Jornada 15,15,10 Feb 18,10,Feb,18,Vélez Sarsfield,0,Patronato,2,0-2
+648,Liga Profesional Argentina 2018,Jornada 15,15,11 Feb 18,11,Feb,18,Godoy Cruz,2,Belgrano,1,2-1
+649,Liga Profesional Argentina 2018,Jornada 15,15,12 Feb 18,12,Feb,18,Lanús,1,River Plate,0,1-0
+650,Liga Profesional Argentina 2018,Jornada 15,15,10 Feb 18,10,Feb,18,Olimpo,1,Racing Club,2,1-2
+651,Liga Profesional Argentina 2018,Jornada 15,15,13 Feb 18,13,Feb,18,CA Huracán,2,Rosario Central,3,2-3
+652,Liga Profesional Argentina 2018,Jornada 15,15,09 Feb 18,09,Feb,18,Unión Santa Fe,0,Arsenal de Sarandí,0,0-0
+653,Liga Profesional Argentina 2018,Jornada 15,15,10 Feb 18,10,Feb,18,Gimnasia La Plata,0,Estudiantes La Plata,0,0-0
+654,Liga Profesional Argentina 2018,Jornada 15,15,10 Feb 18,10,Feb,18,Newell's Old Boys,0,Colón,1,0-1
+655,Liga Profesional Argentina 2018,Jornada 15,15,05 Abr 18,05,Abr,18,Independiente,0,San Lorenzo,1,0-1
+656,Liga Profesional Argentina 2018,Jornada 15,15,11 Feb 18,11,Feb,18,Boca Juniors,1,Temperley,0,1-0
+657,Liga Profesional Argentina 2018,Jornada 15,15,11 Feb 18,11,Feb,18,Talleres Córdoba,1,Banfield,0,1-0
+658,Liga Profesional Argentina 2018,Jornada 15,15,12 Feb 18,12,Feb,18,Atl.Tucumán,2,San Martín San Juan,1,2-1
+659,Liga Profesional Argentina 2018,Jornada 15,15,12 Feb 18,12,Feb,18,Tigre,2,Argentinos Juniors,0,2-0
+660,Liga Profesional Argentina 2018,Jornada 16,16,16 Feb 18,16,Feb,18,Estudiantes La Plata,2,Unión Santa Fe,0,2-0
+661,Liga Profesional Argentina 2018,Jornada 16,16,16 Feb 18,16,Feb,18,Racing Club,3,Lanús,1,3-1
+662,Liga Profesional Argentina 2018,Jornada 16,16,17 Feb 18,17,Feb,18,Argentinos Juniors,2,Atl.Tucumán,2,2-2
+663,Liga Profesional Argentina 2018,Jornada 16,16,18 Feb 18,18,Feb,18,San Martín San Juan,1,Talleres Córdoba,1,1-1
+664,Liga Profesional Argentina 2018,Jornada 16,16,19 Feb 18,19,Feb,18,Banfield,0,Boca Juniors,1,0-1
+665,Liga Profesional Argentina 2018,Jornada 16,16,17 Feb 18,17,Feb,18,Temperley,0,Independiente,0,0-0
+666,Liga Profesional Argentina 2018,Jornada 16,16,17 Feb 18,17,Feb,18,San Lorenzo,1,Newell's Old Boys,0,1-0
+667,Liga Profesional Argentina 2018,Jornada 16,16,20 Feb 18,20,Feb,18,Colón,1,Gimnasia La Plata,0,1-0
+668,Liga Profesional Argentina 2018,Jornada 16,16,18 Feb 18,18,Feb,18,Rosario Central,5,Olimpo,0,5-0
+669,Liga Profesional Argentina 2018,Jornada 16,16,18 Feb 18,18,Feb,18,River Plate,2,Godoy Cruz,2,2-2
+670,Liga Profesional Argentina 2018,Jornada 16,16,17 Feb 18,17,Feb,18,Belgrano,2,Vélez Sarsfield,2,2-2
+671,Liga Profesional Argentina 2018,Jornada 16,16,19 Feb 18,19,Feb,18,Patronato,3,Chacarita Juniors,0,3-0
+672,Liga Profesional Argentina 2018,Jornada 16,16,19 Feb 18,19,Feb,18,Tigre,1,Defensa y Justicia,1,1-1
+673,Liga Profesional Argentina 2018,Jornada 16,16,18 Feb 18,18,Feb,18,Arsenal de Sarandí,1,CA Huracán,1,1-1
+674,Liga Profesional Argentina 2018,Jornada 17,17,24 Feb 18,24,Feb,18,Defensa y Justicia,1,Patronato,0,1-0
+675,Liga Profesional Argentina 2018,Jornada 17,17,25 Feb 18,25,Feb,18,Unión Santa Fe,1,Colón,1,1-1
+676,Liga Profesional Argentina 2018,Jornada 17,17,25 Feb 18,25,Feb,18,Boca Juniors,4,San Martín San Juan,2,4-2
+677,Liga Profesional Argentina 2018,Jornada 17,17,25 Feb 18,25,Feb,18,Independiente,1,Banfield,0,1-0
+678,Liga Profesional Argentina 2018,Jornada 17,17,25 Feb 18,25,Feb,18,Chacarita Juniors,0,Belgrano,1,0-1
+679,Liga Profesional Argentina 2018,Jornada 17,17,24 Feb 18,24,Feb,18,Vélez Sarsfield,1,River Plate,0,1-0
+680,Liga Profesional Argentina 2018,Jornada 17,17,24 Feb 18,24,Feb,18,Godoy Cruz,1,Racing Club,2,1-2
+681,Liga Profesional Argentina 2018,Jornada 17,17,24 Feb 18,24,Feb,18,Lanús,1,Rosario Central,1,1-1
+682,Liga Profesional Argentina 2018,Jornada 17,17,23 Feb 18,23,Feb,18,Olimpo,2,Arsenal de Sarandí,1,2-1
+683,Liga Profesional Argentina 2018,Jornada 17,17,23 Feb 18,23,Feb,18,CA Huracán,1,Estudiantes La Plata,0,1-0
+684,Liga Profesional Argentina 2018,Jornada 17,17,27 Feb 18,27,Feb,18,Gimnasia La Plata,1,San Lorenzo,0,1-0
+685,Liga Profesional Argentina 2018,Jornada 17,17,26 Feb 18,26,Feb,18,Newell's Old Boys,0,Temperley,0,0-0
+686,Liga Profesional Argentina 2018,Jornada 17,17,26 Feb 18,26,Feb,18,Talleres Córdoba,2,Argentinos Juniors,0,2-0
+687,Liga Profesional Argentina 2018,Jornada 17,17,25 Feb 18,25,Feb,18,Atl.Tucumán,0,Tigre,0,0-0
+688,Liga Profesional Argentina 2018,Jornada 18,18,04 Mar 18,04,Mar,18,Atl.Tucumán,0,Defensa y Justicia,1,0-1
+689,Liga Profesional Argentina 2018,Jornada 18,18,03 Mar 18,03,Mar,18,Tigre,0,Talleres Córdoba,0,0-0
+690,Liga Profesional Argentina 2018,Jornada 18,18,06 Mar 18,06,Mar,18,Argentinos Juniors,2,Boca Juniors,0,2-0
+691,Liga Profesional Argentina 2018,Jornada 18,18,05 Mar 18,05,Mar,18,San Martín San Juan,0,Independiente,4,0-4
+692,Liga Profesional Argentina 2018,Jornada 18,18,04 Mar 18,04,Mar,18,Banfield,1,Newell's Old Boys,0,1-0
+693,Liga Profesional Argentina 2018,Jornada 18,18,04 Mar 18,04,Mar,18,Temperley,1,Gimnasia La Plata,1,1-1
+694,Liga Profesional Argentina 2018,Jornada 18,18,03 Mar 18,03,Mar,18,San Lorenzo,0,Unión Santa Fe,0,0-0
+695,Liga Profesional Argentina 2018,Jornada 18,18,03 Mar 18,03,Mar,18,Colón,0,CA Huracán,0,0-0
+696,Liga Profesional Argentina 2018,Jornada 18,18,05 Mar 18,05,Mar,18,Estudiantes La Plata,1,Olimpo,0,1-0
+697,Liga Profesional Argentina 2018,Jornada 18,18,02 Mar 18,02,Mar,18,Arsenal de Sarandí,2,Lanús,1,2-1
+698,Liga Profesional Argentina 2018,Jornada 18,18,03 Mar 18,03,Mar,18,Rosario Central,1,Godoy Cruz,2,1-2
+699,Liga Profesional Argentina 2018,Jornada 18,18,05 Mar 18,05,Mar,18,Racing Club,2,Vélez Sarsfield,1,2-1
+700,Liga Profesional Argentina 2018,Jornada 18,18,04 Mar 18,04,Mar,18,River Plate,1,Chacarita Juniors,1,1-1
+701,Liga Profesional Argentina 2018,Jornada 18,18,02 Mar 18,02,Mar,18,Belgrano,2,Patronato,2,2-2
+702,Liga Profesional Argentina 2018,Jornada 19,19,12 Mar 18,12,Mar,18,Defensa y Justicia,1,Belgrano,1,1-1
+703,Liga Profesional Argentina 2018,Jornada 19,19,11 Mar 18,11,Mar,18,Patronato,0,River Plate,1,0-1
+704,Liga Profesional Argentina 2018,Jornada 19,19,10 Mar 18,10,Mar,18,Chacarita Juniors,1,Racing Club,1,1-1
+705,Liga Profesional Argentina 2018,Jornada 19,19,11 Mar 18,11,Mar,18,Vélez Sarsfield,2,Rosario Central,2,2-2
+706,Liga Profesional Argentina 2018,Jornada 19,19,09 Mar 18,09,Mar,18,Godoy Cruz,1,Arsenal de Sarandí,0,1-0
+707,Liga Profesional Argentina 2018,Jornada 19,19,11 Mar 18,11,Mar,18,Lanús,0,Estudiantes La Plata,0,0-0
+708,Liga Profesional Argentina 2018,Jornada 19,19,10 Mar 18,10,Mar,18,Olimpo,0,Colón,3,0-3
+709,Liga Profesional Argentina 2018,Jornada 19,19,11 Mar 18,11,Mar,18,CA Huracán,1,San Lorenzo,1,1-1
+710,Liga Profesional Argentina 2018,Jornada 19,19,12 Mar 18,12,Mar,18,Unión Santa Fe,3,Temperley,0,3-0
+711,Liga Profesional Argentina 2018,Jornada 19,19,09 Mar 18,09,Mar,18,Gimnasia La Plata,0,Banfield,2,0-2
+712,Liga Profesional Argentina 2018,Jornada 19,19,13 Mar 18,13,Mar,18,Newell's Old Boys,2,San Martín San Juan,0,2-0
+713,Liga Profesional Argentina 2018,Jornada 19,19,12 Mar 18,12,Mar,18,Independiente,2,Argentinos Juniors,1,2-1
+714,Liga Profesional Argentina 2018,Jornada 19,19,10 Mar 18,10,Mar,18,Boca Juniors,2,Tigre,1,2-1
+715,Liga Profesional Argentina 2018,Jornada 19,19,10 Mar 18,10,Mar,18,Talleres Córdoba,3,Atl.Tucumán,1,3-1
+716,Liga Profesional Argentina 2018,Jornada 20,20,18 Mar 18,18,Mar,18,Talleres Córdoba,1,Defensa y Justicia,0,1-0
+717,Liga Profesional Argentina 2018,Jornada 20,20,18 Mar 18,18,Mar,18,Atl.Tucumán,1,Boca Juniors,1,1-1
+718,Liga Profesional Argentina 2018,Jornada 20,20,20 Mar 18,20,Mar,18,Tigre,1,Independiente,1,1-1
+719,Liga Profesional Argentina 2018,Jornada 20,20,17 Mar 18,17,Mar,18,Argentinos Juniors,1,Newell's Old Boys,0,1-0
+720,Liga Profesional Argentina 2018,Jornada 20,20,17 Mar 18,17,Mar,18,San Martín San Juan,3,Gimnasia La Plata,0,3-0
+721,Liga Profesional Argentina 2018,Jornada 20,20,19 Mar 18,19,Mar,18,Banfield,0,Unión Santa Fe,2,0-2
+722,Liga Profesional Argentina 2018,Jornada 20,20,17 Mar 18,17,Mar,18,Temperley,1,CA Huracán,2,1-2
+723,Liga Profesional Argentina 2018,Jornada 20,20,17 Mar 18,17,Mar,18,San Lorenzo,2,Olimpo,0,2-0
+724,Liga Profesional Argentina 2018,Jornada 20,20,17 Mar 18,17,Mar,18,Colón,1,Lanús,2,1-2
+725,Liga Profesional Argentina 2018,Jornada 20,20,18 Mar 18,18,Mar,18,Estudiantes La Plata,0,Godoy Cruz,1,0-1
+726,Liga Profesional Argentina 2018,Jornada 20,20,18 Mar 18,18,Mar,18,Arsenal de Sarandí,1,Vélez Sarsfield,1,1-1
+727,Liga Profesional Argentina 2018,Jornada 20,20,16 Mar 18,16,Mar,18,Rosario Central,3,Chacarita Juniors,1,3-1
+728,Liga Profesional Argentina 2018,Jornada 20,20,18 Mar 18,18,Mar,18,Racing Club,5,Patronato,0,5-0
+729,Liga Profesional Argentina 2018,Jornada 20,20,19 Mar 18,19,Mar,18,River Plate,3,Belgrano,1,3-1
+730,Liga Profesional Argentina 2018,Jornada 21,21,01 Abr 18,01,Abr,18,Defensa y Justicia,1,River Plate,3,1-3
+731,Liga Profesional Argentina 2018,Jornada 21,21,31 Mar 18,31,Mar,18,Belgrano,2,Racing Club,2,2-2
+732,Liga Profesional Argentina 2018,Jornada 21,21,01 Abr 18,01,Abr,18,Patronato,3,Rosario Central,0,3-0
+733,Liga Profesional Argentina 2018,Jornada 21,21,01 Abr 18,01,Abr,18,Chacarita Juniors,2,Arsenal de Sarandí,2,2-2
+734,Liga Profesional Argentina 2018,Jornada 21,21,31 Mar 18,31,Mar,18,Vélez Sarsfield,3,Estudiantes La Plata,3,3-3
+735,Liga Profesional Argentina 2018,Jornada 21,21,03 Abr 18,03,Abr,18,Godoy Cruz,2,Colón,1,2-1
+736,Liga Profesional Argentina 2018,Jornada 21,21,02 Abr 18,02,Abr,18,Lanús,0,San Lorenzo,2,0-2
+737,Liga Profesional Argentina 2018,Jornada 21,21,03 Abr 18,03,Abr,18,Olimpo,1,Temperley,1,1-1
+738,Liga Profesional Argentina 2018,Jornada 21,21,31 Mar 18,31,Mar,18,CA Huracán,1,Banfield,1,1-1
+739,Liga Profesional Argentina 2018,Jornada 21,21,31 Mar 18,31,Mar,18,Unión Santa Fe,1,San Martín San Juan,1,1-1
+740,Liga Profesional Argentina 2018,Jornada 21,21,31 Mar 18,31,Mar,18,Gimnasia La Plata,1,Argentinos Juniors,3,1-3
+741,Liga Profesional Argentina 2018,Jornada 21,21,31 Mar 18,31,Mar,18,Newell's Old Boys,2,Tigre,1,2-1
+742,Liga Profesional Argentina 2018,Jornada 21,21,01 Abr 18,01,Abr,18,Independiente,0,Atl.Tucumán,2,0-2
+743,Liga Profesional Argentina 2018,Jornada 21,21,01 Abr 18,01,Abr,18,Boca Juniors,2,Talleres Córdoba,1,2-1
+744,Liga Profesional Argentina 2018,Jornada 22,22,08 Abr 18,08,Abr,18,Boca Juniors,1,Defensa y Justicia,2,1-2
+745,Liga Profesional Argentina 2018,Jornada 22,22,08 Abr 18,08,Abr,18,Talleres Córdoba,0,Independiente,2,0-2
+746,Liga Profesional Argentina 2018,Jornada 22,22,08 Abr 18,08,Abr,18,Atl.Tucumán,1,Newell's Old Boys,1,1-1
+747,Liga Profesional Argentina 2018,Jornada 22,22,07 Abr 18,07,Abr,18,Tigre,2,Gimnasia La Plata,0,2-0
+748,Liga Profesional Argentina 2018,Jornada 22,22,07 Abr 18,07,Abr,18,Argentinos Juniors,3,Unión Santa Fe,1,3-1
+749,Liga Profesional Argentina 2018,Jornada 22,22,08 Abr 18,08,Abr,18,San Martín San Juan,0,CA Huracán,1,0-1
+750,Liga Profesional Argentina 2018,Jornada 22,22,07 Abr 18,07,Abr,18,Banfield,3,Olimpo,0,3-0
+751,Liga Profesional Argentina 2018,Jornada 22,22,07 Abr 18,07,Abr,18,Temperley,2,Lanús,2,2-2
+752,Liga Profesional Argentina 2018,Jornada 22,22,08 Abr 18,08,Abr,18,San Lorenzo,0,Godoy Cruz,5,0-5
+753,Liga Profesional Argentina 2018,Jornada 22,22,10 May 18,10,May,18,Colón,0,Vélez Sarsfield,1,0-1
+754,Liga Profesional Argentina 2018,Jornada 22,22,10 Abr 18,10,Abr,18,Estudiantes La Plata,0,Chacarita Juniors,2,0-2
+755,Liga Profesional Argentina 2018,Jornada 22,22,10 Abr 18,10,Abr,18,Arsenal de Sarandí,1,Patronato,1,1-1
+756,Liga Profesional Argentina 2018,Jornada 22,22,07 Abr 18,07,Abr,18,Rosario Central,2,Belgrano,1,2-1
+757,Liga Profesional Argentina 2018,Jornada 22,22,09 Abr 18,09,Abr,18,Racing Club,0,River Plate,2,0-2
+758,Liga Profesional Argentina 2018,Jornada 23,23,15 Abr 18,15,Abr,18,Defensa y Justicia,3,Racing Club,2,3-2
+759,Liga Profesional Argentina 2018,Jornada 23,23,15 Abr 18,15,Abr,18,River Plate,2,Rosario Central,0,2-0
+760,Liga Profesional Argentina 2018,Jornada 23,23,14 Abr 18,14,Abr,18,Belgrano,3,Arsenal de Sarandí,0,3-0
+761,Liga Profesional Argentina 2018,Jornada 23,23,15 Abr 18,15,Abr,18,Patronato,0,Estudiantes La Plata,1,0-1
+762,Liga Profesional Argentina 2018,Jornada 23,23,15 Abr 18,15,Abr,18,Chacarita Juniors,0,Colón,2,0-2
+763,Liga Profesional Argentina 2018,Jornada 23,23,17 Abr 18,17,Abr,18,Vélez Sarsfield,2,San Lorenzo,2,2-2
+764,Liga Profesional Argentina 2018,Jornada 23,23,14 Abr 18,14,Abr,18,Godoy Cruz,3,Temperley,0,3-0
+765,Liga Profesional Argentina 2018,Jornada 23,23,14 Abr 18,14,Abr,18,Lanús,0,Banfield,0,0-0
+766,Liga Profesional Argentina 2018,Jornada 23,23,14 Abr 18,14,Abr,18,Olimpo,0,San Martín San Juan,2,0-2
+767,Liga Profesional Argentina 2018,Jornada 23,23,14 Abr 18,14,Abr,18,CA Huracán,1,Argentinos Juniors,0,1-0
+768,Liga Profesional Argentina 2018,Jornada 23,23,15 Abr 18,15,Abr,18,Unión Santa Fe,3,Tigre,3,3-3
+769,Liga Profesional Argentina 2018,Jornada 23,23,14 Abr 18,14,Abr,18,Gimnasia La Plata,1,Atl.Tucumán,2,1-2
+770,Liga Profesional Argentina 2018,Jornada 23,23,17 Abr 18,17,Abr,18,Newell's Old Boys,2,Talleres Córdoba,1,2-1
+771,Liga Profesional Argentina 2018,Jornada 23,23,16 Abr 18,16,Abr,18,Independiente,1,Boca Juniors,0,1-0
+772,Liga Profesional Argentina 2018,Jornada 24,24,24 Abr 18,24,Abr,18,Independiente,0,Defensa y Justicia,1,0-1
+773,Liga Profesional Argentina 2018,Jornada 24,24,23 Abr 18,23,Abr,18,Boca Juniors,3,Newell's Old Boys,1,3-1
+774,Liga Profesional Argentina 2018,Jornada 24,24,21 Abr 18,21,Abr,18,Talleres Córdoba,2,Gimnasia La Plata,0,2-0
+775,Liga Profesional Argentina 2018,Jornada 24,24,22 Abr 18,22,Abr,18,Atl.Tucumán,0,Unión Santa Fe,0,0-0
+776,Liga Profesional Argentina 2018,Jornada 24,24,22 Abr 18,22,Abr,18,Tigre,0,CA Huracán,2,0-2
+777,Liga Profesional Argentina 2018,Jornada 24,24,21 Abr 18,21,Abr,18,Argentinos Juniors,1,Olimpo,0,1-0
+778,Liga Profesional Argentina 2018,Jornada 24,24,21 Abr 18,21,Abr,18,San Martín San Juan,1,Lanús,1,1-1
+779,Liga Profesional Argentina 2018,Jornada 24,24,21 Abr 18,21,Abr,18,Banfield,1,Godoy Cruz,1,1-1
+780,Liga Profesional Argentina 2018,Jornada 24,24,21 Abr 18,21,Abr,18,Temperley,2,Vélez Sarsfield,4,2-4
+781,Liga Profesional Argentina 2018,Jornada 24,24,22 Abr 18,22,Abr,18,San Lorenzo,1,Chacarita Juniors,0,1-0
+782,Liga Profesional Argentina 2018,Jornada 24,24,24 Abr 18,24,Abr,18,Colón,4,Patronato,0,4-0
+783,Liga Profesional Argentina 2018,Jornada 24,24,21 Abr 18,21,Abr,18,Estudiantes La Plata,0,Belgrano,1,0-1
+784,Liga Profesional Argentina 2018,Jornada 24,24,22 Abr 18,22,Abr,18,Arsenal de Sarandí,0,River Plate,3,0-3
+785,Liga Profesional Argentina 2018,Jornada 24,24,22 Abr 18,22,Abr,18,Rosario Central,0,Racing Club,2,0-2
+786,Liga Profesional Argentina 2018,Jornada 25,25,28 Abr 18,28,Abr,18,Defensa y Justicia,3,Rosario Central,1,3-1
+787,Liga Profesional Argentina 2018,Jornada 25,25,09 May 18,09,May,18,Racing Club,2,Arsenal de Sarandí,0,2-0
+788,Liga Profesional Argentina 2018,Jornada 25,25,11 May 18,11,May,18,River Plate,2,Estudiantes La Plata,0,2-0
+789,Liga Profesional Argentina 2018,Jornada 25,25,29 Abr 18,29,Abr,18,Belgrano,1,Colón,0,1-0
+790,Liga Profesional Argentina 2018,Jornada 25,25,29 Abr 18,29,Abr,18,Patronato,0,San Lorenzo,0,0-0
+791,Liga Profesional Argentina 2018,Jornada 25,25,28 Abr 18,28,Abr,18,Chacarita Juniors,1,Temperley,2,1-2
+792,Liga Profesional Argentina 2018,Jornada 25,25,28 Abr 18,28,Abr,18,Vélez Sarsfield,1,Banfield,0,1-0
+793,Liga Profesional Argentina 2018,Jornada 25,25,28 Abr 18,28,Abr,18,Godoy Cruz,2,San Martín San Juan,0,2-0
+794,Liga Profesional Argentina 2018,Jornada 25,25,28 Abr 18,28,Abr,18,Lanús,0,Argentinos Juniors,0,0-0
+795,Liga Profesional Argentina 2018,Jornada 25,25,01 May 18,01,May,18,Olimpo,1,Tigre,5,1-5
+796,Liga Profesional Argentina 2018,Jornada 25,25,29 Abr 18,29,Abr,18,CA Huracán,3,Atl.Tucumán,2,3-2
+797,Liga Profesional Argentina 2018,Jornada 25,25,01 May 18,01,May,18,Unión Santa Fe,3,Talleres Córdoba,0,3-0
+798,Liga Profesional Argentina 2018,Jornada 25,25,10 May 18,10,May,18,Gimnasia La Plata,2,Boca Juniors,2,2-2
+799,Liga Profesional Argentina 2018,Jornada 25,25,28 Abr 18,28,Abr,18,Newell's Old Boys,0,Independiente,1,0-1
+800,Liga Profesional Argentina 2018,Jornada 26,26,05 May 18,05,May,18,Newell's Old Boys,1,Defensa y Justicia,0,1-0
+801,Liga Profesional Argentina 2018,Jornada 26,26,06 May 18,06,May,18,Independiente,2,Gimnasia La Plata,2,2-2
+802,Liga Profesional Argentina 2018,Jornada 26,26,06 May 18,06,May,18,Boca Juniors,2,Unión Santa Fe,0,2-0
+803,Liga Profesional Argentina 2018,Jornada 26,26,05 May 18,05,May,18,Talleres Córdoba,0,CA Huracán,0,0-0
+804,Liga Profesional Argentina 2018,Jornada 26,26,06 May 18,06,May,18,Atl.Tucumán,1,Olimpo,1,1-1
+805,Liga Profesional Argentina 2018,Jornada 26,26,06 May 18,06,May,18,Tigre,0,Lanús,0,0-0
+806,Liga Profesional Argentina 2018,Jornada 26,26,05 May 18,05,May,18,Argentinos Juniors,1,Godoy Cruz,2,1-2
+807,Liga Profesional Argentina 2018,Jornada 26,26,05 May 18,05,May,18,San Martín San Juan,0,Vélez Sarsfield,2,0-2
+808,Liga Profesional Argentina 2018,Jornada 26,26,08 May 18,08,May,18,Banfield,2,Chacarita Juniors,1,2-1
+809,Liga Profesional Argentina 2018,Jornada 26,26,06 May 18,06,May,18,Temperley,1,Patronato,2,1-2
+810,Liga Profesional Argentina 2018,Jornada 26,26,05 May 18,05,May,18,San Lorenzo,2,Belgrano,0,2-0
+811,Liga Profesional Argentina 2018,Jornada 26,26,08 May 18,08,May,18,Colón,0,River Plate,0,0-0
+812,Liga Profesional Argentina 2018,Jornada 26,26,07 May 18,07,May,18,Estudiantes La Plata,1,Racing Club,2,1-2
+813,Liga Profesional Argentina 2018,Jornada 26,26,05 May 18,05,May,18,Arsenal de Sarandí,4,Rosario Central,0,4-0
+814,Liga Profesional Argentina 2018,Jornada 27,27,12 May 18,12,May,18,Defensa y Justicia,2,Arsenal de Sarandí,0,2-0
+815,Liga Profesional Argentina 2018,Jornada 27,27,15 May 18,15,May,18,Rosario Central,1,Estudiantes La Plata,1,1-1
+816,Liga Profesional Argentina 2018,Jornada 27,27,15 May 18,15,May,18,Racing Club,1,Colón,3,1-3
+817,Liga Profesional Argentina 2018,Jornada 27,27,15 May 18,15,May,18,River Plate,2,San Lorenzo,0,2-0
+818,Liga Profesional Argentina 2018,Jornada 27,27,13 May 18,13,May,18,Belgrano,2,Temperley,3,2-3
+819,Liga Profesional Argentina 2018,Jornada 27,27,12 May 18,12,May,18,Patronato,0,Banfield,0,0-0
+820,Liga Profesional Argentina 2018,Jornada 27,27,12 May 18,12,May,18,Chacarita Juniors,1,San Martín San Juan,4,1-4
+821,Liga Profesional Argentina 2018,Jornada 27,27,14 May 18,14,May,18,Vélez Sarsfield,1,Argentinos Juniors,1,1-1
+822,Liga Profesional Argentina 2018,Jornada 27,27,13 May 18,13,May,18,Godoy Cruz,2,Tigre,0,2-0
+823,Liga Profesional Argentina 2018,Jornada 27,27,12 May 18,12,May,18,Lanús,0,Atl.Tucumán,0,0-0
+824,Liga Profesional Argentina 2018,Jornada 27,27,12 May 18,12,May,18,Olimpo,2,Talleres Córdoba,2,2-2
+825,Liga Profesional Argentina 2018,Jornada 27,27,12 May 18,12,May,18,CA Huracán,3,Boca Juniors,3,3-3
+826,Liga Profesional Argentina 2018,Jornada 27,27,12 May 18,12,May,18,Unión Santa Fe,1,Independiente,0,1-0
+827,Liga Profesional Argentina 2018,Jornada 27,27,15 May 18,15,May,18,Gimnasia La Plata,2,Newell's Old Boys,0,2-0
+828,Liga Profesional Argentina 2019,Jornada 1,1,12 Ago 18,12,Ago,18,Boca Juniors,1,Talleres Córdoba,0,1-0
+829,Liga Profesional Argentina 2019,Jornada 1,1,08 Nov 18,08,Nov,18,Independiente,4,San Martín Tucumán,0,4-0
+830,Liga Profesional Argentina 2019,Jornada 1,1,12 Ago 18,12,Ago,18,Lanús,2,Defensa y Justicia,2,2-2
+831,Liga Profesional Argentina 2019,Jornada 1,1,11 Ago 18,11,Ago,18,Vélez Sarsfield,2,Newell's Old Boys,0,2-0
+832,Liga Profesional Argentina 2019,Jornada 1,1,11 Ago 18,11,Ago,18,Patronato,0,Colón,0,0-0
+833,Liga Profesional Argentina 2019,Jornada 1,1,12 Ago 18,12,Ago,18,Belgrano,0,San Martín San Juan,0,0-0
+834,Liga Profesional Argentina 2019,Jornada 1,1,13 Ago 18,13,Ago,18,CA Huracán,0,River Plate,0,0-0
+835,Liga Profesional Argentina 2019,Jornada 1,1,11 Ago 18,11,Ago,18,Gimnasia La Plata,1,Argentinos Juniors,0,1-0
+836,Liga Profesional Argentina 2019,Jornada 1,1,11 Ago 18,11,Ago,18,Tigre,2,San Lorenzo,2,2-2
+837,Liga Profesional Argentina 2019,Jornada 1,1,12 Ago 18,12,Ago,18,Rosario Central,1,Banfield,0,1-0
+838,Liga Profesional Argentina 2019,Jornada 1,1,14 Ago 18,14,Ago,18,Atl.Tucumán,2,Racing Club,2,2-2
+839,Liga Profesional Argentina 2019,Jornada 1,1,12 Ago 18,12,Ago,18,Godoy Cruz,1,Estudiantes La Plata,0,1-0
+840,Liga Profesional Argentina 2019,Jornada 1,1,11 Ago 18,11,Ago,18,Unión Santa Fe,1,Aldosivi,0,1-0
+841,Liga Profesional Argentina 2019,Jornada 2,2,19 Ago 18,19,Ago,18,River Plate,0,Belgrano,0,0-0
+842,Liga Profesional Argentina 2019,Jornada 2,2,19 Ago 18,19,Ago,18,Aldosivi,2,CA Huracán,1,2-1
+843,Liga Profesional Argentina 2019,Jornada 2,2,20 Ago 18,20,Ago,18,Racing Club,2,Vélez Sarsfield,0,2-0
+844,Liga Profesional Argentina 2019,Jornada 2,2,18 Ago 18,18,Ago,18,Banfield,1,Gimnasia La Plata,0,1-0
+845,Liga Profesional Argentina 2019,Jornada 2,2,19 Ago 18,19,Ago,18,Colón,2,Tigre,2,2-2
+846,Liga Profesional Argentina 2019,Jornada 2,2,18 Ago 18,18,Ago,18,Talleres Córdoba,0,Rosario Central,1,0-1
+847,Liga Profesional Argentina 2019,Jornada 2,2,19 Ago 18,19,Ago,18,San Lorenzo,2,Lanús,2,2-2
+848,Liga Profesional Argentina 2019,Jornada 2,2,18 Ago 18,18,Ago,18,Argentinos Juniors,0,Godoy Cruz,0,0-0
+849,Liga Profesional Argentina 2019,Jornada 2,2,20 Ago 18,20,Ago,18,Estudiantes La Plata,2,Boca Juniors,0,2-0
+850,Liga Profesional Argentina 2019,Jornada 2,2,18 Ago 18,18,Ago,18,Defensa y Justicia,1,Atl.Tucumán,1,1-1
+851,Liga Profesional Argentina 2019,Jornada 2,2,20 Ago 18,20,Ago,18,San Martín Tucumán,1,Unión Santa Fe,1,1-1
+852,Liga Profesional Argentina 2019,Jornada 2,2,19 Ago 18,19,Ago,18,San Martín San Juan,1,Patronato,0,1-0
+853,Liga Profesional Argentina 2019,Jornada 2,2,18 Ago 18,18,Ago,18,Newell's Old Boys,2,Independiente,2,2-2
+854,Liga Profesional Argentina 2019,Jornada 3,3,26 Ago 18,26,Ago,18,River Plate,0,Argentinos Juniors,0,0-0
+855,Liga Profesional Argentina 2019,Jornada 3,3,25 Ago 18,25,Ago,18,Independiente,0,Defensa y Justicia,1,0-1
+856,Liga Profesional Argentina 2019,Jornada 3,3,26 Ago 18,26,Ago,18,Lanús,0,Aldosivi,1,0-1
+857,Liga Profesional Argentina 2019,Jornada 3,3,26 Ago 18,26,Ago,18,Vélez Sarsfield,1,Banfield,1,1-1
+858,Liga Profesional Argentina 2019,Jornada 3,3,25 Ago 18,25,Ago,18,Patronato,0,Racing Club,3,0-3
+859,Liga Profesional Argentina 2019,Jornada 3,3,25 Ago 18,25,Ago,18,Belgrano,2,Estudiantes La Plata,1,2-1
+860,Liga Profesional Argentina 2019,Jornada 3,3,27 Ago 18,27,Ago,18,CA Huracán,0,Boca Juniors,0,0-0
+861,Liga Profesional Argentina 2019,Jornada 3,3,25 Ago 18,25,Ago,18,Gimnasia La Plata,0,Talleres Córdoba,2,0-2
+862,Liga Profesional Argentina 2019,Jornada 3,3,25 Ago 18,25,Ago,18,Tigre,2,San Martín San Juan,2,2-2
+863,Liga Profesional Argentina 2019,Jornada 3,3,26 Ago 18,26,Ago,18,Rosario Central,2,San Martín Tucumán,0,2-0
+864,Liga Profesional Argentina 2019,Jornada 3,3,25 Ago 18,25,Ago,18,Atl.Tucumán,2,Colón,1,2-1
+865,Liga Profesional Argentina 2019,Jornada 3,3,28 Ago 18,28,Ago,18,Godoy Cruz,2,Newell's Old Boys,1,2-1
+866,Liga Profesional Argentina 2019,Jornada 3,3,28 Ago 18,28,Ago,18,Unión Santa Fe,1,San Lorenzo,1,1-1
+867,Liga Profesional Argentina 2019,Jornada 4,4,03 Sep 18,03,Sep,18,Boca Juniors,3,Vélez Sarsfield,0,3-0
+868,Liga Profesional Argentina 2019,Jornada 4,4,02 Sep 18,02,Sep,18,Aldosivi,0,Tigre,2,0-2
+869,Liga Profesional Argentina 2019,Jornada 4,4,02 Sep 18,02,Sep,18,Racing Club,2,Rosario Central,0,2-0
+870,Liga Profesional Argentina 2019,Jornada 4,4,01 Sep 18,01,Sep,18,Banfield,1,Patronato,0,1-0
+871,Liga Profesional Argentina 2019,Jornada 4,4,02 Sep 18,02,Sep,18,Colón,0,Unión Santa Fe,0,0-0
+872,Liga Profesional Argentina 2019,Jornada 4,4,01 Sep 18,01,Sep,18,Talleres Córdoba,1,Godoy Cruz,0,1-0
+873,Liga Profesional Argentina 2019,Jornada 4,4,02 Sep 18,02,Sep,18,San Lorenzo,1,River Plate,1,1-1
+874,Liga Profesional Argentina 2019,Jornada 4,4,01 Sep 18,01,Sep,18,Argentinos Juniors,2,Lanús,0,2-0
+875,Liga Profesional Argentina 2019,Jornada 4,4,02 Sep 18,02,Sep,18,Estudiantes La Plata,2,Independiente,2,2-2
+876,Liga Profesional Argentina 2019,Jornada 4,4,01 Sep 18,01,Sep,18,Defensa y Justicia,1,Belgrano,1,1-1
+877,Liga Profesional Argentina 2019,Jornada 4,4,04 Sep 18,04,Sep,18,San Martín Tucumán,1,Gimnasia La Plata,1,1-1
+878,Liga Profesional Argentina 2019,Jornada 4,4,01 Sep 18,01,Sep,18,San Martín San Juan,1,CA Huracán,2,1-2
+879,Liga Profesional Argentina 2019,Jornada 4,4,04 Sep 18,04,Sep,18,Newell's Old Boys,1,Atl.Tucumán,2,1-2
+880,Liga Profesional Argentina 2019,Jornada 5,5,15 Sep 18,15,Sep,18,River Plate,4,San Martín San Juan,1,4-1
+881,Liga Profesional Argentina 2019,Jornada 5,5,16 Sep 18,16,Sep,18,Argentinos Juniors,0,Boca Juniors,1,0-1
+882,Liga Profesional Argentina 2019,Jornada 5,5,15 Sep 18,15,Sep,18,Estudiantes La Plata,0,Aldosivi,2,0-2
+883,Liga Profesional Argentina 2019,Jornada 5,5,16 Sep 18,16,Sep,18,Vélez Sarsfield,1,San Martín Tucumán,0,1-0
+884,Liga Profesional Argentina 2019,Jornada 5,5,16 Sep 18,16,Sep,18,Patronato,0,Gimnasia La Plata,2,0-2
+885,Liga Profesional Argentina 2019,Jornada 5,5,15 Sep 18,15,Sep,18,Belgrano,0,Newell's Old Boys,0,0-0
+886,Liga Profesional Argentina 2019,Jornada 5,5,18 Sep 18,18,Sep,18,CA Huracán,3,Banfield,0,3-0
+887,Liga Profesional Argentina 2019,Jornada 5,5,15 Sep 18,15,Sep,18,Independiente,3,Colón,0,3-0
+888,Liga Profesional Argentina 2019,Jornada 5,5,16 Sep 18,16,Sep,18,Lanús,0,Racing Club,1,0-1
+889,Liga Profesional Argentina 2019,Jornada 5,5,18 Sep 18,18,Sep,18,Rosario Central,0,Defensa y Justicia,1,0-1
+890,Liga Profesional Argentina 2019,Jornada 5,5,15 Sep 18,15,Sep,18,Atl.Tucumán,3,Tigre,0,3-0
+891,Liga Profesional Argentina 2019,Jornada 5,5,17 Sep 18,17,Sep,18,Godoy Cruz,1,San Lorenzo,0,1-0
+892,Liga Profesional Argentina 2019,Jornada 5,5,16 Sep 18,16,Sep,18,Unión Santa Fe,2,Talleres Córdoba,1,2-1
+893,Liga Profesional Argentina 2019,Jornada 6,6,23 Sep 18,23,Sep,18,Boca Juniors,0,River Plate,2,0-2
+894,Liga Profesional Argentina 2019,Jornada 6,6,24 Sep 18,24,Sep,18,Aldosivi,2,Belgrano,0,2-0
+895,Liga Profesional Argentina 2019,Jornada 6,6,23 Sep 18,23,Sep,18,Gimnasia La Plata,1,Rosario Central,1,1-1
+896,Liga Profesional Argentina 2019,Jornada 6,6,18 Nov 18,18,Nov,18,Defensa y Justicia,1,Estudiantes La Plata,1,1-1
+897,Liga Profesional Argentina 2019,Jornada 6,6,22 Sep 18,22,Sep,18,Colón,3,Godoy Cruz,1,3-1
+898,Liga Profesional Argentina 2019,Jornada 6,6,22 Sep 18,22,Sep,18,Talleres Córdoba,1,Vélez Sarsfield,1,1-1
+899,Liga Profesional Argentina 2019,Jornada 6,6,22 Sep 18,22,Sep,18,San Lorenzo,3,Patronato,2,3-2
+900,Liga Profesional Argentina 2019,Jornada 6,6,25 Sep 18,25,Sep,18,Racing Club,1,Unión Santa Fe,0,1-0
+901,Liga Profesional Argentina 2019,Jornada 6,6,23 Sep 18,23,Sep,18,Banfield,1,Independiente,1,1-1
+902,Liga Profesional Argentina 2019,Jornada 6,6,23 Sep 18,23,Sep,18,Tigre,0,CA Huracán,2,0-2
+903,Liga Profesional Argentina 2019,Jornada 6,6,23 Sep 18,23,Sep,18,San Martín Tucumán,0,Argentinos Juniors,0,0-0
+904,Liga Profesional Argentina 2019,Jornada 6,6,23 Sep 18,23,Sep,18,San Martín San Juan,1,Atl.Tucumán,3,1-3
+905,Liga Profesional Argentina 2019,Jornada 6,6,22 Sep 18,22,Sep,18,Newell's Old Boys,2,Lanús,0,2-0
+906,Liga Profesional Argentina 2019,Jornada 7,7,01 Oct 18,01,Oct,18,Boca Juniors,3,Colón,1,3-1
+907,Liga Profesional Argentina 2019,Jornada 7,7,30 Sep 18,30,Sep,18,Argentinos Juniors,0,Racing Club,2,0-2
+908,Liga Profesional Argentina 2019,Jornada 7,7,25 Oct 18,25,Oct,18,Estudiantes La Plata,1,Newell's Old Boys,0,1-0
+909,Liga Profesional Argentina 2019,Jornada 7,7,02 Oct 18,02,Oct,18,Vélez Sarsfield,2,Aldosivi,0,2-0
+910,Liga Profesional Argentina 2019,Jornada 7,7,30 Sep 18,30,Sep,18,Patronato,2,Talleres Córdoba,1,2-1
+911,Liga Profesional Argentina 2019,Jornada 7,7,30 Sep 18,30,Sep,18,Belgrano,0,CA Huracán,1,0-1
+912,Liga Profesional Argentina 2019,Jornada 7,7,18 Nov 18,18,Nov,18,San Lorenzo,0,Atl.Tucumán,2,0-2
+913,Liga Profesional Argentina 2019,Jornada 7,7,28 Sep 18,28,Sep,18,Independiente,0,Tigre,0,0-0
+914,Liga Profesional Argentina 2019,Jornada 7,7,29 Sep 18,29,Sep,18,Lanús,1,River Plate,5,1-5
+915,Liga Profesional Argentina 2019,Jornada 7,7,28 Nov 18,28,Nov,18,Rosario Central,1,San Martín San Juan,0,1-0
+916,Liga Profesional Argentina 2019,Jornada 7,7,02 Oct 18,02,Oct,18,San Martín Tucumán,1,Banfield,1,1-1
+917,Liga Profesional Argentina 2019,Jornada 7,7,02 Oct 18,02,Oct,18,Godoy Cruz,0,Defensa y Justicia,1,0-1
+918,Liga Profesional Argentina 2019,Jornada 7,7,30 Sep 18,30,Sep,18,Unión Santa Fe,1,Gimnasia La Plata,0,1-0
+919,Liga Profesional Argentina 2019,Jornada 8,8,20 Ene 19,20,Ene,19,River Plate,0,Defensa y Justicia,1,0-1
+920,Liga Profesional Argentina 2019,Jornada 8,8,06 Oct 18,06,Oct,18,Aldosivi,2,San Martín Tucumán,0,2-0
+921,Liga Profesional Argentina 2019,Jornada 8,8,06 Oct 18,06,Oct,18,Gimnasia La Plata,1,Godoy Cruz,0,1-0
+922,Liga Profesional Argentina 2019,Jornada 8,8,09 Oct 18,09,Oct,18,Tigre,1,Estudiantes La Plata,0,1-0
+923,Liga Profesional Argentina 2019,Jornada 8,8,07 Oct 18,07,Oct,18,Patronato,1,Independiente,2,1-2
+924,Liga Profesional Argentina 2019,Jornada 8,8,07 Oct 18,07,Oct,18,Talleres Córdoba,3,Belgrano,0,3-0
+925,Liga Profesional Argentina 2019,Jornada 8,8,14 Dic 18,14,Dic,18,CA Huracán,0,Argentinos Juniors,0,0-0
+926,Liga Profesional Argentina 2019,Jornada 8,8,08 Oct 18,08,Oct,18,Racing Club,2,Boca Juniors,2,2-2
+927,Liga Profesional Argentina 2019,Jornada 8,8,07 Oct 18,07,Oct,18,Banfield,2,San Lorenzo,0,2-0
+928,Liga Profesional Argentina 2019,Jornada 8,8,07 Oct 18,07,Oct,18,Rosario Central,0,Unión Santa Fe,4,0-4
+929,Liga Profesional Argentina 2019,Jornada 8,8,07 Oct 18,07,Oct,18,Atl.Tucumán,0,Lanús,0,0-0
+930,Liga Profesional Argentina 2019,Jornada 8,8,06 Oct 18,06,Oct,18,San Martín San Juan,3,Vélez Sarsfield,1,3-1
+931,Liga Profesional Argentina 2019,Jornada 8,8,09 Oct 18,09,Oct,18,Colón,1,Newell's Old Boys,0,1-0
+932,Liga Profesional Argentina 2019,Jornada 9,9,20 Oct 18,20,Oct,18,Boca Juniors,0,Rosario Central,0,0-0
+933,Liga Profesional Argentina 2019,Jornada 9,9,21 Oct 18,21,Oct,18,Argentinos Juniors,0,Unión Santa Fe,1,0-1
+934,Liga Profesional Argentina 2019,Jornada 9,9,21 Oct 18,21,Oct,18,Estudiantes La Plata,1,Atl.Tucumán,1,1-1
+935,Liga Profesional Argentina 2019,Jornada 9,9,20 Oct 18,20,Oct,18,Defensa y Justicia,2,Talleres Córdoba,0,2-0
+936,Liga Profesional Argentina 2019,Jornada 9,9,20 Oct 18,20,Oct,18,Colón,1,River Plate,0,1-0
+937,Liga Profesional Argentina 2019,Jornada 9,9,23 Oct 18,23,Oct,18,Belgrano,1,Banfield,1,1-1
+938,Liga Profesional Argentina 2019,Jornada 9,9,23 Oct 18,23,Oct,18,San Lorenzo,2,San Martín San Juan,1,2-1
+939,Liga Profesional Argentina 2019,Jornada 9,9,21 Oct 18,21,Oct,18,Independiente,3,CA Huracán,1,3-1
+940,Liga Profesional Argentina 2019,Jornada 9,9,20 Oct 18,20,Oct,18,Lanús,3,Patronato,1,3-1
+941,Liga Profesional Argentina 2019,Jornada 9,9,20 Oct 18,20,Oct,18,Vélez Sarsfield,1,Gimnasia La Plata,0,1-0
+942,Liga Profesional Argentina 2019,Jornada 9,9,22 Oct 18,22,Oct,18,San Martín Tucumán,2,Racing Club,1,2-1
+943,Liga Profesional Argentina 2019,Jornada 9,9,20 Oct 18,20,Oct,18,Godoy Cruz,2,Aldosivi,0,2-0
+944,Liga Profesional Argentina 2019,Jornada 9,9,21 Oct 18,21,Oct,18,Newell's Old Boys,2,Tigre,0,2-0
+945,Liga Profesional Argentina 2019,Jornada 10,10,27 Oct 18,27,Oct,18,River Plate,1,Aldosivi,0,1-0
+946,Liga Profesional Argentina 2019,Jornada 10,10,28 Oct 18,28,Oct,18,Racing Club,2,San Lorenzo,1,2-1
+947,Liga Profesional Argentina 2019,Jornada 10,10,28 Oct 18,28,Oct,18,Banfield,0,Estudiantes La Plata,2,0-2
+948,Liga Profesional Argentina 2019,Jornada 10,10,28 Oct 18,28,Oct,18,Vélez Sarsfield,1,Belgrano,0,1-0
+949,Liga Profesional Argentina 2019,Jornada 10,10,28 Oct 18,28,Oct,18,Patronato,2,Rosario Central,1,2-1
+950,Liga Profesional Argentina 2019,Jornada 10,10,28 Oct 18,28,Oct,18,Talleres Córdoba,0,San Martín Tucumán,0,0-0
+951,Liga Profesional Argentina 2019,Jornada 10,10,27 Oct 18,27,Oct,18,CA Huracán,3,Colón,2,3-2
+952,Liga Profesional Argentina 2019,Jornada 10,10,27 Oct 18,27,Oct,18,Gimnasia La Plata,2,Boca Juniors,1,2-1
+953,Liga Profesional Argentina 2019,Jornada 10,10,27 Oct 18,27,Oct,18,Tigre,1,Lanús,1,1-1
+954,Liga Profesional Argentina 2019,Jornada 10,10,29 Oct 18,29,Oct,18,Newell's Old Boys,2,Argentinos Juniors,0,2-0
+955,Liga Profesional Argentina 2019,Jornada 10,10,29 Oct 18,29,Oct,18,Atl.Tucumán,4,Independiente,2,4-2
+956,Liga Profesional Argentina 2019,Jornada 10,10,30 Oct 18,30,Oct,18,San Martín San Juan,0,Defensa y Justicia,1,0-1
+957,Liga Profesional Argentina 2019,Jornada 10,10,28 Oct 18,28,Oct,18,Unión Santa Fe,0,Godoy Cruz,3,0-3
+958,Liga Profesional Argentina 2019,Jornada 11,11,04 Nov 18,04,Nov,18,Boca Juniors,4,Tigre,1,4-1
+959,Liga Profesional Argentina 2019,Jornada 11,11,03 Nov 18,03,Nov,18,Aldosivi,1,Banfield,4,1-4
+960,Liga Profesional Argentina 2019,Jornada 11,11,04 Nov 18,04,Nov,18,Racing Club,1,Newell's Old Boys,0,1-0
+961,Liga Profesional Argentina 2019,Jornada 11,11,06 Nov 18,06,Nov,18,Lanús,0,CA Huracán,1,0-1
+962,Liga Profesional Argentina 2019,Jornada 11,11,03 Nov 18,03,Nov,18,Unión Santa Fe,2,Patronato,2,2-2
+963,Liga Profesional Argentina 2019,Jornada 11,11,02 Nov 18,02,Nov,18,Belgrano,2,Gimnasia La Plata,0,2-0
+964,Liga Profesional Argentina 2019,Jornada 11,11,04 Nov 18,04,Nov,18,San Lorenzo,0,Talleres Córdoba,1,0-1
+965,Liga Profesional Argentina 2019,Jornada 11,11,04 Nov 18,04,Nov,18,Argentinos Juniors,0,Independiente,2,0-2
+966,Liga Profesional Argentina 2019,Jornada 11,11,03 Nov 18,03,Nov,18,Estudiantes La Plata,1,River Plate,0,1-0
+967,Liga Profesional Argentina 2019,Jornada 11,11,05 Nov 18,05,Nov,18,Defensa y Justicia,3,Vélez Sarsfield,2,3-2
+968,Liga Profesional Argentina 2019,Jornada 11,11,05 Nov 18,05,Nov,18,San Martín Tucumán,2,San Martín San Juan,0,2-0
+969,Liga Profesional Argentina 2019,Jornada 11,11,03 Nov 18,03,Nov,18,Godoy Cruz,1,Atl.Tucumán,0,1-0
+970,Liga Profesional Argentina 2019,Jornada 11,11,04 Nov 18,04,Nov,18,Rosario Central,1,Colón,1,1-1
+971,Liga Profesional Argentina 2019,Jornada 12,12,24 Ene 19,24,Ene,19,River Plate,1,Unión Santa Fe,2,1-2
+972,Liga Profesional Argentina 2019,Jornada 12,12,11 Nov 18,11,Nov,18,Independiente,2,Belgrano,1,2-1
+973,Liga Profesional Argentina 2019,Jornada 12,12,11 Nov 18,11,Nov,18,Banfield,0,Lanús,0,0-0
+974,Liga Profesional Argentina 2019,Jornada 12,12,13 Nov 18,13,Nov,18,Vélez Sarsfield,0,San Lorenzo,0,0-0
+975,Liga Profesional Argentina 2019,Jornada 12,12,13 Nov 18,13,Nov,18,Patronato,3,San Martín Tucumán,3,3-3
+976,Liga Profesional Argentina 2019,Jornada 12,12,09 Nov 18,09,Nov,18,Talleres Córdoba,0,Aldosivi,0,0-0
+977,Liga Profesional Argentina 2019,Jornada 12,12,12 Nov 18,12,Nov,18,CA Huracán,2,Godoy Cruz,1,2-1
+978,Liga Profesional Argentina 2019,Jornada 12,12,11 Nov 18,11,Nov,18,Gimnasia La Plata,0,Racing Club,3,0-3
+979,Liga Profesional Argentina 2019,Jornada 12,12,12 Nov 18,12,Nov,18,Tigre,2,Argentinos Juniors,1,2-1
+980,Liga Profesional Argentina 2019,Jornada 12,12,12 Nov 18,12,Nov,18,Newell's Old Boys,0,Defensa y Justicia,0,0-0
+981,Liga Profesional Argentina 2019,Jornada 12,12,10 Nov 18,10,Nov,18,Atl.Tucumán,2,Rosario Central,1,2-1
+982,Liga Profesional Argentina 2019,Jornada 12,12,01 Feb 19,01,Feb,19,San Martín San Juan,0,Boca Juniors,4,0-4
+983,Liga Profesional Argentina 2019,Jornada 12,12,11 Nov 18,11,Nov,18,Colón,1,Estudiantes La Plata,1,1-1
+984,Liga Profesional Argentina 2019,Jornada 13,13,17 Nov 18,17,Nov,18,Boca Juniors,1,Patronato,0,1-0
+985,Liga Profesional Argentina 2019,Jornada 13,13,25 Nov 18,25,Nov,18,Aldosivi,1,Newell's Old Boys,0,1-0
+986,Liga Profesional Argentina 2019,Jornada 13,13,26 Nov 18,26,Nov,18,Racing Club,0,Banfield,0,0-0
+987,Liga Profesional Argentina 2019,Jornada 13,13,27 Nov 18,27,Nov,18,Lanús,1,Independiente,0,1-0
+988,Liga Profesional Argentina 2019,Jornada 13,13,25 Nov 18,25,Nov,18,Unión Santa Fe,0,Vélez Sarsfield,2,0-2
+989,Liga Profesional Argentina 2019,Jornada 13,13,23 Nov 18,23,Nov,18,Belgrano,1,Atl.Tucumán,3,1-3
+990,Liga Profesional Argentina 2019,Jornada 13,13,20 Ene 19,20,Ene,19,San Lorenzo,0,CA Huracán,0,0-0
+991,Liga Profesional Argentina 2019,Jornada 13,13,24 Nov 18,24,Nov,18,Argentinos Juniors,0,Talleres Córdoba,2,0-2
+992,Liga Profesional Argentina 2019,Jornada 13,13,21 Nov 18,21,Nov,18,Gimnasia La Plata,0,San Martín San Juan,2,0-2
+993,Liga Profesional Argentina 2019,Jornada 13,13,26 Nov 18,26,Nov,18,Defensa y Justicia,2,Tigre,1,2-1
+994,Liga Profesional Argentina 2019,Jornada 13,13,25 Nov 18,25,Nov,18,San Martín Tucumán,0,Colón,0,0-0
+995,Liga Profesional Argentina 2019,Jornada 13,13,31 Ene 19,31,Ene,19,Godoy Cruz,0,River Plate,4,0-4
+996,Liga Profesional Argentina 2019,Jornada 13,13,24 Nov 18,24,Nov,18,Rosario Central,2,Estudiantes La Plata,1,2-1
+997,Liga Profesional Argentina 2019,Jornada 14,14,03 Dic 18,03,Dic,18,River Plate,3,Gimnasia La Plata,1,3-1
+998,Liga Profesional Argentina 2019,Jornada 14,14,02 Dic 18,02,Dic,18,Aldosivi,2,San Lorenzo,2,2-2
+999,Liga Profesional Argentina 2019,Jornada 14,14,01 Dic 18,01,Dic,18,Estudiantes La Plata,1,Lanús,1,1-1
+1000,Liga Profesional Argentina 2019,Jornada 14,14,03 Dic 18,03,Dic,18,Tigre,1,Godoy Cruz,3,1-3
+1001,Liga Profesional Argentina 2019,Jornada 14,14,30 Nov 18,30,Nov,18,Colón,1,Belgrano,1,1-1
+1002,Liga Profesional Argentina 2019,Jornada 14,14,04 Dic 18,04,Dic,18,Talleres Córdoba,1,Racing Club,3,1-3
+1003,Liga Profesional Argentina 2019,Jornada 14,14,04 Dic 18,04,Dic,18,CA Huracán,1,Defensa y Justicia,1,1-1
+1004,Liga Profesional Argentina 2019,Jornada 14,14,02 Dic 18,02,Dic,18,Independiente,0,Boca Juniors,1,0-1
+1005,Liga Profesional Argentina 2019,Jornada 14,14,02 Dic 18,02,Dic,18,Banfield,0,Argentinos Juniors,1,0-1
+1006,Liga Profesional Argentina 2019,Jornada 14,14,03 Dic 18,03,Dic,18,Vélez Sarsfield,2,Rosario Central,0,2-0
+1007,Liga Profesional Argentina 2019,Jornada 14,14,01 Dic 18,01,Dic,18,Atl.Tucumán,2,San Martín Tucumán,3,2-3
+1008,Liga Profesional Argentina 2019,Jornada 14,14,03 Dic 18,03,Dic,18,San Martín San Juan,2,Unión Santa Fe,0,2-0
+1009,Liga Profesional Argentina 2019,Jornada 14,14,01 Dic 18,01,Dic,18,Newell's Old Boys,1,Patronato,0,1-0
+1010,Liga Profesional Argentina 2019,Jornada 15,15,21 Feb 19,21,Feb,19,Boca Juniors,1,Atl.Tucumán,2,1-2
+1011,Liga Profesional Argentina 2019,Jornada 15,15,09 Dic 18,09,Dic,18,Argentinos Juniors,1,Aldosivi,2,1-2
+1012,Liga Profesional Argentina 2019,Jornada 15,15,09 Dic 18,09,Dic,18,Gimnasia La Plata,2,CA Huracán,2,2-2
+1013,Liga Profesional Argentina 2019,Jornada 15,15,08 Dic 18,08,Dic,18,Defensa y Justicia,3,Colón,0,3-0
+1014,Liga Profesional Argentina 2019,Jornada 15,15,10 Dic 18,10,Dic,18,Patronato,3,Vélez Sarsfield,3,3-3
+1015,Liga Profesional Argentina 2019,Jornada 15,15,11 Dic 18,11,Dic,18,Belgrano,1,Tigre,2,1-2
+1016,Liga Profesional Argentina 2019,Jornada 15,15,08 Dic 18,08,Dic,18,San Lorenzo,1,Estudiantes La Plata,1,1-1
+1017,Liga Profesional Argentina 2019,Jornada 15,15,10 Dic 18,10,Dic,18,Racing Club,1,San Martín San Juan,0,1-0
+1018,Liga Profesional Argentina 2019,Jornada 15,15,08 Dic 18,08,Dic,18,Lanús,2,Talleres Córdoba,1,2-1
+1019,Liga Profesional Argentina 2019,Jornada 15,15,15 Feb 19,15,Feb,19,Rosario Central,1,River Plate,1,1-1
+1020,Liga Profesional Argentina 2019,Jornada 15,15,08 Dic 18,08,Dic,18,San Martín Tucumán,0,Newell's Old Boys,3,0-3
+1021,Liga Profesional Argentina 2019,Jornada 15,15,09 Dic 18,09,Dic,18,Godoy Cruz,1,Independiente,1,1-1
+1022,Liga Profesional Argentina 2019,Jornada 15,15,08 Dic 18,08,Dic,18,Unión Santa Fe,0,Banfield,1,0-1
+1023,Liga Profesional Argentina 2019,Jornada 16,16,27 Ene 19,27,Ene,19,River Plate,1,Patronato,3,1-3
+1024,Liga Profesional Argentina 2019,Jornada 16,16,27 Ene 19,27,Ene,19,Aldosivi,1,Racing Club,3,1-3
+1025,Liga Profesional Argentina 2019,Jornada 16,16,29 Ene 19,29,Ene,19,Estudiantes La Plata,1,Vélez Sarsfield,2,1-2
+1026,Liga Profesional Argentina 2019,Jornada 16,16,26 Ene 19,26,Ene,19,Defensa y Justicia,1,San Lorenzo,0,1-0
+1027,Liga Profesional Argentina 2019,Jornada 16,16,28 Ene 19,28,Ene,19,Newell's Old Boys,1,Boca Juniors,1,1-1
+1028,Liga Profesional Argentina 2019,Jornada 16,16,27 Ene 19,27,Ene,19,Belgrano,0,Unión Santa Fe,0,0-0
+1029,Liga Profesional Argentina 2019,Jornada 16,16,26 Ene 19,26,Ene,19,CA Huracán,2,Rosario Central,1,2-1
+1030,Liga Profesional Argentina 2019,Jornada 16,16,27 Ene 19,27,Ene,19,Independiente,1,Talleres Córdoba,1,1-1
+1031,Liga Profesional Argentina 2019,Jornada 16,16,25 Ene 19,25,Ene,19,Banfield,1,San Martín San Juan,1,1-1
+1032,Liga Profesional Argentina 2019,Jornada 16,16,26 Ene 19,26,Ene,19,Tigre,2,San Martín Tucumán,2,2-2
+1033,Liga Profesional Argentina 2019,Jornada 16,16,28 Ene 19,28,Ene,19,Colón,2,Argentinos Juniors,0,2-0
+1034,Liga Profesional Argentina 2019,Jornada 16,16,25 Ene 19,25,Ene,19,Godoy Cruz,0,Lanús,2,0-2
+1035,Liga Profesional Argentina 2019,Jornada 16,16,26 Ene 19,26,Ene,19,Atl.Tucumán,4,Gimnasia La Plata,1,4-1
+1036,Liga Profesional Argentina 2019,Jornada 17,17,03 Feb 19,03,Feb,19,Boca Juniors,2,Godoy Cruz,0,2-0
+1037,Liga Profesional Argentina 2019,Jornada 17,17,02 Feb 19,02,Feb,19,Argentinos Juniors,0,Belgrano,0,0-0
+1038,Liga Profesional Argentina 2019,Jornada 17,17,01 Feb 19,01,Feb,19,Gimnasia La Plata,3,Tigre,1,3-1
+1039,Liga Profesional Argentina 2019,Jornada 17,17,04 Feb 19,04,Feb,19,Vélez Sarsfield,1,River Plate,2,1-2
+1040,Liga Profesional Argentina 2019,Jornada 17,17,04 Feb 19,04,Feb,19,Patronato,3,Atl.Tucumán,0,3-0
+1041,Liga Profesional Argentina 2019,Jornada 17,17,02 Feb 19,02,Feb,19,Talleres Córdoba,3,Banfield,1,3-1
+1042,Liga Profesional Argentina 2019,Jornada 17,17,02 Feb 19,02,Feb,19,San Lorenzo,0,Independiente,0,0-0
+1043,Liga Profesional Argentina 2019,Jornada 17,17,03 Feb 19,03,Feb,19,Racing Club,3,CA Huracán,1,3-1
+1044,Liga Profesional Argentina 2019,Jornada 17,17,02 Feb 19,02,Feb,19,Lanús,1,Colón,0,1-0
+1045,Liga Profesional Argentina 2019,Jornada 17,17,03 Feb 19,03,Feb,19,Rosario Central,0,Aldosivi,0,0-0
+1046,Liga Profesional Argentina 2019,Jornada 17,17,02 Feb 19,02,Feb,19,San Martín Tucumán,1,Defensa y Justicia,2,1-2
+1047,Liga Profesional Argentina 2019,Jornada 17,17,05 Feb 19,05,Feb,19,San Martín San Juan,3,Estudiantes La Plata,0,3-0
+1048,Liga Profesional Argentina 2019,Jornada 17,17,03 Feb 19,03,Feb,19,Unión Santa Fe,0,Newell's Old Boys,0,0-0
+1049,Liga Profesional Argentina 2019,Jornada 18,18,10 Feb 19,10,Feb,19,River Plate,2,Racing Club,0,2-0
+1050,Liga Profesional Argentina 2019,Jornada 18,18,12 Feb 19,12,Feb,19,Aldosivi,1,San Martín San Juan,0,1-0
+1051,Liga Profesional Argentina 2019,Jornada 18,18,09 Feb 19,09,Feb,19,Estudiantes La Plata,1,Patronato,0,1-0
+1052,Liga Profesional Argentina 2019,Jornada 18,18,11 Feb 19,11,Feb,19,Defensa y Justicia,2,Argentinos Juniors,1,2-1
+1053,Liga Profesional Argentina 2019,Jornada 18,18,24 Mar 19,24,Mar,19,Colón,1,San Lorenzo,1,1-1
+1054,Liga Profesional Argentina 2019,Jornada 18,18,11 Feb 19,11,Feb,19,Belgrano,1,Boca Juniors,1,1-1
+1055,Liga Profesional Argentina 2019,Jornada 18,18,09 Feb 19,09,Feb,19,CA Huracán,1,Vélez Sarsfield,1,1-1
+1056,Liga Profesional Argentina 2019,Jornada 18,18,09 Feb 19,09,Feb,19,Independiente,2,Unión Santa Fe,1,2-1
+1057,Liga Profesional Argentina 2019,Jornada 18,18,09 Feb 19,09,Feb,19,Lanús,2,Gimnasia La Plata,0,2-0
+1058,Liga Profesional Argentina 2019,Jornada 18,18,08 Feb 19,08,Feb,19,Tigre,4,Banfield,4,4-4
+1059,Liga Profesional Argentina 2019,Jornada 18,18,09 Feb 19,09,Feb,19,Atl.Tucumán,0,Talleres Córdoba,0,0-0
+1060,Liga Profesional Argentina 2019,Jornada 18,18,10 Feb 19,10,Feb,19,Godoy Cruz,3,San Martín Tucumán,2,3-2
+1061,Liga Profesional Argentina 2019,Jornada 18,18,10 Feb 19,10,Feb,19,Newell's Old Boys,0,Rosario Central,0,0-0
+1062,Liga Profesional Argentina 2019,Jornada 19,19,17 Feb 19,17,Feb,19,Boca Juniors,2,Lanús,1,2-1
+1063,Liga Profesional Argentina 2019,Jornada 19,19,18 Feb 19,18,Feb,19,Argentinos Juniors,2,Estudiantes La Plata,1,2-1
+1064,Liga Profesional Argentina 2019,Jornada 19,19,16 Feb 19,16,Feb,19,Gimnasia La Plata,0,Defensa y Justicia,1,0-1
+1065,Liga Profesional Argentina 2019,Jornada 19,19,15 Feb 19,15,Feb,19,Vélez Sarsfield,1,Colón,1,1-1
+1066,Liga Profesional Argentina 2019,Jornada 19,19,16 Feb 19,16,Feb,19,Patronato,0,Aldosivi,0,0-0
+1067,Liga Profesional Argentina 2019,Jornada 19,19,17 Feb 19,17,Feb,19,Talleres Córdoba,0,CA Huracán,0,0-0
+1068,Liga Profesional Argentina 2019,Jornada 19,19,16 Feb 19,16,Feb,19,San Lorenzo,1,Newell's Old Boys,1,1-1
+1069,Liga Profesional Argentina 2019,Jornada 19,19,19 Feb 19,19,Feb,19,Racing Club,3,Godoy Cruz,0,3-0
+1070,Liga Profesional Argentina 2019,Jornada 19,19,18 Feb 19,18,Feb,19,Banfield,1,River Plate,1,1-1
+1071,Liga Profesional Argentina 2019,Jornada 19,19,17 Feb 19,17,Feb,19,Rosario Central,0,Tigre,2,0-2
+1072,Liga Profesional Argentina 2019,Jornada 19,19,16 Feb 19,16,Feb,19,San Martín Tucumán,0,Belgrano,0,0-0
+1073,Liga Profesional Argentina 2019,Jornada 19,19,17 Feb 19,17,Feb,19,San Martín San Juan,1,Independiente,1,1-1
+1074,Liga Profesional Argentina 2019,Jornada 19,19,15 Feb 19,15,Feb,19,Unión Santa Fe,3,Atl.Tucumán,0,3-0
+1075,Liga Profesional Argentina 2019,Jornada 20,20,24 Feb 19,24,Feb,19,River Plate,2,San Martín Tucumán,1,2-1
+1076,Liga Profesional Argentina 2019,Jornada 20,20,25 Feb 19,25,Feb,19,Aldosivi,0,Gimnasia La Plata,0,0-0
+1077,Liga Profesional Argentina 2019,Jornada 20,20,24 Feb 19,24,Feb,19,Estudiantes La Plata,0,Talleres Córdoba,1,0-1
+1078,Liga Profesional Argentina 2019,Jornada 20,20,25 Feb 19,25,Feb,19,Defensa y Justicia,0,Boca Juniors,1,0-1
+1079,Liga Profesional Argentina 2019,Jornada 20,20,23 Feb 19,23,Feb,19,Colón,0,Banfield,1,0-1
+1080,Liga Profesional Argentina 2019,Jornada 20,20,23 Feb 19,23,Feb,19,Belgrano,0,San Lorenzo,0,0-0
+1081,Liga Profesional Argentina 2019,Jornada 20,20,23 Feb 19,23,Feb,19,CA Huracán,1,Unión Santa Fe,3,1-3
+1082,Liga Profesional Argentina 2019,Jornada 20,20,24 Feb 19,24,Feb,19,Independiente,1,Racing Club,3,1-3
+1083,Liga Profesional Argentina 2019,Jornada 20,20,23 Feb 19,23,Feb,19,Lanús,2,Rosario Central,0,2-0
+1084,Liga Profesional Argentina 2019,Jornada 20,20,22 Feb 19,22,Feb,19,Tigre,2,Patronato,1,2-1
+1085,Liga Profesional Argentina 2019,Jornada 20,20,24 Feb 19,24,Feb,19,Atl.Tucumán,0,Argentinos Juniors,0,0-0
+1086,Liga Profesional Argentina 2019,Jornada 20,20,23 Feb 19,23,Feb,19,Godoy Cruz,0,Vélez Sarsfield,2,0-2
+1087,Liga Profesional Argentina 2019,Jornada 20,20,26 Feb 19,26,Feb,19,Newell's Old Boys,3,San Martín San Juan,0,3-0
+1088,Liga Profesional Argentina 2019,Jornada 21,21,03 Mar 19,03,Mar,19,River Plate,4,Newell's Old Boys,2,4-2
+1089,Liga Profesional Argentina 2019,Jornada 21,21,05 Mar 19,05,Mar,19,Aldosivi,0,Defensa y Justicia,1,0-1
+1090,Liga Profesional Argentina 2019,Jornada 21,21,04 Mar 19,04,Mar,19,Gimnasia La Plata,1,Independiente,0,1-0
+1091,Liga Profesional Argentina 2019,Jornada 21,21,04 Mar 19,04,Mar,19,Vélez Sarsfield,1,Tigre,2,1-2
+1092,Liga Profesional Argentina 2019,Jornada 21,21,03 Mar 19,03,Mar,19,Patronato,1,CA Huracán,0,1-0
+1093,Liga Profesional Argentina 2019,Jornada 21,21,03 Mar 19,03,Mar,19,Talleres Córdoba,2,Colón,0,2-0
+1094,Liga Profesional Argentina 2019,Jornada 21,21,01 Mar 19,01,Mar,19,San Lorenzo,2,Argentinos Juniors,3,2-3
+1095,Liga Profesional Argentina 2019,Jornada 21,21,03 Mar 19,03,Mar,19,Racing Club,1,Estudiantes La Plata,0,1-0
+1096,Liga Profesional Argentina 2019,Jornada 21,21,04 Mar 19,04,Mar,19,Banfield,1,Atl.Tucumán,2,1-2
+1097,Liga Profesional Argentina 2019,Jornada 21,21,02 Mar 19,02,Mar,19,Rosario Central,0,Belgrano,0,0-0
+1098,Liga Profesional Argentina 2019,Jornada 21,21,02 Mar 19,02,Mar,19,San Martín Tucumán,1,Lanús,2,1-2
+1099,Liga Profesional Argentina 2019,Jornada 21,21,02 Mar 19,02,Mar,19,San Martín San Juan,0,Godoy Cruz,0,0-0
+1100,Liga Profesional Argentina 2019,Jornada 21,21,02 Mar 19,02,Mar,19,Unión Santa Fe,1,Boca Juniors,3,1-3
+1101,Liga Profesional Argentina 2019,Jornada 22,22,10 Mar 19,10,Mar,19,Boca Juniors,3,San Lorenzo,0,3-0
+1102,Liga Profesional Argentina 2019,Jornada 22,22,12 Mar 19,12,Mar,19,Argentinos Juniors,0,Vélez Sarsfield,0,0-0
+1103,Liga Profesional Argentina 2019,Jornada 22,22,10 Mar 19,10,Mar,19,Estudiantes La Plata,1,Gimnasia La Plata,0,1-0
+1104,Liga Profesional Argentina 2019,Jornada 22,22,12 Mar 19,12,Mar,19,Defensa y Justicia,3,Banfield,2,3-2
+1105,Liga Profesional Argentina 2019,Jornada 22,22,09 Mar 19,09,Mar,19,Colón,1,Racing Club,1,1-1
+1106,Liga Profesional Argentina 2019,Jornada 22,22,09 Mar 19,09,Mar,19,Belgrano,3,Patronato,0,3-0
+1107,Liga Profesional Argentina 2019,Jornada 22,22,10 Mar 19,10,Mar,19,CA Huracán,1,San Martín Tucumán,3,1-3
+1108,Liga Profesional Argentina 2019,Jornada 22,22,10 Mar 19,10,Mar,19,Independiente,2,Aldosivi,0,2-0
+1109,Liga Profesional Argentina 2019,Jornada 22,22,08 Mar 19,08,Mar,19,Lanús,1,San Martín San Juan,1,1-1
+1110,Liga Profesional Argentina 2019,Jornada 22,22,11 Mar 19,11,Mar,19,Tigre,2,Unión Santa Fe,2,2-2
+1111,Liga Profesional Argentina 2019,Jornada 22,22,11 Mar 19,11,Mar,19,Atl.Tucumán,0,River Plate,1,0-1
+1112,Liga Profesional Argentina 2019,Jornada 22,22,09 Mar 19,09,Mar,19,Godoy Cruz,0,Rosario Central,0,0-0
+1113,Liga Profesional Argentina 2019,Jornada 22,22,09 Mar 19,09,Mar,19,Newell's Old Boys,1,Talleres Córdoba,2,1-2
+1114,Liga Profesional Argentina 2019,Jornada 23,23,17 Mar 19,17,Mar,19,River Plate,3,Independiente,0,3-0
+1115,Liga Profesional Argentina 2019,Jornada 23,23,16 Mar 19,16,Mar,19,Aldosivi,3,Colón,0,3-0
+1116,Liga Profesional Argentina 2019,Jornada 23,23,15 Mar 19,15,Mar,19,Gimnasia La Plata,1,Newell's Old Boys,0,1-0
+1117,Liga Profesional Argentina 2019,Jornada 23,23,16 Mar 19,16,Mar,19,Vélez Sarsfield,2,Atl.Tucumán,0,2-0
+1118,Liga Profesional Argentina 2019,Jornada 23,23,17 Mar 19,17,Mar,19,Patronato,2,Defensa y Justicia,0,2-0
+1119,Liga Profesional Argentina 2019,Jornada 23,23,17 Mar 19,17,Mar,19,Talleres Córdoba,1,Tigre,3,1-3
+1120,Liga Profesional Argentina 2019,Jornada 23,23,19 Mar 19,19,Mar,19,CA Huracán,0,Estudiantes La Plata,1,0-1
+1121,Liga Profesional Argentina 2019,Jornada 23,23,17 Mar 19,17,Mar,19,Racing Club,1,Belgrano,0,1-0
+1122,Liga Profesional Argentina 2019,Jornada 23,23,18 Mar 19,18,Mar,19,Banfield,2,Godoy Cruz,2,2-2
+1123,Liga Profesional Argentina 2019,Jornada 23,23,17 Mar 19,17,Mar,19,Rosario Central,0,San Lorenzo,1,0-1
+1124,Liga Profesional Argentina 2019,Jornada 23,23,18 Mar 19,18,Mar,19,San Martín Tucumán,1,Boca Juniors,4,1-4
+1125,Liga Profesional Argentina 2019,Jornada 23,23,16 Mar 19,16,Mar,19,San Martín San Juan,2,Argentinos Juniors,3,2-3
+1126,Liga Profesional Argentina 2019,Jornada 23,23,16 Mar 19,16,Mar,19,Unión Santa Fe,3,Lanús,0,3-0
+1127,Liga Profesional Argentina 2019,Jornada 24,24,30 Mar 19,30,Mar,19,Boca Juniors,2,Banfield,0,2-0
+1128,Liga Profesional Argentina 2019,Jornada 24,24,31 Mar 19,31,Mar,19,Argentinos Juniors,0,Rosario Central,2,0-2
+1129,Liga Profesional Argentina 2019,Jornada 24,24,02 Abr 19,02,Abr,19,Estudiantes La Plata,1,San Martín Tucumán,1,1-1
+1130,Liga Profesional Argentina 2019,Jornada 24,24,31 Mar 19,31,Mar,19,Defensa y Justicia,1,Unión Santa Fe,1,1-1
+1131,Liga Profesional Argentina 2019,Jornada 24,24,02 Abr 19,02,Abr,19,Colón,0,San Martín San Juan,0,0-0
+1132,Liga Profesional Argentina 2019,Jornada 24,24,31 Mar 19,31,Mar,19,Talleres Córdoba,0,River Plate,2,0-2
+1133,Liga Profesional Argentina 2019,Jornada 24,24,30 Mar 19,30,Mar,19,San Lorenzo,1,Gimnasia La Plata,1,1-1
+1134,Liga Profesional Argentina 2019,Jornada 24,24,30 Mar 19,30,Mar,19,Independiente,2,Vélez Sarsfield,1,2-1
+1135,Liga Profesional Argentina 2019,Jornada 24,24,31 Mar 19,31,Mar,19,Lanús,3,Belgrano,1,3-1
+1136,Liga Profesional Argentina 2019,Jornada 24,24,31 Mar 19,31,Mar,19,Tigre,1,Racing Club,1,1-1
+1137,Liga Profesional Argentina 2019,Jornada 24,24,31 Mar 19,31,Mar,19,Atl.Tucumán,1,Aldosivi,0,1-0
+1138,Liga Profesional Argentina 2019,Jornada 24,24,30 Mar 19,30,Mar,19,Godoy Cruz,2,Patronato,1,2-1
+1139,Liga Profesional Argentina 2019,Jornada 24,24,29 Mar 19,29,Mar,19,Newell's Old Boys,3,CA Huracán,1,3-1
+1140,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,River Plate,2,Tigre,3,2-3
+1141,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,Aldosivi,1,Boca Juniors,1,1-1
+1142,Liga Profesional Argentina 2019,Jornada 25,25,06 Abr 19,06,Abr,19,Gimnasia La Plata,3,Colón,2,3-2
+1143,Liga Profesional Argentina 2019,Jornada 25,25,06 Abr 19,06,Abr,19,Vélez Sarsfield,4,Lanús,0,4-0
+1144,Liga Profesional Argentina 2019,Jornada 25,25,06 Abr 19,06,Abr,19,Unión Santa Fe,0,Estudiantes La Plata,0,0-0
+1145,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,San Martín San Juan,2,Talleres Córdoba,1,2-1
+1146,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,CA Huracán,2,Atl.Tucumán,0,2-0
+1147,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,Racing Club,1,Defensa y Justicia,1,1-1
+1148,Liga Profesional Argentina 2019,Jornada 25,25,06 Abr 19,06,Abr,19,Banfield,1,Newell's Old Boys,1,1-1
+1149,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,Rosario Central,1,Independiente,2,1-2
+1150,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,Patronato,2,Argentinos Juniors,1,2-1
+1151,Liga Profesional Argentina 2019,Jornada 25,25,07 Abr 19,07,Abr,19,Belgrano,1,Godoy Cruz,0,1-0
+1152,Liga Profesional Argentina 2019,Jornada 25,25,06 Abr 19,06,Abr,19,San Martín Tucumán,0,San Lorenzo,0,0-0
+1153,Liga Profesional Argentina 2020,Jornada 1,1,27 Jul 19,27,Jul,19,Racing Club,0,Unión Santa Fe,0,0-0
+1154,Liga Profesional Argentina 2020,Jornada 1,1,27 Jul 19,27,Jul,19,Colón,0,Patronato,1,0-1
+1155,Liga Profesional Argentina 2020,Jornada 1,1,27 Jul 19,27,Jul,19,San Lorenzo,3,Godoy Cruz,2,3-2
+1156,Liga Profesional Argentina 2020,Jornada 1,1,27 Jul 19,27,Jul,19,Lanús,1,Gimnasia La Plata,1,1-1
+1157,Liga Profesional Argentina 2020,Jornada 1,1,28 Jul 19,28,Jul,19,Argentinos Juniors,1,River Plate,1,1-1
+1158,Liga Profesional Argentina 2020,Jornada 1,1,28 Jul 19,28,Jul,19,Estudiantes La Plata,1,Aldosivi,0,1-0
+1159,Liga Profesional Argentina 2020,Jornada 1,1,28 Jul 19,28,Jul,19,Newell's Old Boys,2,Central Córdoba SdE,0,2-0
+1160,Liga Profesional Argentina 2020,Jornada 1,1,28 Jul 19,28,Jul,19,Talleres Córdoba,1,Vélez Sarsfield,0,1-0
+1161,Liga Profesional Argentina 2020,Jornada 1,1,28 Jul 19,28,Jul,19,Defensa y Justicia,0,Independiente,1,0-1
+1162,Liga Profesional Argentina 2020,Jornada 1,1,29 Jul 19,29,Jul,19,Boca Juniors,0,CA Huracán,0,0-0
+1163,Liga Profesional Argentina 2020,Jornada 1,1,30 Jul 19,30,Jul,19,Arsenal de Sarandí,1,Banfield,0,1-0
+1164,Liga Profesional Argentina 2020,Jornada 1,1,30 Jul 19,30,Jul,19,Atl.Tucumán,1,Rosario Central,2,1-2
+1165,Liga Profesional Argentina 2020,Jornada 2,2,03 Ago 19,03,Ago,19,CA Huracán,2,Colón,0,2-0
+1166,Liga Profesional Argentina 2020,Jornada 2,2,03 Ago 19,03,Ago,19,Aldosivi,0,Argentinos Juniors,0,0-0
+1167,Liga Profesional Argentina 2020,Jornada 2,2,03 Ago 19,03,Ago,19,Rosario Central,1,Talleres Córdoba,0,1-0
+1168,Liga Profesional Argentina 2020,Jornada 2,2,03 Ago 19,03,Ago,19,Central Córdoba SdE,1,Atl.Tucumán,0,1-0
+1169,Liga Profesional Argentina 2020,Jornada 2,2,04 Ago 19,04,Ago,19,Vélez Sarsfield,2,Racing Club,2,2-2
+1170,Liga Profesional Argentina 2020,Jornada 2,2,04 Ago 19,04,Ago,19,Unión Santa Fe,2,Defensa y Justicia,1,2-1
+1171,Liga Profesional Argentina 2020,Jornada 2,2,04 Ago 19,04,Ago,19,Gimnasia La Plata,0,San Lorenzo,1,0-1
+1172,Liga Profesional Argentina 2020,Jornada 2,2,04 Ago 19,04,Ago,19,Banfield,1,Estudiantes La Plata,0,1-0
+1173,Liga Profesional Argentina 2020,Jornada 2,2,04 Ago 19,04,Ago,19,River Plate,3,Lanús,0,3-0
+1174,Liga Profesional Argentina 2020,Jornada 2,2,05 Ago 19,05,Ago,19,Patronato,0,Boca Juniors,2,0-2
+1175,Liga Profesional Argentina 2020,Jornada 2,2,06 Ago 19,06,Ago,19,Godoy Cruz,0,Arsenal de Sarandí,2,0-2
+1176,Liga Profesional Argentina 2020,Jornada 2,2,13 Dic 19,13,Dic,19,Independiente,2,Newell's Old Boys,3,2-3
+1177,Liga Profesional Argentina 2020,Jornada 3,3,19 Ago 19,19,Ago,19,Boca Juniors,2,Aldosivi,0,2-0
+1178,Liga Profesional Argentina 2020,Jornada 3,3,17 Ago 19,17,Ago,19,San Lorenzo,2,Rosario Central,2,2-2
+1179,Liga Profesional Argentina 2020,Jornada 3,3,17 Ago 19,17,Ago,19,Argentinos Juniors,3,Banfield,2,3-2
+1180,Liga Profesional Argentina 2020,Jornada 3,3,18 Ago 19,18,Ago,19,Racing Club,1,River Plate,6,1-6
+1181,Liga Profesional Argentina 2020,Jornada 3,3,20 Ago 19,20,Ago,19,Estudiantes La Plata,3,Independiente,0,3-0
+1182,Liga Profesional Argentina 2020,Jornada 3,3,18 Ago 19,18,Ago,19,Lanús,3,Vélez Sarsfield,1,3-1
+1183,Liga Profesional Argentina 2020,Jornada 3,3,18 Ago 19,18,Ago,19,Defensa y Justicia,0,Arsenal de Sarandí,3,0-3
+1184,Liga Profesional Argentina 2020,Jornada 3,3,17 Ago 19,17,Ago,19,Newell's Old Boys,2,Unión Santa Fe,0,2-0
+1185,Liga Profesional Argentina 2020,Jornada 3,3,19 Ago 19,19,Ago,19,Colón,2,Gimnasia La Plata,1,2-1
+1186,Liga Profesional Argentina 2020,Jornada 3,3,17 Ago 19,17,Ago,19,Talleres Córdoba,1,Central Córdoba SdE,1,1-1
+1187,Liga Profesional Argentina 2020,Jornada 3,3,18 Ago 19,18,Ago,19,Patronato,2,CA Huracán,1,2-1
+1188,Liga Profesional Argentina 2020,Jornada 3,3,19 Ago 19,19,Ago,19,Atl.Tucumán,1,Godoy Cruz,0,1-0
+1189,Liga Profesional Argentina 2020,Jornada 4,4,25 Ago 19,25,Ago,19,River Plate,0,Talleres Córdoba,1,0-1
+1190,Liga Profesional Argentina 2020,Jornada 4,4,27 Ago 19,27,Ago,19,CA Huracán,0,Argentinos Juniors,0,0-0
+1191,Liga Profesional Argentina 2020,Jornada 4,4,24 Ago 19,24,Ago,19,Vélez Sarsfield,3,Newell's Old Boys,1,3-1
+1192,Liga Profesional Argentina 2020,Jornada 4,4,25 Ago 19,25,Ago,19,Independiente,2,Colón,0,2-0
+1193,Liga Profesional Argentina 2020,Jornada 4,4,24 Ago 19,24,Ago,19,Gimnasia La Plata,0,Defensa y Justicia,1,0-1
+1194,Liga Profesional Argentina 2020,Jornada 4,4,26 Ago 19,26,Ago,19,Banfield,0,Boca Juniors,1,0-1
+1195,Liga Profesional Argentina 2020,Jornada 4,4,24 Ago 19,24,Ago,19,Arsenal de Sarandí,0,San Lorenzo,2,0-2
+1196,Liga Profesional Argentina 2020,Jornada 4,4,27 Ago 19,27,Ago,19,Aldosivi,3,Atl.Tucumán,0,3-0
+1197,Liga Profesional Argentina 2020,Jornada 4,4,25 Ago 19,25,Ago,19,Central Córdoba SdE,0,Racing Club,0,0-0
+1198,Liga Profesional Argentina 2020,Jornada 4,4,24 Ago 19,24,Ago,19,Rosario Central,1,Patronato,1,1-1
+1199,Liga Profesional Argentina 2020,Jornada 4,4,25 Ago 19,25,Ago,19,Unión Santa Fe,1,Lanús,2,1-2
+1200,Liga Profesional Argentina 2020,Jornada 4,4,25 Ago 19,25,Ago,19,Godoy Cruz,2,Estudiantes La Plata,1,2-1
+1201,Liga Profesional Argentina 2020,Jornada 5,5,01 Sep 19,01,Sep,19,River Plate,0,Boca Juniors,0,0-0
+1202,Liga Profesional Argentina 2020,Jornada 5,5,31 Ago 19,31,Ago,19,San Lorenzo,2,Unión Santa Fe,1,2-1
+1203,Liga Profesional Argentina 2020,Jornada 5,5,31 Ago 19,31,Ago,19,Argentinos Juniors,1,Gimnasia La Plata,0,1-0
+1204,Liga Profesional Argentina 2020,Jornada 5,5,01 Sep 19,01,Sep,19,Racing Club,3,Godoy Cruz,1,3-1
+1205,Liga Profesional Argentina 2020,Jornada 5,5,31 Ago 19,31,Ago,19,Estudiantes La Plata,0,Vélez Sarsfield,1,0-1
+1206,Liga Profesional Argentina 2020,Jornada 5,5,31 Ago 19,31,Ago,19,Lanús,1,Central Córdoba SdE,0,1-0
+1207,Liga Profesional Argentina 2020,Jornada 5,5,31 Ago 19,31,Ago,19,Defensa y Justicia,0,Banfield,0,0-0
+1208,Liga Profesional Argentina 2020,Jornada 5,5,01 Sep 19,01,Sep,19,Newell's Old Boys,4,CA Huracán,1,4-1
+1209,Liga Profesional Argentina 2020,Jornada 5,5,01 Sep 19,01,Sep,19,Colón,1,Rosario Central,1,1-1
+1210,Liga Profesional Argentina 2020,Jornada 5,5,01 Sep 19,01,Sep,19,Talleres Córdoba,2,Aldosivi,1,2-1
+1211,Liga Profesional Argentina 2020,Jornada 5,5,31 Ago 19,31,Ago,19,Patronato,1,Independiente,0,1-0
+1212,Liga Profesional Argentina 2020,Jornada 5,5,01 Sep 19,01,Sep,19,Atl.Tucumán,1,Arsenal de Sarandí,0,1-0
+1213,Liga Profesional Argentina 2020,Jornada 6,6,16 Sep 19,16,Sep,19,Boca Juniors,1,Estudiantes La Plata,0,1-0
+1214,Liga Profesional Argentina 2020,Jornada 6,6,15 Sep 19,15,Sep,19,CA Huracán,0,River Plate,4,0-4
+1215,Liga Profesional Argentina 2020,Jornada 6,6,17 Sep 19,17,Sep,19,Vélez Sarsfield,1,Atl.Tucumán,0,1-0
+1216,Liga Profesional Argentina 2020,Jornada 6,6,15 Sep 19,15,Sep,19,Independiente,2,Lanús,2,2-2
+1217,Liga Profesional Argentina 2020,Jornada 6,6,15 Sep 19,15,Sep,19,Gimnasia La Plata,1,Racing Club,2,1-2
+1218,Liga Profesional Argentina 2020,Jornada 6,6,15 Sep 19,15,Sep,19,Banfield,0,Talleres Córdoba,1,0-1
+1219,Liga Profesional Argentina 2020,Jornada 6,6,14 Sep 19,14,Sep,19,Arsenal de Sarandí,4,Unión Santa Fe,1,4-1
+1220,Liga Profesional Argentina 2020,Jornada 6,6,17 Sep 19,17,Sep,19,Aldosivi,1,Patronato,1,1-1
+1221,Liga Profesional Argentina 2020,Jornada 6,6,14 Sep 19,14,Sep,19,Central Córdoba SdE,1,Defensa y Justicia,2,1-2
+1222,Liga Profesional Argentina 2020,Jornada 6,6,15 Sep 19,15,Sep,19,Rosario Central,1,Newell's Old Boys,1,1-1
+1223,Liga Profesional Argentina 2020,Jornada 6,6,14 Sep 19,14,Sep,19,Colón,2,San Lorenzo,1,2-1
+1224,Liga Profesional Argentina 2020,Jornada 6,6,14 Sep 19,14,Sep,19,Godoy Cruz,0,Argentinos Juniors,1,0-1
+1225,Liga Profesional Argentina 2020,Jornada 7,7,23 Sep 19,23,Sep,19,River Plate,1,Vélez Sarsfield,2,1-2
+1226,Liga Profesional Argentina 2020,Jornada 7,7,21 Sep 19,21,Sep,19,San Lorenzo,0,Boca Juniors,2,0-2
+1227,Liga Profesional Argentina 2020,Jornada 7,7,21 Sep 19,21,Sep,19,Argentinos Juniors,3,Central Córdoba SdE,1,3-1
+1228,Liga Profesional Argentina 2020,Jornada 7,7,22 Sep 19,22,Sep,19,Racing Club,2,Arsenal de Sarandí,1,2-1
+1229,Liga Profesional Argentina 2020,Jornada 7,7,21 Sep 19,21,Sep,19,Estudiantes La Plata,1,Patronato,0,1-0
+1230,Liga Profesional Argentina 2020,Jornada 7,7,22 Sep 19,22,Sep,19,Lanús,3,Colón,2,3-2
+1231,Liga Profesional Argentina 2020,Jornada 7,7,21 Sep 19,21,Sep,19,Defensa y Justicia,0,CA Huracán,1,0-1
+1232,Liga Profesional Argentina 2020,Jornada 7,7,22 Sep 19,22,Sep,19,Newell's Old Boys,2,Aldosivi,0,2-0
+1233,Liga Profesional Argentina 2020,Jornada 7,7,21 Sep 19,21,Sep,19,Unión Santa Fe,0,Rosario Central,0,0-0
+1234,Liga Profesional Argentina 2020,Jornada 7,7,24 Sep 19,24,Sep,19,Talleres Córdoba,2,Gimnasia La Plata,1,2-1
+1235,Liga Profesional Argentina 2020,Jornada 7,7,22 Sep 19,22,Sep,19,Atl.Tucumán,0,Independiente,1,0-1
+1236,Liga Profesional Argentina 2020,Jornada 7,7,22 Sep 19,22,Sep,19,Godoy Cruz,0,Banfield,2,0-2
+1237,Liga Profesional Argentina 2020,Jornada 8,8,29 Sep 19,29,Sep,19,Boca Juniors,1,Newell's Old Boys,1,1-1
+1238,Liga Profesional Argentina 2020,Jornada 8,8,29 Sep 19,29,Sep,19,CA Huracán,0,Atl.Tucumán,0,0-0
+1239,Liga Profesional Argentina 2020,Jornada 8,8,29 Sep 19,29,Sep,19,Vélez Sarsfield,0,Defensa y Justicia,1,0-1
+1240,Liga Profesional Argentina 2020,Jornada 8,8,30 Sep 19,30,Sep,19,Independiente,3,Talleres Córdoba,2,3-2
+1241,Liga Profesional Argentina 2020,Jornada 8,8,28 Sep 19,28,Sep,19,Gimnasia La Plata,0,River Plate,2,0-2
+1242,Liga Profesional Argentina 2020,Jornada 8,8,29 Sep 19,29,Sep,19,Banfield,0,San Lorenzo,1,0-1
+1243,Liga Profesional Argentina 2020,Jornada 8,8,28 Sep 19,28,Sep,19,Arsenal de Sarandí,3,Estudiantes La Plata,0,3-0
+1244,Liga Profesional Argentina 2020,Jornada 8,8,28 Sep 19,28,Sep,19,Aldosivi,1,Unión Santa Fe,2,1-2
+1245,Liga Profesional Argentina 2020,Jornada 8,8,01 Oct 19,01,Oct,19,Central Córdoba SdE,1,Godoy Cruz,0,1-0
+1246,Liga Profesional Argentina 2020,Jornada 8,8,29 Sep 19,29,Sep,19,Rosario Central,1,Racing Club,1,1-1
+1247,Liga Profesional Argentina 2020,Jornada 8,8,01 Oct 19,01,Oct,19,Colón,1,Argentinos Juniors,0,1-0
+1248,Liga Profesional Argentina 2020,Jornada 8,8,28 Sep 19,28,Sep,19,Patronato,1,Lanús,1,1-1
+1249,Liga Profesional Argentina 2020,Jornada 9,9,06 Oct 19,06,Oct,19,River Plate,2,Patronato,0,2-0
+1250,Liga Profesional Argentina 2020,Jornada 9,9,05 Oct 19,05,Oct,19,San Lorenzo,1,Central Córdoba SdE,4,1-4
+1251,Liga Profesional Argentina 2020,Jornada 9,9,06 Oct 19,06,Oct,19,Vélez Sarsfield,2,Independiente,0,2-0
+1252,Liga Profesional Argentina 2020,Jornada 9,9,05 Oct 19,05,Oct,19,Argentinos Juniors,2,Arsenal de Sarandí,1,2-1
+1253,Liga Profesional Argentina 2020,Jornada 9,9,06 Oct 19,06,Oct,19,Racing Club,2,Aldosivi,0,2-0
+1254,Liga Profesional Argentina 2020,Jornada 9,9,05 Oct 19,05,Oct,19,Estudiantes La Plata,0,CA Huracán,0,0-0
+1255,Liga Profesional Argentina 2020,Jornada 9,9,06 Oct 19,06,Oct,19,Lanús,1,Rosario Central,1,1-1
+1256,Liga Profesional Argentina 2020,Jornada 9,9,07 Oct 19,07,Oct,19,Defensa y Justicia,0,Boca Juniors,1,0-1
+1257,Liga Profesional Argentina 2020,Jornada 9,9,05 Oct 19,05,Oct,19,Newell's Old Boys,0,Banfield,0,0-0
+1258,Liga Profesional Argentina 2020,Jornada 9,9,06 Oct 19,06,Oct,19,Unión Santa Fe,1,Colón,0,1-0
+1259,Liga Profesional Argentina 2020,Jornada 9,9,05 Oct 19,05,Oct,19,Atl.Tucumán,2,Talleres Córdoba,1,2-1
+1260,Liga Profesional Argentina 2020,Jornada 9,9,05 Oct 19,05,Oct,19,Godoy Cruz,2,Gimnasia La Plata,4,2-4
+1261,Liga Profesional Argentina 2020,Jornada 10,10,19 Oct 19,19,Oct,19,Boca Juniors,0,Racing Club,1,0-1
+1262,Liga Profesional Argentina 2020,Jornada 10,10,20 Oct 19,20,Oct,19,CA Huracán,2,San Lorenzo,0,2-0
+1263,Liga Profesional Argentina 2020,Jornada 10,10,19 Oct 19,19,Oct,19,Independiente,0,Argentinos Juniors,1,0-1
+1264,Liga Profesional Argentina 2020,Jornada 10,10,20 Oct 19,20,Oct,19,Gimnasia La Plata,0,Unión Santa Fe,1,0-1
+1265,Liga Profesional Argentina 2020,Jornada 10,10,19 Oct 19,19,Oct,19,Banfield,1,Atl.Tucumán,2,1-2
+1266,Liga Profesional Argentina 2020,Jornada 10,10,19 Oct 19,19,Oct,19,Arsenal de Sarandí,3,River Plate,3,3-3
+1267,Liga Profesional Argentina 2020,Jornada 10,10,20 Oct 19,20,Oct,19,Aldosivi,1,Defensa y Justicia,0,1-0
+1268,Liga Profesional Argentina 2020,Jornada 10,10,22 Oct 19,22,Oct,19,Central Córdoba SdE,0,Estudiantes La Plata,1,0-1
+1269,Liga Profesional Argentina 2020,Jornada 10,10,20 Oct 19,20,Oct,19,Rosario Central,0,Vélez Sarsfield,1,0-1
+1270,Liga Profesional Argentina 2020,Jornada 10,10,22 Oct 19,22,Oct,19,Colón,2,Godoy Cruz,1,2-1
+1271,Liga Profesional Argentina 2020,Jornada 10,10,20 Oct 19,20,Oct,19,Talleres Córdoba,2,Lanús,4,2-4
+1272,Liga Profesional Argentina 2020,Jornada 10,10,19 Oct 19,19,Oct,19,Patronato,1,Newell's Old Boys,3,1-3
+1273,Liga Profesional Argentina 2020,Jornada 11,11,30 Oct 19,30,Oct,19,River Plate,2,Colón,1,2-1
+1274,Liga Profesional Argentina 2020,Jornada 11,11,30 Oct 19,30,Oct,19,San Lorenzo,1,Defensa y Justicia,3,1-3
+1275,Liga Profesional Argentina 2020,Jornada 11,11,31 Oct 19,31,Oct,19,Vélez Sarsfield,0,CA Huracán,0,0-0
+1276,Liga Profesional Argentina 2020,Jornada 11,11,30 Oct 19,30,Oct,19,Argentinos Juniors,1,Talleres Córdoba,0,1-0
+1277,Liga Profesional Argentina 2020,Jornada 11,11,31 Oct 19,31,Oct,19,Racing Club,0,Banfield,0,0-0
+1278,Liga Profesional Argentina 2020,Jornada 11,11,29 Oct 19,29,Oct,19,Estudiantes La Plata,3,Rosario Central,0,3-0
+1279,Liga Profesional Argentina 2020,Jornada 11,11,01 Nov 19,01,Nov,19,Lanús,2,Boca Juniors,1,2-1
+1280,Liga Profesional Argentina 2020,Jornada 11,11,31 Oct 19,31,Oct,19,Arsenal de Sarandí,2,Central Córdoba SdE,2,2-2
+1281,Liga Profesional Argentina 2020,Jornada 11,11,29 Oct 19,29,Oct,19,Newell's Old Boys,0,Gimnasia La Plata,4,0-4
+1282,Liga Profesional Argentina 2020,Jornada 11,11,30 Oct 19,30,Oct,19,Unión Santa Fe,2,Independiente,2,2-2
+1283,Liga Profesional Argentina 2020,Jornada 11,11,29 Oct 19,29,Oct,19,Atl.Tucumán,2,Patronato,0,2-0
+1284,Liga Profesional Argentina 2020,Jornada 11,11,29 Oct 19,29,Oct,19,Godoy Cruz,3,Aldosivi,2,3-2
+1285,Liga Profesional Argentina 2020,Jornada 12,12,03 Nov 19,03,Nov,19,Boca Juniors,5,Arsenal de Sarandí,1,5-1
+1286,Liga Profesional Argentina 2020,Jornada 12,12,05 Nov 19,05,Nov,19,CA Huracán,0,Lanús,1,0-1
+1287,Liga Profesional Argentina 2020,Jornada 12,12,04 Nov 19,04,Nov,19,Independiente,2,San Lorenzo,1,2-1
+1288,Liga Profesional Argentina 2020,Jornada 12,12,02 Nov 19,02,Nov,19,Gimnasia La Plata,0,Estudiantes La Plata,1,0-1
+1289,Liga Profesional Argentina 2020,Jornada 12,12,03 Nov 19,03,Nov,19,Banfield,3,Unión Santa Fe,3,3-3
+1290,Liga Profesional Argentina 2020,Jornada 12,12,04 Nov 19,04,Nov,19,Defensa y Justicia,0,Argentinos Juniors,0,0-0
+1291,Liga Profesional Argentina 2020,Jornada 12,12,03 Nov 19,03,Nov,19,Aldosivi,1,River Plate,2,1-2
+1292,Liga Profesional Argentina 2020,Jornada 12,12,05 Nov 19,05,Nov,19,Central Córdoba SdE,0,Vélez Sarsfield,0,0-0
+1293,Liga Profesional Argentina 2020,Jornada 12,12,02 Nov 19,02,Nov,19,Rosario Central,5,Godoy Cruz,2,5-2
+1294,Liga Profesional Argentina 2020,Jornada 12,12,02 Nov 19,02,Nov,19,Colón,0,Atl.Tucumán,2,0-2
+1295,Liga Profesional Argentina 2020,Jornada 12,12,03 Nov 19,03,Nov,19,Talleres Córdoba,1,Newell's Old Boys,0,1-0
+1296,Liga Profesional Argentina 2020,Jornada 12,12,03 Nov 19,03,Nov,19,Patronato,1,Racing Club,1,1-1
+1297,Liga Profesional Argentina 2020,Jornada 13,13,10 Nov 19,10,Nov,19,River Plate,0,Rosario Central,1,0-1
+1298,Liga Profesional Argentina 2020,Jornada 13,13,09 Nov 19,09,Nov,19,San Lorenzo,3,Argentinos Juniors,0,3-0
+1299,Liga Profesional Argentina 2020,Jornada 13,13,11 Nov 19,11,Nov,19,Vélez Sarsfield,0,Boca Juniors,0,0-0
+1300,Liga Profesional Argentina 2020,Jornada 13,13,10 Nov 19,10,Nov,19,Racing Club,1,CA Huracán,0,1-0
+1301,Liga Profesional Argentina 2020,Jornada 13,13,08 Nov 19,08,Nov,19,Estudiantes La Plata,1,Talleres Córdoba,0,1-0
+1302,Liga Profesional Argentina 2020,Jornada 13,13,09 Nov 19,09,Nov,19,Lanús,0,Banfield,1,0-1
+1303,Liga Profesional Argentina 2020,Jornada 13,13,13 Dic 19,13,Dic,19,Arsenal de Sarandí,2,Colón,1,2-1
+1304,Liga Profesional Argentina 2020,Jornada 13,13,10 Nov 19,10,Nov,19,Aldosivi,0,Gimnasia La Plata,3,0-3
+1305,Liga Profesional Argentina 2020,Jornada 13,13,10 Nov 19,10,Nov,19,Central Córdoba SdE,3,Patronato,2,3-2
+1306,Liga Profesional Argentina 2020,Jornada 13,13,10 Nov 19,10,Nov,19,Newell's Old Boys,2,Defensa y Justicia,0,2-0
+1307,Liga Profesional Argentina 2020,Jornada 13,13,09 Nov 19,09,Nov,19,Unión Santa Fe,0,Atl.Tucumán,1,0-1
+1308,Liga Profesional Argentina 2020,Jornada 13,13,10 Nov 19,10,Nov,19,Godoy Cruz,1,Independiente,2,1-2
+1309,Liga Profesional Argentina 2020,Jornada 14,14,24 Nov 19,24,Nov,19,Boca Juniors,2,Unión Santa Fe,0,2-0
+1310,Liga Profesional Argentina 2020,Jornada 14,14,23 Nov 19,23,Nov,19,CA Huracán,1,Central Córdoba SdE,1,1-1
+1311,Liga Profesional Argentina 2020,Jornada 14,14,26 Nov 19,26,Nov,19,Argentinos Juniors,1,Newell's Old Boys,0,1-0
+1312,Liga Profesional Argentina 2020,Jornada 14,14,19 Ene 20,19,Ene,20,Independiente,1,River Plate,2,1-2
+1313,Liga Profesional Argentina 2020,Jornada 14,14,24 Nov 19,24,Nov,19,Gimnasia La Plata,0,Arsenal de Sarandí,1,0-1
+1314,Liga Profesional Argentina 2020,Jornada 14,14,24 Nov 19,24,Nov,19,Banfield,1,Vélez Sarsfield,0,1-0
+1315,Liga Profesional Argentina 2020,Jornada 14,14,23 Nov 19,23,Nov,19,Defensa y Justicia,2,Lanús,0,2-0
+1316,Liga Profesional Argentina 2020,Jornada 14,14,26 Nov 19,26,Nov,19,Rosario Central,5,Aldosivi,1,5-1
+1317,Liga Profesional Argentina 2020,Jornada 14,14,25 Nov 19,25,Nov,19,Colón,3,Estudiantes La Plata,2,3-2
+1318,Liga Profesional Argentina 2020,Jornada 14,14,25 Nov 19,25,Nov,19,Talleres Córdoba,3,Racing Club,3,3-3
+1319,Liga Profesional Argentina 2020,Jornada 14,14,25 Nov 19,25,Nov,19,Patronato,0,Godoy Cruz,2,0-2
+1320,Liga Profesional Argentina 2020,Jornada 14,14,24 Nov 19,24,Nov,19,Atl.Tucumán,2,San Lorenzo,2,2-2
+1321,Liga Profesional Argentina 2020,Jornada 15,15,30 Nov 19,30,Nov,19,Boca Juniors,1,Argentinos Juniors,1,1-1
+1322,Liga Profesional Argentina 2020,Jornada 15,15,01 Dic 19,01,Dic,19,San Lorenzo,2,Patronato,0,2-0
+1323,Liga Profesional Argentina 2020,Jornada 15,15,01 Dic 19,01,Dic,19,Vélez Sarsfield,3,Colón,1,3-1
+1324,Liga Profesional Argentina 2020,Jornada 15,15,30 Nov 19,30,Nov,19,Racing Club,1,Defensa y Justicia,1,1-1
+1325,Liga Profesional Argentina 2020,Jornada 15,15,30 Nov 19,30,Nov,19,Estudiantes La Plata,1,Atl.Tucumán,1,1-1
+1326,Liga Profesional Argentina 2020,Jornada 15,15,29 Nov 19,29,Nov,19,Banfield,1,Gimnasia La Plata,1,1-1
+1327,Liga Profesional Argentina 2020,Jornada 15,15,02 Dic 19,02,Dic,19,Arsenal de Sarandí,1,Lanús,1,1-1
+1328,Liga Profesional Argentina 2020,Jornada 15,15,02 Dic 19,02,Dic,19,Aldosivi,0,Independiente,0,0-0
+1329,Liga Profesional Argentina 2020,Jornada 15,15,02 Dic 19,02,Dic,19,Central Córdoba SdE,1,Rosario Central,1,1-1
+1330,Liga Profesional Argentina 2020,Jornada 15,15,01 Dic 19,01,Dic,19,Newell's Old Boys,2,River Plate,3,2-3
+1331,Liga Profesional Argentina 2020,Jornada 15,15,03 Dic 19,03,Dic,19,Unión Santa Fe,1,CA Huracán,0,1-0
+1332,Liga Profesional Argentina 2020,Jornada 15,15,01 Dic 19,01,Dic,19,Godoy Cruz,0,Talleres Córdoba,5,0-5
+1333,Liga Profesional Argentina 2020,Jornada 16,16,09 Dic 19,09,Dic,19,River Plate,0,San Lorenzo,1,0-1
+1334,Liga Profesional Argentina 2020,Jornada 16,16,07 Dic 19,07,Dic,19,CA Huracán,0,Arsenal de Sarandí,2,0-2
+1335,Liga Profesional Argentina 2020,Jornada 16,16,10 Dic 19,10,Dic,19,Argentinos Juniors,1,Estudiantes La Plata,1,1-1
+1336,Liga Profesional Argentina 2020,Jornada 16,16,07 Dic 19,07,Dic,19,Independiente,0,Banfield,1,0-1
+1337,Liga Profesional Argentina 2020,Jornada 16,16,08 Dic 19,08,Dic,19,Gimnasia La Plata,2,Central Córdoba SdE,1,2-1
+1338,Liga Profesional Argentina 2020,Jornada 16,16,08 Dic 19,08,Dic,19,Lanús,1,Racing Club,0,1-0
+1339,Liga Profesional Argentina 2020,Jornada 16,16,06 Dic 19,06,Dic,19,Colón,0,Aldosivi,2,0-2
+1340,Liga Profesional Argentina 2020,Jornada 16,16,07 Dic 19,07,Dic,19,Talleres Córdoba,0,Unión Santa Fe,0,0-0
+1341,Liga Profesional Argentina 2020,Jornada 16,16,09 Dic 19,09,Dic,19,Patronato,0,Vélez Sarsfield,1,0-1
+1342,Liga Profesional Argentina 2020,Jornada 16,16,07 Dic 19,07,Dic,19,Atl.Tucumán,2,Newell's Old Boys,2,2-2
+1343,Liga Profesional Argentina 2020,Jornada 16,16,08 Dic 19,08,Dic,19,Defensa y Justicia,2,Godoy Cruz,0,2-0
+1344,Liga Profesional Argentina 2020,Jornada 16,16,08 Dic 19,08,Dic,19,Rosario Central,1,Boca Juniors,0,1-0
+1345,Liga Profesional Argentina 2020,Jornada 17,17,27 Ene 20,27,Ene,20,Boca Juniors,0,Independiente,0,0-0
+1346,Liga Profesional Argentina 2020,Jornada 17,17,25 Ene 20,25,Ene,20,San Lorenzo,1,Estudiantes La Plata,1,1-1
+1347,Liga Profesional Argentina 2020,Jornada 17,17,26 Ene 20,26,Ene,20,Racing Club,1,Atl.Tucumán,1,1-1
+1348,Liga Profesional Argentina 2020,Jornada 17,17,24 Ene 20,24,Ene,20,Gimnasia La Plata,0,Vélez Sarsfield,0,0-0
+1349,Liga Profesional Argentina 2020,Jornada 17,17,26 Ene 20,26,Ene,20,Banfield,3,Patronato,3,3-3
+1350,Liga Profesional Argentina 2020,Jornada 17,17,26 Ene 20,26,Ene,20,Defensa y Justicia,4,Talleres Córdoba,1,4-1
+1351,Liga Profesional Argentina 2020,Jornada 17,17,25 Ene 20,25,Ene,20,Arsenal de Sarandí,1,Newell's Old Boys,1,1-1
+1352,Liga Profesional Argentina 2020,Jornada 17,17,24 Ene 20,24,Ene,20,Aldosivi,2,Lanús,0,2-0
+1353,Liga Profesional Argentina 2020,Jornada 17,17,25 Ene 20,25,Ene,20,Central Córdoba SdE,1,Colón,0,1-0
+1354,Liga Profesional Argentina 2020,Jornada 17,17,25 Ene 20,25,Ene,20,Rosario Central,2,CA Huracán,1,2-1
+1355,Liga Profesional Argentina 2020,Jornada 17,17,25 Ene 20,25,Ene,20,Unión Santa Fe,1,Argentinos Juniors,0,1-0
+1356,Liga Profesional Argentina 2020,Jornada 17,17,26 Ene 20,26,Ene,20,Godoy Cruz,0,River Plate,1,0-1
+1357,Liga Profesional Argentina 2020,Jornada 18,18,02 Feb 20,02,Feb,20,River Plate,2,Central Córdoba SdE,0,2-0
+1358,Liga Profesional Argentina 2020,Jornada 18,18,01 Feb 20,01,Feb,20,CA Huracán,1,Gimnasia La Plata,1,1-1
+1359,Liga Profesional Argentina 2020,Jornada 18,18,31 Ene 20,31,Ene,20,Vélez Sarsfield,1,Aldosivi,1,1-1
+1360,Liga Profesional Argentina 2020,Jornada 18,18,02 Feb 20,02,Feb,20,Argentinos Juniors,1,Racing Club,1,1-1
+1361,Liga Profesional Argentina 2020,Jornada 18,18,01 Feb 20,01,Feb,20,Independiente,5,Rosario Central,0,5-0
+1362,Liga Profesional Argentina 2020,Jornada 18,18,01 Feb 20,01,Feb,20,Estudiantes La Plata,3,Unión Santa Fe,1,3-1
+1363,Liga Profesional Argentina 2020,Jornada 18,18,02 Feb 20,02,Feb,20,Lanús,2,Godoy Cruz,0,2-0
+1364,Liga Profesional Argentina 2020,Jornada 18,18,04 Feb 20,04,Feb,20,Newell's Old Boys,1,San Lorenzo,0,1-0
+1365,Liga Profesional Argentina 2020,Jornada 18,18,02 Feb 20,02,Feb,20,Colón,0,Banfield,1,0-1
+1366,Liga Profesional Argentina 2020,Jornada 18,18,03 Feb 20,03,Feb,20,Talleres Córdoba,1,Boca Juniors,2,1-2
+1367,Liga Profesional Argentina 2020,Jornada 18,18,03 Feb 20,03,Feb,20,Patronato,2,Arsenal de Sarandí,2,2-2
+1368,Liga Profesional Argentina 2020,Jornada 18,18,01 Feb 20,01,Feb,20,Atl.Tucumán,1,Defensa y Justicia,1,1-1
+1369,Liga Profesional Argentina 2020,Jornada 19,19,09 Feb 20,09,Feb,20,Boca Juniors,2,Atl.Tucumán,0,2-0
+1370,Liga Profesional Argentina 2020,Jornada 19,19,09 Feb 20,09,Feb,20,San Lorenzo,1,Vélez Sarsfield,0,1-0
+1371,Liga Profesional Argentina 2020,Jornada 19,19,08 Feb 20,08,Feb,20,Argentinos Juniors,0,Lanús,0,0-0
+1372,Liga Profesional Argentina 2020,Jornada 19,19,09 Feb 20,09,Feb,20,Racing Club,1,Independiente,0,1-0
+1373,Liga Profesional Argentina 2020,Jornada 19,19,08 Feb 20,08,Feb,20,Gimnasia La Plata,1,Patronato,1,1-1
+1374,Liga Profesional Argentina 2020,Jornada 19,19,08 Feb 20,08,Feb,20,Banfield,1,Rosario Central,1,1-1
+1375,Liga Profesional Argentina 2020,Jornada 19,19,08 Feb 20,08,Feb,20,Defensa y Justicia,0,Colón,0,0-0
+1376,Liga Profesional Argentina 2020,Jornada 19,19,10 Feb 20,10,Feb,20,Arsenal de Sarandí,1,Talleres Córdoba,1,1-1
+1377,Liga Profesional Argentina 2020,Jornada 19,19,07 Feb 20,07,Feb,20,Aldosivi,0,Central Córdoba SdE,2,0-2
+1378,Liga Profesional Argentina 2020,Jornada 19,19,08 Feb 20,08,Feb,20,Newell's Old Boys,0,Estudiantes La Plata,0,0-0
+1379,Liga Profesional Argentina 2020,Jornada 19,19,10 Feb 20,10,Feb,20,Unión Santa Fe,1,River Plate,2,1-2
+1380,Liga Profesional Argentina 2020,Jornada 19,19,11 Feb 20,11,Feb,20,Godoy Cruz,2,CA Huracán,1,2-1
+1381,Liga Profesional Argentina 2020,Jornada 20,20,16 Feb 20,16,Feb,20,River Plate,1,Banfield,0,1-0
+1382,Liga Profesional Argentina 2020,Jornada 20,20,15 Feb 20,15,Feb,20,CA Huracán,0,Aldosivi,2,0-2
+1383,Liga Profesional Argentina 2020,Jornada 20,20,04 Mar 20,04,Mar,20,Vélez Sarsfield,0,Godoy Cruz,1,0-1
+1384,Liga Profesional Argentina 2020,Jornada 20,20,18 Feb 20,18,Feb,20,Independiente,1,Arsenal de Sarandí,1,1-1
+1385,Liga Profesional Argentina 2020,Jornada 20,20,17 Feb 20,17,Feb,20,Estudiantes La Plata,1,Defensa y Justicia,2,1-2
+1386,Liga Profesional Argentina 2020,Jornada 20,20,16 Feb 20,16,Feb,20,Lanús,1,Newell's Old Boys,1,1-1
+1387,Liga Profesional Argentina 2020,Jornada 20,20,17 Feb 20,17,Feb,20,Central Córdoba SdE,0,Boca Juniors,4,0-4
+1388,Liga Profesional Argentina 2020,Jornada 20,20,15 Feb 20,15,Feb,20,Colón,1,Racing Club,1,1-1
+1389,Liga Profesional Argentina 2020,Jornada 20,20,16 Feb 20,16,Feb,20,Talleres Córdoba,1,San Lorenzo,0,1-0
+1390,Liga Profesional Argentina 2020,Jornada 20,20,14 Feb 20,14,Feb,20,Patronato,1,Unión Santa Fe,0,1-0
+1391,Liga Profesional Argentina 2020,Jornada 20,20,15 Feb 20,15,Feb,20,Atl.Tucumán,0,Argentinos Juniors,2,0-2
+1392,Liga Profesional Argentina 2020,Jornada 20,20,15 Feb 20,15,Feb,20,Rosario Central,1,Gimnasia La Plata,0,1-0
+1393,Liga Profesional Argentina 2020,Jornada 21,21,23 Feb 20,23,Feb,20,Boca Juniors,3,Godoy Cruz,0,3-0
+1394,Liga Profesional Argentina 2020,Jornada 21,21,22 Feb 20,22,Feb,20,San Lorenzo,0,Racing Club,1,0-1
+1395,Liga Profesional Argentina 2020,Jornada 21,21,22 Feb 20,22,Feb,20,Argentinos Juniors,1,Patronato,1,1-1
+1396,Liga Profesional Argentina 2020,Jornada 21,21,22 Feb 20,22,Feb,20,Independiente,0,Gimnasia La Plata,1,0-1
+1397,Liga Profesional Argentina 2020,Jornada 21,21,24 Feb 20,24,Feb,20,Estudiantes La Plata,0,River Plate,2,0-2
+1398,Liga Profesional Argentina 2020,Jornada 21,21,21 Feb 20,21,Feb,20,Banfield,0,Aldosivi,1,0-1
+1399,Liga Profesional Argentina 2020,Jornada 21,21,24 Feb 20,24,Feb,20,Defensa y Justicia,3,Rosario Central,0,3-0
+1400,Liga Profesional Argentina 2020,Jornada 21,21,23 Feb 20,23,Feb,20,Arsenal de Sarandí,0,Vélez Sarsfield,4,0-4
+1401,Liga Profesional Argentina 2020,Jornada 21,21,23 Feb 20,23,Feb,20,Newell's Old Boys,4,Colón,0,4-0
+1402,Liga Profesional Argentina 2020,Jornada 21,21,25 Feb 20,25,Feb,20,Unión Santa Fe,0,Central Córdoba SdE,0,0-0
+1403,Liga Profesional Argentina 2020,Jornada 21,21,25 Feb 20,25,Feb,20,Talleres Córdoba,4,CA Huracán,2,4-2
+1404,Liga Profesional Argentina 2020,Jornada 21,21,23 Feb 20,23,Feb,20,Atl.Tucumán,2,Lanús,2,2-2
+1405,Liga Profesional Argentina 2020,Jornada 22,22,29 Feb 20,29,Feb,20,River Plate,1,Defensa y Justicia,1,1-1
+1406,Liga Profesional Argentina 2020,Jornada 22,22,03 Mar 20,03,Mar,20,CA Huracán,1,Independiente,0,1-0
+1407,Liga Profesional Argentina 2020,Jornada 22,22,02 Mar 20,02,Mar,20,Vélez Sarsfield,2,Argentinos Juniors,0,2-0
+1408,Liga Profesional Argentina 2020,Jornada 22,22,28 Feb 20,28,Feb,20,Racing Club,1,Newell's Old Boys,1,1-1
+1409,Liga Profesional Argentina 2020,Jornada 22,22,29 Feb 20,29,Feb,20,Gimnasia La Plata,1,Atl.Tucumán,0,1-0
+1410,Liga Profesional Argentina 2020,Jornada 22,22,01 Mar 20,01,Mar,20,Lanús,1,Estudiantes La Plata,1,1-1
+1411,Liga Profesional Argentina 2020,Jornada 22,22,01 Mar 20,01,Mar,20,Aldosivi,1,San Lorenzo,3,1-3
+1412,Liga Profesional Argentina 2020,Jornada 22,22,01 Mar 20,01,Mar,20,Central Córdoba SdE,1,Banfield,1,1-1
+1413,Liga Profesional Argentina 2020,Jornada 22,22,01 Mar 20,01,Mar,20,Rosario Central,3,Arsenal de Sarandí,1,3-1
+1414,Liga Profesional Argentina 2020,Jornada 22,22,29 Feb 20,29,Feb,20,Colón,0,Boca Juniors,4,0-4
+1415,Liga Profesional Argentina 2020,Jornada 22,22,02 Mar 20,02,Mar,20,Patronato,3,Talleres Córdoba,2,3-2
+1416,Liga Profesional Argentina 2020,Jornada 22,22,01 Mar 20,01,Mar,20,Godoy Cruz,1,Unión Santa Fe,3,1-3
+1417,Liga Profesional Argentina 2020,Jornada 23,23,08 Mar 20,08,Mar,20,Boca Juniors,1,Gimnasia La Plata,0,1-0
+1418,Liga Profesional Argentina 2020,Jornada 23,23,08 Mar 20,08,Mar,20,San Lorenzo,4,Lanús,3,4-3
+1419,Liga Profesional Argentina 2020,Jornada 23,23,07 Mar 20,07,Mar,20,Argentinos Juniors,2,Rosario Central,1,2-1
+1420,Liga Profesional Argentina 2020,Jornada 23,23,08 Mar 20,08,Mar,20,Independiente,3,Central Córdoba SdE,0,3-0
+1421,Liga Profesional Argentina 2020,Jornada 23,23,10 Mar 20,10,Mar,20,Estudiantes La Plata,1,Racing Club,2,1-2
+1422,Liga Profesional Argentina 2020,Jornada 23,23,07 Mar 20,07,Mar,20,Banfield,0,CA Huracán,3,0-3
+1423,Liga Profesional Argentina 2020,Jornada 23,23,07 Mar 20,07,Mar,20,Defensa y Justicia,2,Patronato,0,2-0
+1424,Liga Profesional Argentina 2020,Jornada 23,23,06 Mar 20,06,Mar,20,Arsenal de Sarandí,4,Aldosivi,0,4-0
+1425,Liga Profesional Argentina 2020,Jornada 23,23,09 Mar 20,09,Mar,20,Newell's Old Boys,0,Godoy Cruz,2,0-2
+1426,Liga Profesional Argentina 2020,Jornada 23,23,09 Mar 20,09,Mar,20,Unión Santa Fe,0,Vélez Sarsfield,3,0-3
+1427,Liga Profesional Argentina 2020,Jornada 23,23,09 Mar 20,09,Mar,20,Talleres Córdoba,2,Colón,0,2-0
+1428,Liga Profesional Argentina 2020,Jornada 23,23,08 Mar 20,08,Mar,20,Atl.Tucumán,1,River Plate,1,1-1
+1429,Liga Profesional Argentina 2021,Jornada 1,1,17 Jul 21,17,Jul,21,Unión Santa Fe,1,Boca Juniors,1,1-1
+1430,Liga Profesional Argentina 2021,Jornada 1,1,19 Jul 21,19,Jul,21,Central Córdoba SdE,1,Banfield,1,1-1
+1431,Liga Profesional Argentina 2021,Jornada 1,1,18 Jul 21,18,Jul,21,Arsenal de Sarandí,1,San Lorenzo,1,1-1
+1432,Liga Profesional Argentina 2021,Jornada 1,1,17 Jul 21,17,Jul,21,Newell's Old Boys,3,Talleres Córdoba,2,3-2
+1433,Liga Profesional Argentina 2021,Jornada 1,1,19 Jul 21,19,Jul,21,Independiente,0,Argentinos Juniors,0,0-0
+1434,Liga Profesional Argentina 2021,Jornada 1,1,17 Jul 21,17,Jul,21,Sarmiento,0,Estudiantes La Plata,3,0-3
+1435,Liga Profesional Argentina 2021,Jornada 1,1,17 Jul 21,17,Jul,21,Aldosivi,0,Patronato,2,0-2
+1436,Liga Profesional Argentina 2021,Jornada 1,1,17 Jul 21,17,Jul,21,Gimnasia La Plata,2,Platense,2,2-2
+1437,Liga Profesional Argentina 2021,Jornada 1,1,18 Jul 21,18,Jul,21,Vélez Sarsfield,0,Racing Club,0,0-0
+1438,Liga Profesional Argentina 2021,Jornada 1,1,20 Jul 21,20,Jul,21,Godoy Cruz,2,Rosario Central,1,2-1
+1439,Liga Profesional Argentina 2021,Jornada 1,1,18 Jul 21,18,Jul,21,CA Huracán,2,Defensa y Justicia,1,2-1
+1440,Liga Profesional Argentina 2021,Jornada 1,1,17 Jul 21,17,Jul,21,Lanús,4,Atl.Tucumán,2,4-2
+1441,Liga Profesional Argentina 2021,Jornada 1,1,18 Jul 21,18,Jul,21,River Plate,1,Colón,2,1-2
+1442,Liga Profesional Argentina 2021,Jornada 2,2,25 Jul 21,25,Jul,21,River Plate,4,Unión Santa Fe,0,4-0
+1443,Liga Profesional Argentina 2021,Jornada 2,2,24 Jul 21,24,Jul,21,Colón,1,Lanús,4,1-4
+1444,Liga Profesional Argentina 2021,Jornada 2,2,24 Jul 21,24,Jul,21,Atl.Tucumán,1,CA Huracán,0,1-0
+1445,Liga Profesional Argentina 2021,Jornada 2,2,25 Jul 21,25,Jul,21,Defensa y Justicia,1,Godoy Cruz,2,1-2
+1446,Liga Profesional Argentina 2021,Jornada 2,2,25 Jul 21,25,Jul,21,Rosario Central,1,Vélez Sarsfield,0,1-0
+1447,Liga Profesional Argentina 2021,Jornada 2,2,24 Jul 21,24,Jul,21,Racing Club,0,Gimnasia La Plata,0,0-0
+1448,Liga Profesional Argentina 2021,Jornada 2,2,24 Jul 21,24,Jul,21,Platense,0,Aldosivi,1,0-1
+1449,Liga Profesional Argentina 2021,Jornada 2,2,25 Jul 21,25,Jul,21,Patronato,2,Sarmiento,0,2-0
+1450,Liga Profesional Argentina 2021,Jornada 2,2,26 Jul 21,26,Jul,21,Estudiantes La Plata,0,Independiente,1,0-1
+1451,Liga Profesional Argentina 2021,Jornada 2,2,27 Jul 21,27,Jul,21,Argentinos Juniors,1,Newell's Old Boys,0,1-0
+1452,Liga Profesional Argentina 2021,Jornada 2,2,26 Jul 21,26,Jul,21,Talleres Córdoba,2,Arsenal de Sarandí,0,2-0
+1453,Liga Profesional Argentina 2021,Jornada 2,2,24 Jul 21,24,Jul,21,San Lorenzo,1,Central Córdoba SdE,0,1-0
+1454,Liga Profesional Argentina 2021,Jornada 2,2,25 Jul 21,25,Jul,21,Banfield,0,Boca Juniors,0,0-0
+1455,Liga Profesional Argentina 2021,Jornada 3,3,28 Jul 21,28,Jul,21,Unión Santa Fe,0,Banfield,1,0-1
+1456,Liga Profesional Argentina 2021,Jornada 3,3,28 Jul 21,28,Jul,21,Boca Juniors,0,San Lorenzo,2,0-2
+1457,Liga Profesional Argentina 2021,Jornada 3,3,29 Jul 21,29,Jul,21,Central Córdoba SdE,2,Talleres Córdoba,1,2-1
+1458,Liga Profesional Argentina 2021,Jornada 3,3,29 Jul 21,29,Jul,21,Arsenal de Sarandí,1,Argentinos Juniors,0,1-0
+1459,Liga Profesional Argentina 2021,Jornada 3,3,30 Jul 21,30,Jul,21,Newell's Old Boys,4,Estudiantes La Plata,2,4-2
+1460,Liga Profesional Argentina 2021,Jornada 3,3,28 Jul 21,28,Jul,21,Independiente,2,Patronato,0,2-0
+1461,Liga Profesional Argentina 2021,Jornada 3,3,28 Jul 21,28,Jul,21,Sarmiento,1,Platense,0,1-0
+1462,Liga Profesional Argentina 2021,Jornada 3,3,27 Jul 21,27,Jul,21,Aldosivi,0,Racing Club,2,0-2
+1463,Liga Profesional Argentina 2021,Jornada 3,3,29 Jul 21,29,Jul,21,Gimnasia La Plata,1,Rosario Central,0,1-0
+1464,Liga Profesional Argentina 2021,Jornada 3,3,28 Jul 21,28,Jul,21,Vélez Sarsfield,0,Defensa y Justicia,0,0-0
+1465,Liga Profesional Argentina 2021,Jornada 3,3,28 Jul 21,28,Jul,21,Godoy Cruz,1,Atl.Tucumán,2,1-2
+1466,Liga Profesional Argentina 2021,Jornada 3,3,27 Jul 21,27,Jul,21,CA Huracán,1,Colón,1,1-1
+1467,Liga Profesional Argentina 2021,Jornada 3,3,29 Jul 21,29,Jul,21,Lanús,0,River Plate,3,0-3
+1468,Liga Profesional Argentina 2021,Jornada 4,4,31 Jul 21,31,Jul,21,Lanús,1,Unión Santa Fe,1,1-1
+1469,Liga Profesional Argentina 2021,Jornada 4,4,01 Ago 21,01,Ago,21,River Plate,1,CA Huracán,1,1-1
+1470,Liga Profesional Argentina 2021,Jornada 4,4,31 Jul 21,31,Jul,21,Colón,1,Godoy Cruz,0,1-0
+1471,Liga Profesional Argentina 2021,Jornada 4,4,03 Ago 21,03,Ago,21,Atl.Tucumán,0,Vélez Sarsfield,0,0-0
+1472,Liga Profesional Argentina 2021,Jornada 4,4,01 Ago 21,01,Ago,21,Defensa y Justicia,3,Gimnasia La Plata,2,3-2
+1473,Liga Profesional Argentina 2021,Jornada 4,4,03 Ago 21,03,Ago,21,Rosario Central,1,Aldosivi,2,1-2
+1474,Liga Profesional Argentina 2021,Jornada 4,4,31 Jul 21,31,Jul,21,Racing Club,1,Sarmiento,0,1-0
+1475,Liga Profesional Argentina 2021,Jornada 4,4,01 Ago 21,01,Ago,21,Platense,1,Independiente,1,1-1
+1476,Liga Profesional Argentina 2021,Jornada 4,4,02 Ago 21,02,Ago,21,Patronato,0,Newell's Old Boys,0,0-0
+1477,Liga Profesional Argentina 2021,Jornada 4,4,03 Ago 21,03,Ago,21,Estudiantes La Plata,4,Arsenal de Sarandí,0,4-0
+1478,Liga Profesional Argentina 2021,Jornada 4,4,02 Ago 21,02,Ago,21,Argentinos Juniors,1,Central Córdoba SdE,1,1-1
+1479,Liga Profesional Argentina 2021,Jornada 4,4,01 Ago 21,01,Ago,21,Talleres Córdoba,0,Boca Juniors,0,0-0
+1480,Liga Profesional Argentina 2021,Jornada 4,4,02 Ago 21,02,Ago,21,San Lorenzo,1,Banfield,1,1-1
+1481,Liga Profesional Argentina 2021,Jornada 5,5,07 Ago 21,07,Ago,21,Unión Santa Fe,4,San Lorenzo,0,4-0
+1482,Liga Profesional Argentina 2021,Jornada 5,5,07 Ago 21,07,Ago,21,Banfield,0,Talleres Córdoba,1,0-1
+1483,Liga Profesional Argentina 2021,Jornada 5,5,08 Ago 21,08,Ago,21,Boca Juniors,1,Argentinos Juniors,1,1-1
+1484,Liga Profesional Argentina 2021,Jornada 5,5,10 Ago 21,10,Ago,21,Central Córdoba SdE,1,Estudiantes La Plata,2,1-2
+1485,Liga Profesional Argentina 2021,Jornada 5,5,09 Ago 21,09,Ago,21,Arsenal de Sarandí,2,Patronato,2,2-2
+1486,Liga Profesional Argentina 2021,Jornada 5,5,07 Ago 21,07,Ago,21,Newell's Old Boys,1,Platense,0,1-0
+1487,Liga Profesional Argentina 2021,Jornada 5,5,09 Ago 21,09,Ago,21,Independiente,1,Racing Club,0,1-0
+1488,Liga Profesional Argentina 2021,Jornada 5,5,07 Ago 21,07,Ago,21,Sarmiento,1,Rosario Central,0,1-0
+1489,Liga Profesional Argentina 2021,Jornada 5,5,09 Ago 21,09,Ago,21,Aldosivi,1,Defensa y Justicia,0,1-0
+1490,Liga Profesional Argentina 2021,Jornada 5,5,08 Ago 21,08,Ago,21,Gimnasia La Plata,1,Atl.Tucumán,0,1-0
+1491,Liga Profesional Argentina 2021,Jornada 5,5,08 Ago 21,08,Ago,21,Vélez Sarsfield,0,Colón,1,0-1
+1492,Liga Profesional Argentina 2021,Jornada 5,5,08 Ago 21,08,Ago,21,Godoy Cruz,2,River Plate,1,2-1
+1493,Liga Profesional Argentina 2021,Jornada 5,5,07 Ago 21,07,Ago,21,CA Huracán,0,Lanús,1,0-1
+1494,Liga Profesional Argentina 2021,Jornada 6,6,14 Ago 21,14,Ago,21,CA Huracán,0,Unión Santa Fe,0,0-0
+1495,Liga Profesional Argentina 2021,Jornada 6,6,17 Ago 21,17,Ago,21,Lanús,3,Godoy Cruz,1,3-1
+1496,Liga Profesional Argentina 2021,Jornada 6,6,14 Ago 21,14,Ago,21,River Plate,2,Vélez Sarsfield,0,2-0
+1497,Liga Profesional Argentina 2021,Jornada 6,6,14 Ago 21,14,Ago,21,Colón,1,Gimnasia La Plata,0,1-0
+1498,Liga Profesional Argentina 2021,Jornada 6,6,14 Ago 21,14,Ago,21,Atl.Tucumán,2,Aldosivi,2,2-2
+1499,Liga Profesional Argentina 2021,Jornada 6,6,17 Ago 21,17,Ago,21,Defensa y Justicia,4,Sarmiento,2,4-2
+1500,Liga Profesional Argentina 2021,Jornada 6,6,15 Ago 21,15,Ago,21,Rosario Central,1,Independiente,2,1-2
+1501,Liga Profesional Argentina 2021,Jornada 6,6,16 Ago 21,16,Ago,21,Racing Club,2,Newell's Old Boys,0,2-0
+1502,Liga Profesional Argentina 2021,Jornada 6,6,15 Ago 21,15,Ago,21,Platense,2,Arsenal de Sarandí,1,2-1
+1503,Liga Profesional Argentina 2021,Jornada 6,6,15 Ago 21,15,Ago,21,Patronato,1,Central Córdoba SdE,0,1-0
+1504,Liga Profesional Argentina 2021,Jornada 6,6,15 Ago 21,15,Ago,21,Estudiantes La Plata,1,Boca Juniors,0,1-0
+1505,Liga Profesional Argentina 2021,Jornada 6,6,14 Ago 21,14,Ago,21,Argentinos Juniors,2,Banfield,0,2-0
+1506,Liga Profesional Argentina 2021,Jornada 6,6,16 Ago 21,16,Ago,21,Talleres Córdoba,2,San Lorenzo,0,2-0
+1507,Liga Profesional Argentina 2021,Jornada 7,7,22 Ago 21,22,Ago,21,Unión Santa Fe,1,Talleres Córdoba,2,1-2
+1508,Liga Profesional Argentina 2021,Jornada 7,7,22 Ago 21,22,Ago,21,San Lorenzo,0,Argentinos Juniors,1,0-1
+1509,Liga Profesional Argentina 2021,Jornada 7,7,21 Ago 21,21,Ago,21,Banfield,1,Estudiantes La Plata,1,1-1
+1510,Liga Profesional Argentina 2021,Jornada 7,7,22 Ago 21,22,Ago,21,Boca Juniors,1,Patronato,0,1-0
+1511,Liga Profesional Argentina 2021,Jornada 7,7,21 Ago 21,21,Ago,21,Central Córdoba SdE,2,Platense,2,2-2
+1512,Liga Profesional Argentina 2021,Jornada 7,7,21 Ago 21,21,Ago,21,Arsenal de Sarandí,0,Racing Club,3,0-3
+1513,Liga Profesional Argentina 2021,Jornada 7,7,22 Ago 21,22,Ago,21,Newell's Old Boys,1,Rosario Central,1,1-1
+1514,Liga Profesional Argentina 2021,Jornada 7,7,21 Ago 21,21,Ago,21,Independiente,0,Defensa y Justicia,0,0-0
+1515,Liga Profesional Argentina 2021,Jornada 7,7,21 Ago 21,21,Ago,21,Sarmiento,3,Atl.Tucumán,0,3-0
+1516,Liga Profesional Argentina 2021,Jornada 7,7,20 Ago 21,20,Ago,21,Aldosivi,3,Colón,0,3-0
+1517,Liga Profesional Argentina 2021,Jornada 7,7,23 Ago 21,23,Ago,21,Gimnasia La Plata,1,River Plate,1,1-1
+1518,Liga Profesional Argentina 2021,Jornada 7,7,21 Ago 21,21,Ago,21,Vélez Sarsfield,5,Lanús,1,5-1
+1519,Liga Profesional Argentina 2021,Jornada 7,7,21 Ago 21,21,Ago,21,Godoy Cruz,1,CA Huracán,1,1-1
+1520,Liga Profesional Argentina 2021,Jornada 8,8,26 Ago 21,26,Ago,21,Godoy Cruz,1,Unión Santa Fe,2,1-2
+1521,Liga Profesional Argentina 2021,Jornada 8,8,25 Ago 21,25,Ago,21,CA Huracán,1,Vélez Sarsfield,1,1-1
+1522,Liga Profesional Argentina 2021,Jornada 8,8,25 Ago 21,25,Ago,21,Lanús,2,Gimnasia La Plata,0,2-0
+1523,Liga Profesional Argentina 2021,Jornada 8,8,27 Ago 21,27,Ago,21,River Plate,2,Aldosivi,0,2-0
+1524,Liga Profesional Argentina 2021,Jornada 8,8,24 Ago 21,24,Ago,21,Colón,1,Sarmiento,1,1-1
+1525,Liga Profesional Argentina 2021,Jornada 8,8,24 Ago 21,24,Ago,21,Atl.Tucumán,2,Independiente,0,2-0
+1526,Liga Profesional Argentina 2021,Jornada 8,8,25 Ago 21,25,Ago,21,Defensa y Justicia,2,Newell's Old Boys,0,2-0
+1527,Liga Profesional Argentina 2021,Jornada 8,8,25 Ago 21,25,Ago,21,Rosario Central,4,Arsenal de Sarandí,0,4-0
+1528,Liga Profesional Argentina 2021,Jornada 8,8,25 Ago 21,25,Ago,21,Racing Club,0,Central Córdoba SdE,0,0-0
+1529,Liga Profesional Argentina 2021,Jornada 8,8,26 Ago 21,26,Ago,21,Platense,1,Boca Juniors,3,1-3
+1530,Liga Profesional Argentina 2021,Jornada 8,8,24 Ago 21,24,Ago,21,Patronato,1,Banfield,1,1-1
+1531,Liga Profesional Argentina 2021,Jornada 8,8,26 Ago 21,26,Ago,21,Estudiantes La Plata,2,San Lorenzo,0,2-0
+1532,Liga Profesional Argentina 2021,Jornada 8,8,26 Ago 21,26,Ago,21,Argentinos Juniors,1,Talleres Córdoba,2,1-2
+1533,Liga Profesional Argentina 2021,Jornada 9,9,30 Ago 21,30,Ago,21,Unión Santa Fe,1,Argentinos Juniors,0,1-0
+1534,Liga Profesional Argentina 2021,Jornada 9,9,31 Ago 21,31,Ago,21,Talleres Córdoba,2,Estudiantes La Plata,0,2-0
+1535,Liga Profesional Argentina 2021,Jornada 9,9,30 Ago 21,30,Ago,21,San Lorenzo,3,Patronato,0,3-0
+1536,Liga Profesional Argentina 2021,Jornada 9,9,28 Ago 21,28,Ago,21,Banfield,2,Platense,4,2-4
+1537,Liga Profesional Argentina 2021,Jornada 9,9,30 Ago 21,30,Ago,21,Boca Juniors,0,Racing Club,0,0-0
+1538,Liga Profesional Argentina 2021,Jornada 9,9,29 Ago 21,29,Ago,21,Central Córdoba SdE,2,Rosario Central,4,2-4
+1539,Liga Profesional Argentina 2021,Jornada 9,9,29 Ago 21,29,Ago,21,Arsenal de Sarandí,0,Defensa y Justicia,0,0-0
+1540,Liga Profesional Argentina 2021,Jornada 9,9,30 Ago 21,30,Ago,21,Newell's Old Boys,1,Atl.Tucumán,2,1-2
+1541,Liga Profesional Argentina 2021,Jornada 9,9,29 Ago 21,29,Ago,21,Independiente,3,Colón,0,3-0
+1542,Liga Profesional Argentina 2021,Jornada 9,9,31 Ago 21,31,Ago,21,Sarmiento,1,River Plate,2,1-2
+1543,Liga Profesional Argentina 2021,Jornada 9,9,29 Ago 21,29,Ago,21,Aldosivi,2,Lanús,3,2-3
+1544,Liga Profesional Argentina 2021,Jornada 9,9,28 Ago 21,28,Ago,21,Gimnasia La Plata,0,CA Huracán,0,0-0
+1545,Liga Profesional Argentina 2021,Jornada 9,9,29 Ago 21,29,Ago,21,Vélez Sarsfield,3,Godoy Cruz,0,3-0
+1546,Liga Profesional Argentina 2021,Jornada 10,10,07 Sep 21,07,Sep,21,Vélez Sarsfield,4,Unión Santa Fe,0,4-0
+1547,Liga Profesional Argentina 2021,Jornada 10,10,05 Sep 21,05,Sep,21,Godoy Cruz,4,Gimnasia La Plata,0,4-0
+1548,Liga Profesional Argentina 2021,Jornada 10,10,04 Sep 21,04,Sep,21,CA Huracán,2,Aldosivi,0,2-0
+1549,Liga Profesional Argentina 2021,Jornada 10,10,04 Sep 21,04,Sep,21,Lanús,1,Sarmiento,1,1-1
+1550,Liga Profesional Argentina 2021,Jornada 10,10,06 Sep 21,06,Sep,21,River Plate,1,Independiente,1,1-1
+1551,Liga Profesional Argentina 2021,Jornada 10,10,04 Sep 21,04,Sep,21,Colón,1,Newell's Old Boys,1,1-1
+1552,Liga Profesional Argentina 2021,Jornada 10,10,04 Sep 21,04,Sep,21,Atl.Tucumán,0,Arsenal de Sarandí,0,0-0
+1553,Liga Profesional Argentina 2021,Jornada 10,10,04 Sep 21,04,Sep,21,Defensa y Justicia,1,Central Córdoba SdE,1,1-1
+1554,Liga Profesional Argentina 2021,Jornada 10,10,05 Sep 21,05,Sep,21,Rosario Central,1,Boca Juniors,2,1-2
+1555,Liga Profesional Argentina 2021,Jornada 10,10,06 Sep 21,06,Sep,21,Racing Club,0,Banfield,0,0-0
+1556,Liga Profesional Argentina 2021,Jornada 10,10,04 Sep 21,04,Sep,21,Platense,1,San Lorenzo,1,1-1
+1557,Liga Profesional Argentina 2021,Jornada 10,10,05 Sep 21,05,Sep,21,Patronato,0,Talleres Córdoba,0,0-0
+1558,Liga Profesional Argentina 2021,Jornada 10,10,06 Sep 21,06,Sep,21,Estudiantes La Plata,1,Argentinos Juniors,1,1-1
+1559,Liga Profesional Argentina 2021,Jornada 11,11,15 Sep 21,15,Sep,21,Unión Santa Fe,0,Estudiantes La Plata,2,0-2
+1560,Liga Profesional Argentina 2021,Jornada 11,11,15 Sep 21,15,Sep,21,Argentinos Juniors,1,Patronato,1,1-1
+1561,Liga Profesional Argentina 2021,Jornada 11,11,14 Sep 21,14,Sep,21,Talleres Córdoba,2,Platense,1,2-1
+1562,Liga Profesional Argentina 2021,Jornada 11,11,13 Sep 21,13,Sep,21,San Lorenzo,1,Racing Club,1,1-1
+1563,Liga Profesional Argentina 2021,Jornada 11,11,15 Sep 21,15,Sep,21,Banfield,1,Rosario Central,2,1-2
+1564,Liga Profesional Argentina 2021,Jornada 11,11,15 Sep 21,15,Sep,21,Boca Juniors,0,Defensa y Justicia,0,0-0
+1565,Liga Profesional Argentina 2021,Jornada 11,11,14 Sep 21,14,Sep,21,Central Córdoba SdE,2,Atl.Tucumán,0,2-0
+1566,Liga Profesional Argentina 2021,Jornada 11,11,14 Sep 21,14,Sep,21,Arsenal de Sarandí,0,Colón,0,0-0
+1567,Liga Profesional Argentina 2021,Jornada 11,11,16 Sep 21,16,Sep,21,Newell's Old Boys,1,River Plate,4,1-4
+1568,Liga Profesional Argentina 2021,Jornada 11,11,13 Sep 21,13,Sep,21,Independiente,0,Lanús,1,0-1
+1569,Liga Profesional Argentina 2021,Jornada 11,11,13 Sep 21,13,Sep,21,Sarmiento,0,CA Huracán,0,0-0
+1570,Liga Profesional Argentina 2021,Jornada 11,11,13 Sep 21,13,Sep,21,Aldosivi,1,Godoy Cruz,4,1-4
+1571,Liga Profesional Argentina 2021,Jornada 11,11,14 Sep 21,14,Sep,21,Gimnasia La Plata,0,Vélez Sarsfield,0,0-0
+1572,Liga Profesional Argentina 2021,Jornada 12,12,20 Sep 21,20,Sep,21,Gimnasia La Plata,1,Unión Santa Fe,0,1-0
+1573,Liga Profesional Argentina 2021,Jornada 12,12,18 Sep 21,18,Sep,21,Vélez Sarsfield,3,Aldosivi,2,3-2
+1574,Liga Profesional Argentina 2021,Jornada 12,12,18 Sep 21,18,Sep,21,Godoy Cruz,1,Sarmiento,1,1-1
+1575,Liga Profesional Argentina 2021,Jornada 12,12,19 Sep 21,19,Sep,21,CA Huracán,0,Independiente,1,0-1
+1576,Liga Profesional Argentina 2021,Jornada 12,12,20 Sep 21,20,Sep,21,Lanús,1,Newell's Old Boys,2,1-2
+1577,Liga Profesional Argentina 2021,Jornada 12,12,20 Sep 21,20,Sep,21,River Plate,1,Arsenal de Sarandí,0,1-0
+1578,Liga Profesional Argentina 2021,Jornada 12,12,19 Sep 21,19,Sep,21,Colón,1,Central Córdoba SdE,0,1-0
+1579,Liga Profesional Argentina 2021,Jornada 12,12,19 Sep 21,19,Sep,21,Atl.Tucumán,1,Boca Juniors,2,1-2
+1580,Liga Profesional Argentina 2021,Jornada 12,12,21 Sep 21,21,Sep,21,Defensa y Justicia,0,Banfield,0,0-0
+1581,Liga Profesional Argentina 2021,Jornada 12,12,20 Sep 21,20,Sep,21,Rosario Central,1,San Lorenzo,0,1-0
+1582,Liga Profesional Argentina 2021,Jornada 12,12,18 Sep 21,18,Sep,21,Racing Club,1,Talleres Córdoba,2,1-2
+1583,Liga Profesional Argentina 2021,Jornada 12,12,19 Sep 21,19,Sep,21,Platense,0,Argentinos Juniors,0,0-0
+1584,Liga Profesional Argentina 2021,Jornada 12,12,19 Sep 21,19,Sep,21,Patronato,1,Estudiantes La Plata,2,1-2
+1585,Liga Profesional Argentina 2021,Jornada 13,13,26 Sep 21,26,Sep,21,Unión Santa Fe,2,Patronato,0,2-0
+1586,Liga Profesional Argentina 2021,Jornada 13,13,25 Sep 21,25,Sep,21,Estudiantes La Plata,1,Platense,1,1-1
+1587,Liga Profesional Argentina 2021,Jornada 13,13,27 Sep 21,27,Sep,21,Argentinos Juniors,2,Racing Club,0,2-0
+1588,Liga Profesional Argentina 2021,Jornada 13,13,25 Sep 21,25,Sep,21,Talleres Córdoba,4,Rosario Central,1,4-1
+1589,Liga Profesional Argentina 2021,Jornada 13,13,26 Sep 21,26,Sep,21,San Lorenzo,2,Defensa y Justicia,1,2-1
+1590,Liga Profesional Argentina 2021,Jornada 13,13,25 Sep 21,25,Sep,21,Banfield,2,Atl.Tucumán,0,2-0
+1591,Liga Profesional Argentina 2021,Jornada 13,13,27 Sep 21,27,Sep,21,Boca Juniors,1,Colón,0,1-0
+1592,Liga Profesional Argentina 2021,Jornada 13,13,26 Sep 21,26,Sep,21,Central Córdoba SdE,1,River Plate,3,1-3
+1593,Liga Profesional Argentina 2021,Jornada 13,13,25 Sep 21,25,Sep,21,Arsenal de Sarandí,1,Lanús,0,1-0
+1594,Liga Profesional Argentina 2021,Jornada 13,13,28 Sep 21,28,Sep,21,Newell's Old Boys,0,CA Huracán,1,0-1
+1595,Liga Profesional Argentina 2021,Jornada 13,13,26 Sep 21,26,Sep,21,Independiente,1,Godoy Cruz,4,1-4
+1596,Liga Profesional Argentina 2021,Jornada 13,13,25 Sep 21,25,Sep,21,Sarmiento,0,Vélez Sarsfield,1,0-1
+1597,Liga Profesional Argentina 2021,Jornada 13,13,25 Sep 21,25,Sep,21,Aldosivi,1,Gimnasia La Plata,3,1-3
+1598,Liga Profesional Argentina 2021,Jornada 14,14,02 Oct 21,02,Oct,21,Aldosivi,1,Unión Santa Fe,2,1-2
+1599,Liga Profesional Argentina 2021,Jornada 14,14,03 Oct 21,03,Oct,21,Gimnasia La Plata,0,Sarmiento,1,0-1
+1600,Liga Profesional Argentina 2021,Jornada 14,14,03 Oct 21,03,Oct,21,Vélez Sarsfield,3,Independiente,3,3-3
+1601,Liga Profesional Argentina 2021,Jornada 14,14,02 Oct 21,02,Oct,21,Godoy Cruz,2,Newell's Old Boys,2,2-2
+1602,Liga Profesional Argentina 2021,Jornada 14,14,02 Oct 21,02,Oct,21,CA Huracán,1,Arsenal de Sarandí,0,1-0
+1603,Liga Profesional Argentina 2021,Jornada 14,14,02 Oct 21,02,Oct,21,Lanús,2,Central Córdoba SdE,1,2-1
+1604,Liga Profesional Argentina 2021,Jornada 14,14,03 Oct 21,03,Oct,21,River Plate,2,Boca Juniors,1,2-1
+1605,Liga Profesional Argentina 2021,Jornada 14,14,05 Oct 21,05,Oct,21,Colón,0,Banfield,0,0-0
+1606,Liga Profesional Argentina 2021,Jornada 14,14,02 Oct 21,02,Oct,21,Atl.Tucumán,0,San Lorenzo,0,0-0
+1607,Liga Profesional Argentina 2021,Jornada 14,14,04 Oct 21,04,Oct,21,Defensa y Justicia,3,Talleres Córdoba,0,3-0
+1608,Liga Profesional Argentina 2021,Jornada 14,14,03 Oct 21,03,Oct,21,Rosario Central,0,Argentinos Juniors,1,0-1
+1609,Liga Profesional Argentina 2021,Jornada 14,14,04 Oct 21,04,Oct,21,Racing Club,1,Estudiantes La Plata,1,1-1
+1610,Liga Profesional Argentina 2021,Jornada 14,14,02 Oct 21,02,Oct,21,Platense,0,Patronato,0,0-0
+1611,Liga Profesional Argentina 2021,Jornada 15,15,08 Oct 21,08,Oct,21,Unión Santa Fe,1,Platense,2,1-2
+1612,Liga Profesional Argentina 2021,Jornada 15,15,09 Oct 21,09,Oct,21,Patronato,1,Racing Club,2,1-2
+1613,Liga Profesional Argentina 2021,Jornada 15,15,09 Oct 21,09,Oct,21,Estudiantes La Plata,2,Rosario Central,2,2-2
+1614,Liga Profesional Argentina 2021,Jornada 15,15,09 Oct 21,09,Oct,21,Argentinos Juniors,0,Defensa y Justicia,2,0-2
+1615,Liga Profesional Argentina 2021,Jornada 15,15,12 Oct 21,12,Oct,21,Talleres Córdoba,2,Atl.Tucumán,0,2-0
+1616,Liga Profesional Argentina 2021,Jornada 15,15,11 Oct 21,11,Oct,21,San Lorenzo,1,Colón,2,1-2
+1617,Liga Profesional Argentina 2021,Jornada 15,15,09 Oct 21,09,Oct,21,Banfield,0,River Plate,1,0-1
+1618,Liga Profesional Argentina 2021,Jornada 15,15,10 Oct 21,10,Oct,21,Boca Juniors,4,Lanús,2,4-2
+1619,Liga Profesional Argentina 2021,Jornada 15,15,08 Oct 21,08,Oct,21,Central Córdoba SdE,1,CA Huracán,2,1-2
+1620,Liga Profesional Argentina 2021,Jornada 15,15,11 Oct 21,11,Oct,21,Arsenal de Sarandí,0,Godoy Cruz,0,0-0
+1621,Liga Profesional Argentina 2021,Jornada 15,15,09 Oct 21,09,Oct,21,Newell's Old Boys,1,Vélez Sarsfield,2,1-2
+1622,Liga Profesional Argentina 2021,Jornada 15,15,12 Oct 21,12,Oct,21,Independiente,1,Gimnasia La Plata,1,1-1
+1623,Liga Profesional Argentina 2021,Jornada 15,15,09 Oct 21,09,Oct,21,Sarmiento,3,Aldosivi,0,3-0
+1624,Liga Profesional Argentina 2021,Jornada 16,16,16 Oct 21,16,Oct,21,Sarmiento,3,Unión Santa Fe,4,3-4
+1625,Liga Profesional Argentina 2021,Jornada 16,16,17 Oct 21,17,Oct,21,Aldosivi,1,Independiente,0,1-0
+1626,Liga Profesional Argentina 2021,Jornada 16,16,16 Oct 21,16,Oct,21,Gimnasia La Plata,1,Newell's Old Boys,0,1-0
+1627,Liga Profesional Argentina 2021,Jornada 16,16,16 Oct 21,16,Oct,21,Vélez Sarsfield,0,Arsenal de Sarandí,0,0-0
+1628,Liga Profesional Argentina 2021,Jornada 16,16,15 Oct 21,15,Oct,21,Godoy Cruz,0,Central Córdoba SdE,0,0-0
+1629,Liga Profesional Argentina 2021,Jornada 16,16,17 Oct 21,17,Oct,21,CA Huracán,0,Boca Juniors,3,0-3
+1630,Liga Profesional Argentina 2021,Jornada 16,16,16 Oct 21,16,Oct,21,Lanús,1,Banfield,1,1-1
+1631,Liga Profesional Argentina 2021,Jornada 16,16,18 Oct 21,18,Oct,21,River Plate,3,San Lorenzo,1,3-1
+1632,Liga Profesional Argentina 2021,Jornada 16,16,17 Oct 21,17,Oct,21,Colón,1,Talleres Córdoba,0,1-0
+1633,Liga Profesional Argentina 2021,Jornada 16,16,17 Oct 21,17,Oct,21,Atl.Tucumán,4,Argentinos Juniors,3,4-3
+1634,Liga Profesional Argentina 2021,Jornada 16,16,16 Oct 21,16,Oct,21,Defensa y Justicia,2,Estudiantes La Plata,1,2-1
+1635,Liga Profesional Argentina 2021,Jornada 16,16,15 Oct 21,15,Oct,21,Rosario Central,3,Patronato,2,3-2
+1636,Liga Profesional Argentina 2021,Jornada 16,16,16 Oct 21,16,Oct,21,Racing Club,0,Platense,1,0-1
+1637,Liga Profesional Argentina 2021,Jornada 17,17,19 Oct 21,19,Oct,21,Unión Santa Fe,1,Racing Club,1,1-1
+1638,Liga Profesional Argentina 2021,Jornada 17,17,19 Oct 21,19,Oct,21,Platense,1,Rosario Central,1,1-1
+1639,Liga Profesional Argentina 2021,Jornada 17,17,20 Oct 21,20,Oct,21,Patronato,3,Defensa y Justicia,3,3-3
+1640,Liga Profesional Argentina 2021,Jornada 17,17,21 Oct 21,21,Oct,21,Estudiantes La Plata,1,Atl.Tucumán,1,1-1
+1641,Liga Profesional Argentina 2021,Jornada 17,17,21 Oct 21,21,Oct,21,Argentinos Juniors,3,Colón,1,3-1
+1642,Liga Profesional Argentina 2021,Jornada 17,17,22 Oct 21,22,Oct,21,Talleres Córdoba,0,River Plate,2,0-2
+1643,Liga Profesional Argentina 2021,Jornada 17,17,20 Oct 21,20,Oct,21,San Lorenzo,1,Lanús,3,1-3
+1644,Liga Profesional Argentina 2021,Jornada 17,17,21 Oct 21,21,Oct,21,Banfield,1,CA Huracán,4,1-4
+1645,Liga Profesional Argentina 2021,Jornada 17,17,21 Oct 21,21,Oct,21,Boca Juniors,2,Godoy Cruz,1,2-1
+1646,Liga Profesional Argentina 2021,Jornada 17,17,20 Oct 21,20,Oct,21,Central Córdoba SdE,1,Vélez Sarsfield,2,1-2
+1647,Liga Profesional Argentina 2021,Jornada 17,17,20 Oct 21,20,Oct,21,Arsenal de Sarandí,0,Gimnasia La Plata,1,0-1
+1648,Liga Profesional Argentina 2021,Jornada 17,17,21 Oct 21,21,Oct,21,Newell's Old Boys,0,Aldosivi,0,0-0
+1649,Liga Profesional Argentina 2021,Jornada 17,17,22 Oct 21,22,Oct,21,Independiente,1,Sarmiento,1,1-1
+1650,Liga Profesional Argentina 2021,Jornada 18,18,26 Oct 21,26,Oct,21,Independiente,1,Unión Santa Fe,0,1-0
+1651,Liga Profesional Argentina 2021,Jornada 18,18,25 Oct 21,25,Oct,21,Sarmiento,2,Newell's Old Boys,1,2-1
+1652,Liga Profesional Argentina 2021,Jornada 18,18,25 Oct 21,25,Oct,21,Aldosivi,2,Arsenal de Sarandí,1,2-1
+1653,Liga Profesional Argentina 2021,Jornada 18,18,23 Oct 21,23,Oct,21,Gimnasia La Plata,2,Central Córdoba SdE,2,2-2
+1654,Liga Profesional Argentina 2021,Jornada 18,18,25 Oct 21,25,Oct,21,Vélez Sarsfield,2,Boca Juniors,0,2-0
+1655,Liga Profesional Argentina 2021,Jornada 18,18,24 Oct 21,24,Oct,21,Godoy Cruz,2,Banfield,1,2-1
+1656,Liga Profesional Argentina 2021,Jornada 18,18,24 Oct 21,24,Oct,21,CA Huracán,2,San Lorenzo,1,2-1
+1657,Liga Profesional Argentina 2021,Jornada 18,18,25 Oct 21,25,Oct,21,Lanús,3,Talleres Córdoba,3,3-3
+1658,Liga Profesional Argentina 2021,Jornada 18,18,26 Oct 21,26,Oct,21,River Plate,3,Argentinos Juniors,0,3-0
+1659,Liga Profesional Argentina 2021,Jornada 18,18,24 Oct 21,24,Oct,21,Colón,2,Estudiantes La Plata,1,2-1
+1660,Liga Profesional Argentina 2021,Jornada 18,18,25 Oct 21,25,Oct,21,Atl.Tucumán,2,Patronato,2,2-2
+1661,Liga Profesional Argentina 2021,Jornada 18,18,23 Oct 21,23,Oct,21,Defensa y Justicia,2,Platense,1,2-1
+1662,Liga Profesional Argentina 2021,Jornada 18,18,24 Oct 21,24,Oct,21,Rosario Central,2,Racing Club,1,2-1
+1663,Liga Profesional Argentina 2021,Jornada 19,19,31 Oct 21,31,Oct,21,Unión Santa Fe,3,Rosario Central,1,3-1
+1664,Liga Profesional Argentina 2021,Jornada 19,19,30 Oct 21,30,Oct,21,Racing Club,1,Defensa y Justicia,2,1-2
+1665,Liga Profesional Argentina 2021,Jornada 19,19,30 Oct 21,30,Oct,21,Platense,4,Atl.Tucumán,1,4-1
+1666,Liga Profesional Argentina 2021,Jornada 19,19,01 Nov 21,01,Nov,21,Patronato,2,Colón,0,2-0
+1667,Liga Profesional Argentina 2021,Jornada 19,19,01 Nov 21,01,Nov,21,Estudiantes La Plata,1,River Plate,1,1-1
+1668,Liga Profesional Argentina 2021,Jornada 19,19,30 Oct 21,30,Oct,21,Argentinos Juniors,0,Lanús,1,0-1
+1669,Liga Profesional Argentina 2021,Jornada 19,19,30 Oct 21,30,Oct,21,Talleres Córdoba,1,CA Huracán,0,1-0
+1670,Liga Profesional Argentina 2021,Jornada 19,19,31 Oct 21,31,Oct,21,San Lorenzo,1,Godoy Cruz,0,1-0
+1671,Liga Profesional Argentina 2021,Jornada 19,19,30 Oct 21,30,Oct,21,Banfield,2,Vélez Sarsfield,1,2-1
+1672,Liga Profesional Argentina 2021,Jornada 19,19,31 Oct 21,31,Oct,21,Boca Juniors,0,Gimnasia La Plata,1,0-1
+1673,Liga Profesional Argentina 2021,Jornada 19,19,02 Nov 21,02,Nov,21,Central Córdoba SdE,0,Aldosivi,0,0-0
+1674,Liga Profesional Argentina 2021,Jornada 19,19,30 Oct 21,30,Oct,21,Arsenal de Sarandí,1,Sarmiento,0,1-0
+1675,Liga Profesional Argentina 2021,Jornada 19,19,31 Oct 21,31,Oct,21,Newell's Old Boys,1,Independiente,0,1-0
+1676,Liga Profesional Argentina 2021,Jornada 20,20,08 Nov 21,08,Nov,21,Newell's Old Boys,1,Unión Santa Fe,0,1-0
+1677,Liga Profesional Argentina 2021,Jornada 20,20,06 Nov 21,06,Nov,21,Independiente,3,Arsenal de Sarandí,0,3-0
+1678,Liga Profesional Argentina 2021,Jornada 20,20,07 Nov 21,07,Nov,21,Sarmiento,1,Central Córdoba SdE,3,1-3
+1679,Liga Profesional Argentina 2021,Jornada 20,20,09 Nov 21,09,Nov,21,Aldosivi,0,Boca Juniors,3,0-3
+1680,Liga Profesional Argentina 2021,Jornada 20,20,07 Nov 21,07,Nov,21,Gimnasia La Plata,0,Banfield,1,0-1
+1681,Liga Profesional Argentina 2021,Jornada 20,20,07 Nov 21,07,Nov,21,Vélez Sarsfield,2,San Lorenzo,1,2-1
+1682,Liga Profesional Argentina 2021,Jornada 20,20,06 Nov 21,06,Nov,21,Godoy Cruz,0,Talleres Córdoba,2,0-2
+1683,Liga Profesional Argentina 2021,Jornada 20,20,08 Nov 21,08,Nov,21,CA Huracán,1,Argentinos Juniors,1,1-1
+1684,Liga Profesional Argentina 2021,Jornada 20,20,06 Nov 21,06,Nov,21,Lanús,1,Estudiantes La Plata,1,1-1
+1685,Liga Profesional Argentina 2021,Jornada 20,20,08 Nov 21,08,Nov,21,River Plate,5,Patronato,0,5-0
+1686,Liga Profesional Argentina 2021,Jornada 20,20,06 Nov 21,06,Nov,21,Colón,3,Platense,0,3-0
+1687,Liga Profesional Argentina 2021,Jornada 20,20,07 Nov 21,07,Nov,21,Atl.Tucumán,0,Racing Club,2,0-2
+1688,Liga Profesional Argentina 2021,Jornada 20,20,05 Nov 21,05,Nov,21,Defensa y Justicia,3,Rosario Central,0,3-0
+1689,Liga Profesional Argentina 2021,Jornada 21,21,18 Nov 21,18,Nov,21,Unión Santa Fe,2,Defensa y Justicia,3,2-3
+1690,Liga Profesional Argentina 2021,Jornada 21,21,20 Nov 21,20,Nov,21,Rosario Central,3,Atl.Tucumán,1,3-1
+1691,Liga Profesional Argentina 2021,Jornada 21,21,21 Nov 21,21,Nov,21,Racing Club,1,Colón,2,1-2
+1692,Liga Profesional Argentina 2021,Jornada 21,21,22 Nov 21,22,Nov,21,Platense,0,River Plate,1,0-1
+1693,Liga Profesional Argentina 2021,Jornada 21,21,18 Nov 21,18,Nov,21,Patronato,3,Lanús,2,3-2
+1694,Liga Profesional Argentina 2021,Jornada 21,21,19 Nov 21,19,Nov,21,Estudiantes La Plata,4,CA Huracán,1,4-1
+1695,Liga Profesional Argentina 2021,Jornada 21,21,20 Nov 21,20,Nov,21,Argentinos Juniors,0,Godoy Cruz,0,0-0
+1696,Liga Profesional Argentina 2021,Jornada 21,21,20 Nov 21,20,Nov,21,Talleres Córdoba,1,Vélez Sarsfield,1,1-1
+1697,Liga Profesional Argentina 2021,Jornada 21,21,19 Nov 21,19,Nov,21,San Lorenzo,0,Gimnasia La Plata,1,0-1
+1698,Liga Profesional Argentina 2021,Jornada 21,21,19 Nov 21,19,Nov,21,Banfield,0,Aldosivi,2,0-2
+1699,Liga Profesional Argentina 2021,Jornada 21,21,20 Nov 21,20,Nov,21,Boca Juniors,2,Sarmiento,0,2-0
+1700,Liga Profesional Argentina 2021,Jornada 21,21,21 Nov 21,21,Nov,21,Central Córdoba SdE,1,Independiente,0,1-0
+1701,Liga Profesional Argentina 2021,Jornada 21,21,21 Nov 21,21,Nov,21,Arsenal de Sarandí,3,Newell's Old Boys,1,3-1
+1702,Liga Profesional Argentina 2021,Jornada 22,22,25 Nov 21,25,Nov,21,Arsenal de Sarandí,0,Unión Santa Fe,1,0-1
+1703,Liga Profesional Argentina 2021,Jornada 22,22,24 Nov 21,24,Nov,21,Newell's Old Boys,1,Central Córdoba SdE,0,1-0
+1704,Liga Profesional Argentina 2021,Jornada 22,22,25 Nov 21,25,Nov,21,Independiente,1,Boca Juniors,0,1-0
+1705,Liga Profesional Argentina 2021,Jornada 22,22,24 Nov 21,24,Nov,21,Sarmiento,0,Banfield,0,0-0
+1706,Liga Profesional Argentina 2021,Jornada 22,22,23 Nov 21,23,Nov,21,Aldosivi,2,San Lorenzo,0,2-0
+1707,Liga Profesional Argentina 2021,Jornada 22,22,23 Nov 21,23,Nov,21,Gimnasia La Plata,5,Talleres Córdoba,2,5-2
+1708,Liga Profesional Argentina 2021,Jornada 22,22,24 Nov 21,24,Nov,21,Vélez Sarsfield,2,Argentinos Juniors,0,2-0
+1709,Liga Profesional Argentina 2021,Jornada 22,22,24 Nov 21,24,Nov,21,Godoy Cruz,1,Estudiantes La Plata,3,1-3
+1710,Liga Profesional Argentina 2021,Jornada 22,22,23 Nov 21,23,Nov,21,CA Huracán,1,Patronato,0,1-0
+1711,Liga Profesional Argentina 2021,Jornada 22,22,25 Nov 21,25,Nov,21,Lanús,3,Platense,3,3-3
+1712,Liga Profesional Argentina 2021,Jornada 22,22,26 Nov 21,26,Nov,21,River Plate,4,Racing Club,0,4-0
+1713,Liga Profesional Argentina 2021,Jornada 22,22,25 Nov 21,25,Nov,21,Colón,1,Rosario Central,4,1-4
+1714,Liga Profesional Argentina 2021,Jornada 22,22,24 Nov 21,24,Nov,21,Atl.Tucumán,0,Defensa y Justicia,4,0-4
+1715,Liga Profesional Argentina 2021,Jornada 23,23,29 Nov 21,29,Nov,21,Unión Santa Fe,3,Atl.Tucumán,0,3-0
+1716,Liga Profesional Argentina 2021,Jornada 23,23,28 Nov 21,28,Nov,21,Defensa y Justicia,1,Colón,1,1-1
+1717,Liga Profesional Argentina 2021,Jornada 23,23,28 Nov 21,28,Nov,21,Rosario Central,2,River Plate,2,2-2
+1718,Liga Profesional Argentina 2021,Jornada 23,23,29 Nov 21,29,Nov,21,Racing Club,3,Lanús,1,3-1
+1719,Liga Profesional Argentina 2021,Jornada 23,23,30 Nov 21,30,Nov,21,Platense,4,CA Huracán,2,4-2
+1720,Liga Profesional Argentina 2021,Jornada 23,23,27 Nov 21,27,Nov,21,Patronato,0,Godoy Cruz,3,0-3
+1721,Liga Profesional Argentina 2021,Jornada 23,23,28 Nov 21,28,Nov,21,Estudiantes La Plata,1,Vélez Sarsfield,0,1-0
+1722,Liga Profesional Argentina 2021,Jornada 23,23,28 Nov 21,28,Nov,21,Argentinos Juniors,3,Gimnasia La Plata,0,3-0
+1723,Liga Profesional Argentina 2021,Jornada 23,23,27 Nov 21,27,Nov,21,Talleres Córdoba,2,Aldosivi,0,2-0
+1724,Liga Profesional Argentina 2021,Jornada 23,23,30 Nov 21,30,Nov,21,San Lorenzo,1,Sarmiento,0,1-0
+1725,Liga Profesional Argentina 2021,Jornada 23,23,01 Dic 21,01,Dic,21,Banfield,4,Independiente,1,4-1
+1726,Liga Profesional Argentina 2021,Jornada 23,23,30 Nov 21,30,Nov,21,Boca Juniors,0,Newell's Old Boys,0,0-0
+1727,Liga Profesional Argentina 2021,Jornada 23,23,30 Nov 21,30,Nov,21,Central Córdoba SdE,5,Arsenal de Sarandí,0,5-0
+1728,Liga Profesional Argentina 2021,Jornada 24,24,03 Dic 21,03,Dic,21,Central Córdoba SdE,2,Unión Santa Fe,0,2-0
+1729,Liga Profesional Argentina 2021,Jornada 24,24,04 Dic 21,04,Dic,21,Arsenal de Sarandí,1,Boca Juniors,1,1-1
+1730,Liga Profesional Argentina 2021,Jornada 24,24,07 Dic 21,07,Dic,21,Newell's Old Boys,-,Banfield,-,---
+1731,Liga Profesional Argentina 2021,Jornada 24,24,05 Dic 21,05,Dic,21,Independiente,-,San Lorenzo,-,---
+1732,Liga Profesional Argentina 2021,Jornada 24,24,04 Dic 21,04,Dic,21,Sarmiento,1,Talleres Córdoba,2,1-2
+1733,Liga Profesional Argentina 2021,Jornada 24,24,06 Dic 21,06,Dic,21,Aldosivi,-,Argentinos Juniors,-,---
+1734,Liga Profesional Argentina 2021,Jornada 24,24,05 Dic 21,05,Dic,21,Gimnasia La Plata,-,Estudiantes La Plata,-,---
+1735,Liga Profesional Argentina 2021,Jornada 24,24,04 Dic 21,04,Dic,21,Vélez Sarsfield,0,Patronato,0,0-0
+1736,Liga Profesional Argentina 2021,Jornada 24,24,04 Dic 21,04,Dic,21,Godoy Cruz,2,Platense,2,2-2
+1737,Liga Profesional Argentina 2021,Jornada 24,24,05 Dic 21,05,Dic,21,CA Huracán,-,Racing Club,-,---
+1738,Liga Profesional Argentina 2021,Jornada 24,24,05 Dic 21,05,Dic,21,Lanús,-,Rosario Central,-,---
+1739,Liga Profesional Argentina 2021,Jornada 24,24,06 Dic 21,06,Dic,21,River Plate,-,Defensa y Justicia,-,---
+1740,Liga Profesional Argentina 2021,Jornada 24,24,03 Dic 21,03,Dic,21,Colón,3,Atl.Tucumán,0,3-0
+1741,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Unión Santa Fe,-,Colón,-,---
+1742,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Atl.Tucumán,-,River Plate,-,---
+1743,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Defensa y Justicia,-,Lanús,-,---
+1744,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Rosario Central,-,CA Huracán,-,---
+1745,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Racing Club,-,Godoy Cruz,-,---
+1746,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Platense,-,Vélez Sarsfield,-,---
+1747,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Patronato,-,Gimnasia La Plata,-,---
+1748,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Estudiantes La Plata,-,Aldosivi,-,---
+1749,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Argentinos Juniors,-,Sarmiento,-,---
+1750,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Talleres Córdoba,-,Independiente,-,---
+1751,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,San Lorenzo,-,Newell's Old Boys,-,---
+1752,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Banfield,-,Arsenal de Sarandí,-,---
+1753,Liga Profesional Argentina 2021,Jornada 25,25,12 Dic 21,12,Dic,21,Boca Juniors,-,Central Córdoba SdE,-,---
